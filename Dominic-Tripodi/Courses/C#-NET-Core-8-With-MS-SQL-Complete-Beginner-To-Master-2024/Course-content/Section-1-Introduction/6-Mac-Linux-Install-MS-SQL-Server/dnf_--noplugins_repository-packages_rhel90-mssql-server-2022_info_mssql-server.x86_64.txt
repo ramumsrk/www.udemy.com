@@ -1,0 +1,13 @@
+Last metadata expiration check: 0:00:50 ago on Sunday 17 March 2024 04:39:28 PM.
+Installed Packages
+Name         : mssql-server
+Version      : 16.0.4115.5
+Release      : 2
+Architecture : x86_64
+Size         : 1.2 G
+Source       : mssql-server-16.0.4115.5-2.src.rpm
+Repository   : @System
+From repo    : rhel90-mssql-server-2022
+Summary      : Microsoft SQL Server Relational Database Engine
+License      : Commercial
+Description  : The mssql-server package contains the Microsoft SQL Server Relational Database Engine.
