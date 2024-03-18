@@ -1,0 +1,7 @@
+[rhel90-mssql-server-2022]
+name=rhel90-mssql-server-2022
+baseurl=https://packages.microsoft.com/rhel/9.0/mssql-server-2022/
+repo_gpgcheck=0
+gpgcheck=0
+enabled=1
+gpgkey=https://packages.microsoft.com/rhel/9.0/mssql-server-2022/repodata/repomd.xml.key

@@ -1,0 +1,2 @@
+repo id                             repo name                            status
+rhel90-mssql-server-2022            rhel90-mssql-server-2022             enabled
