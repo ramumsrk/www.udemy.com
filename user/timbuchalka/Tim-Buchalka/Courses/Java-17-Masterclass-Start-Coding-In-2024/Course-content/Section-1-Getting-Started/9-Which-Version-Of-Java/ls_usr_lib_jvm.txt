@@ -1,0 +1,42 @@
+/usr/lib/jvm:
+total 116K
+267556 lrwxrwxrwx. 1 root root  26 Feb 22 13:30 java -> /etc/alternatives/java_sdk/
+323726 lrwxrwxrwx. 1 root root  29 Feb 26 17:54 java-11 -> /etc/alternatives/java_sdk_11/
+323727 lrwxrwxrwx. 1 root root  37 Feb 26 17:54 java-11-openjdk -> /etc/alternatives/java_sdk_11_openjdk/
+267598 lrwxrwxrwx. 1 root root  29 Feb 22 13:30 java-17 -> /etc/alternatives/java_sdk_17/
+267599 lrwxrwxrwx. 1 root root  37 Feb 22 13:30 java-17-openjdk -> /etc/alternatives/java_sdk_17_openjdk/
+323724 lrwxrwxrwx. 1 root root  29 Feb 26 17:54 java-21 -> /etc/alternatives/java_sdk_21/
+323725 lrwxrwxrwx. 1 root root  37 Feb 26 17:54 java-21-openjdk -> /etc/alternatives/java_sdk_21_openjdk/
+404357 lrwxrwxrwx. 1 root root  29 Mar 22  2024 java-22 -> /etc/alternatives/java_sdk_22/
+404358 lrwxrwxrwx. 1 root root  37 Mar 22  2024 java-22-openjdk -> /etc/alternatives/java_sdk_22_openjdk/
+267597 lrwxrwxrwx. 1 root root  34 Feb 22 13:30 java-openjdk -> /etc/alternatives/java_sdk_openjdk/
+230260 lrwxrwxrwx. 1 root root  21 Feb 14 16:36 jre -> /etc/alternatives/jre/
+323717 lrwxrwxrwx. 1 root root  24 Feb 26 17:54 jre-11 -> /etc/alternatives/jre_11/
+323718 lrwxrwxrwx. 1 root root  32 Feb 26 17:54 jre-11-openjdk -> /etc/alternatives/jre_11_openjdk/
+230271 lrwxrwxrwx. 1 root root  24 Feb 14 16:36 jre-17 -> /etc/alternatives/jre_17/
+230272 lrwxrwxrwx. 1 root root  32 Feb 14 16:36 jre-17-openjdk -> /etc/alternatives/jre_17_openjdk/
+323715 lrwxrwxrwx. 1 root root  24 Feb 26 17:54 jre-21 -> /etc/alternatives/jre_21/
+323716 lrwxrwxrwx. 1 root root  32 Feb 26 17:54 jre-21-openjdk -> /etc/alternatives/jre_21_openjdk/
+404335 lrwxrwxrwx. 1 root root  24 Mar 22  2024 jre-22 -> /etc/alternatives/jre_22/
+404336 lrwxrwxrwx. 1 root root  32 Mar 22  2024 jre-22-openjdk -> /etc/alternatives/jre_22_openjdk/
+230270 lrwxrwxrwx. 1 root root  29 Feb 14 16:36 jre-openjdk -> /etc/alternatives/jre_openjdk/
+323722 lrwxrwxrwx. 1 root root  32 Feb 26 17:54 java-1.8.0 -> /etc/alternatives/java_sdk_1.8.0/
+323719 lrwxrwxrwx. 1 root root  27 Feb 26 17:54 jre-1.8.0 -> /etc/alternatives/jre_1.8.0/
+323723 lrwxrwxrwx. 1 root root  40 Feb 26 17:54 java-1.8.0-openjdk -> /etc/alternatives/java_sdk_1.8.0_openjdk/
+323720 lrwxrwxrwx. 1 root root  35 Feb 26 17:54 jre-1.8.0-openjdk -> /etc/alternatives/jre_1.8.0_openjdk/
+318565 drwxr-xr-x. 1 root root  78 Feb 26 17:54 java-11-openjdk-11.0.22.0.7-1.fc39.x86_64/
+147203 drwxr-xr-x. 1 root root  78 Feb 22 13:30 java-17-openjdk-17.0.9.0.9-3.fc39.x86_64/
+319016 drwxr-xr-x. 1 root root 152 Feb 26 17:54 java-1.8.0-openjdk-1.8.0.402.b06-1.fc39.x86_64/
+318131 drwxr-xr-x. 1 root root  78 Feb 26 17:54 java-21-openjdk-21.0.2.0.13-1.fc39.x86_64/
+347965 drwxr-xr-x. 1 root root  78 Mar 22  2024 java-22-openjdk-22.0.0.0.36-1.rolling.fc39.x86_64/
+318957 lrwxrwxrwx. 1 root root  41 Jan 27 05:30 jre-11-openjdk-11.0.22.0.7-1.fc39.x86_64 -> java-11-openjdk-11.0.22.0.7-1.fc39.x86_64/
+174367 lrwxrwxrwx. 1 root root  40 Dec 16 05:30 jre-17-openjdk-17.0.9.0.9-3.fc39.x86_64 -> java-17-openjdk-17.0.9.0.9-3.fc39.x86_64/
+319149 lrwxrwxrwx. 1 root root  50 Jan 30  2023 jre-1.8.0-openjdk-1.8.0.402.b06-1.fc39.x86_64 -> java-1.8.0-openjdk-1.8.0.402.b06-1.fc39.x86_64/jre/
+318508 lrwxrwxrwx. 1 root root  41 Jan 20 05:30 jre-21-openjdk-21.0.2.0.13-1.fc39.x86_64 -> java-21-openjdk-21.0.2.0.13-1.fc39.x86_64/
+348342 lrwxrwxrwx. 1 root root  49 Feb 19 05:30 jre-22-openjdk-22.0.0.0.36-1.rolling.fc39.x86_64 -> java-22-openjdk-22.0.0.0.36-1.rolling.fc39.x86_64/
+
+/usr/lib/jvm-common:
+total 0
+
+/usr/lib/jvm-private:
+total 0

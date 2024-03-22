@@ -1,0 +1,3023 @@
+/opt/idea-IC-233.14475.28/:
+total 40K
+74678 drwxr-xr-x. 1 ramumsrk ramumsrk  396 Jan 20  1970 bin/
+75965 drwxr-xr-x. 1 ramumsrk ramumsrk   58 Jan 20  1970 jbr/
+75856 drwxr-xr-x. 1 ramumsrk ramumsrk  966 Jan 20  1970 lib/
+74682 drwxr-xr-x. 1 ramumsrk ramumsrk  282 Jan 20  1970 license/
+75945 drwxr-xr-x. 1 ramumsrk ramumsrk   44 Jan 20  1970 modules/
+74689 drwxr-xr-x. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 plugins/
+76446 -rw-r--r--. 1 ramumsrk ramumsrk  15K Jan 20  1970 product-info.json
+75944 -rw-r--r--. 1 ramumsrk ramumsrk   15 Jan 20  1970 build.txt
+75947 -rw-r--r--. 1 ramumsrk ramumsrk 1.8K Jan 20  1970 Install-Linux-tar.txt
+74681 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 LICENSE.txt
+74677 -rw-r--r--. 1 ramumsrk ramumsrk  128 Jan 20  1970 NOTICE.txt
+
+/opt/idea-IC-233.14475.28/bin:
+total 13M
+75940 -rwxr-xr-x. 1 ramumsrk ramumsrk  24K Jan 20  1970 fsnotifier*
+75936 -rwxr-xr-x. 1 ramumsrk ramumsrk  11M Jan 20  1970 repair*
+75941 -rwxr-xr-x. 1 ramumsrk ramumsrk 1.5M Jan 20  1970 restarter*
+75935 -rw-r--r--. 1 ramumsrk ramumsrk 176K Jan 20  1970 brokenPlugins.db
+75931 -rw-r--r--. 1 ramumsrk ramumsrk 5.4K Jan 20  1970 idea.png
+74680 -rw-r--r--. 1 ramumsrk ramumsrk  136 Jan 20  1970 appletviewer.policy
+75939 -rw-r--r--. 1 ramumsrk ramumsrk  11K Jan 20  1970 idea.properties
+75942 -rwxr-xr-x. 1 ramumsrk ramumsrk  223 Jan 20  1970 format.sh*
+75943 -rwxr-xr-x. 1 ramumsrk ramumsrk 9.3K Jan 20  1970 idea.sh*
+75938 -rwxr-xr-x. 1 ramumsrk ramumsrk  298 Jan 20  1970 inspect.sh*
+75933 -rwxr-xr-x. 1 ramumsrk ramumsrk 8.5K Jan 20  1970 jetbrains_client.sh*
+75932 -rwxr-xr-x. 1 ramumsrk ramumsrk  831 Jan 20  1970 ltedit.sh*
+75930 -rw-r--r--. 1 ramumsrk ramumsrk 291K Jan 20  1970 libdbm.so
+74679 -rw-r--r--. 1 ramumsrk ramumsrk 8.1K Jan 20  1970 idea.svg
+75937 -rw-r--r--. 1 ramumsrk ramumsrk  584 Jan 20  1970 idea64.vmoptions
+75934 -rw-r--r--. 1 ramumsrk ramumsrk  584 Jan 20  1970 jetbrains_client64.vmoptions
+
+/opt/idea-IC-233.14475.28/jbr:
+total 4.0K
+76217 drwxr-xr-x. 1 ramumsrk ramumsrk  182 Jan 20  1970 bin/
+76244 drwxr-xr-x. 1 ramumsrk ramumsrk  138 Jan 20  1970 conf/
+76234 drwxr-xr-x. 1 ramumsrk ramumsrk  140 Jan 20  1970 include/
+75966 drwxr-xr-x. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 legal/
+76267 drwxr-xr-x. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 lib/
+76266 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 release
+
+/opt/idea-IC-233.14475.28/jbr/bin:
+total 320K
+76232 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 java*
+76228 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 javac*
+76219 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 javadoc*
+76231 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jcmd*
+76224 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jdb*
+76223 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jfr*
+76230 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jhsdb*
+76233 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jinfo*
+76221 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jmap*
+76225 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jps*
+76220 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jrunscript*
+76227 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jstack*
+76229 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 jstat*
+76218 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 keytool*
+76222 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 rmiregistry*
+76226 -rwxr-xr-x. 1 ramumsrk ramumsrk 17K Jan 20  1970 serialver*
+
+/opt/idea-IC-233.14475.28/jbr/conf:
+total 16K
+76260 drwxr-xr-x. 1 ramumsrk ramumsrk  128 Jan 20  1970 management/
+76264 drwxr-xr-x. 1 ramumsrk ramumsrk   34 Jan 20  1970 sdp/
+76245 drwxr-xr-x. 1 ramumsrk ramumsrk   60 Jan 20  1970 security/
+76258 -rw-r--r--. 1 ramumsrk ramumsrk 2.7K Jan 20  1970 logging.properties
+76257 -rw-r--r--. 1 ramumsrk ramumsrk 6.5K Jan 20  1970 net.properties
+76259 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 sound.properties
+
+/opt/idea-IC-233.14475.28/jbr/conf/management:
+total 28K
+76263 -rw-r--r--. 1 ramumsrk ramumsrk 4.0K Jan 20  1970 jmxremote.access
+76261 -rw-r--r--. 1 ramumsrk ramumsrk  15K Jan 20  1970 management.properties
+76262 -rw-r--r--. 1 ramumsrk ramumsrk 5.6K Jan 20  1970 jmxremote.password.template
+
+/opt/idea-IC-233.14475.28/jbr/conf/sdp:
+total 4.0K
+76265 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 sdp.conf.template
+
+/opt/idea-IC-233.14475.28/jbr/conf/security:
+total 60K
+76248 drwxr-xr-x. 1 ramumsrk ramumsrk   52 Jan 20  1970 policy/
+76247 -rw-r--r--. 1 ramumsrk ramumsrk 2.2K Jan 20  1970 java.policy
+76246 -rw-r--r--. 1 ramumsrk ramumsrk  56K Jan 20  1970 java.security
+
+/opt/idea-IC-233.14475.28/jbr/conf/security/policy:
+total 4.0K
+76252 drwxr-xr-x. 1 ramumsrk ramumsrk  126 Jan 20  1970 limited/
+76249 drwxr-xr-x. 1 ramumsrk ramumsrk   88 Jan 20  1970 unlimited/
+76256 -rw-r--r--. 1 ramumsrk ramumsrk 2.4K Jan 20  1970 README.txt
+
+/opt/idea-IC-233.14475.28/jbr/conf/security/policy/limited:
+total 12K
+76254 -rw-r--r--. 1 ramumsrk ramumsrk 647 Jan 20  1970 default_local.policy
+76253 -rw-r--r--. 1 ramumsrk ramumsrk 146 Jan 20  1970 default_US_export.policy
+76255 -rw-r--r--. 1 ramumsrk ramumsrk 566 Jan 20  1970 exempt_local.policy
+
+/opt/idea-IC-233.14475.28/jbr/conf/security/policy/unlimited:
+total 8.0K
+76251 -rw-r--r--. 1 ramumsrk ramumsrk 193 Jan 20  1970 default_local.policy
+76250 -rw-r--r--. 1 ramumsrk ramumsrk 146 Jan 20  1970 default_US_export.policy
+
+/opt/idea-IC-233.14475.28/jbr/include:
+total 212K
+76239 drwxr-xr-x. 1 ramumsrk ramumsrk   34 Jan 20  1970 linux/
+76243 -rw-r--r--. 1 ramumsrk ramumsrk  22K Jan 20  1970 classfile_constants.h
+76237 -rw-r--r--. 1 ramumsrk ramumsrk  13K Jan 20  1970 jawt.h
+76242 -rw-r--r--. 1 ramumsrk ramumsrk 8.0K Jan 20  1970 jdwpTransport.h
+76238 -rw-r--r--. 1 ramumsrk ramumsrk  74K Jan 20  1970 jni.h
+76235 -rw-r--r--. 1 ramumsrk ramumsrk 4.7K Jan 20  1970 jvmticmlr.h
+76236 -rw-r--r--. 1 ramumsrk ramumsrk  80K Jan 20  1970 jvmti.h
+
+/opt/idea-IC-233.14475.28/jbr/include/linux:
+total 8.0K
+76240 -rw-r--r--. 1 ramumsrk ramumsrk 2.0K Jan 20  1970 jawt_md.h
+76241 -rw-r--r--. 1 ramumsrk ramumsrk 2.2K Jan 20  1970 jni_md.h
+
+/opt/idea-IC-233.14475.28/jbr/legal:
+total 0
+76087 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.accessibility/
+76112 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.hotspot.agent/
+76164 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.jdwp.agent/
+76197 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.management.agent/
+76042 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.attach/
+76125 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.security.auth/
+76153 drwxr-xr-x. 1 ramumsrk ramumsrk 220 Jan 20  1970 java.base/
+76141 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.charsets/
+76176 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.internal.vm.ci/
+75967 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.compiler/
+76071 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.compiler/
+76107 drwxr-xr-x. 1 ramumsrk ramumsrk 120 Jan 20  1970 java.xml.crypto/
+76014 drwxr-xr-x. 1 ramumsrk ramumsrk 168 Jan 20  1970 jdk.crypto.cryptoki/
+76067 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.datatransfer/
+76095 drwxr-xr-x. 1 ramumsrk ramumsrk 242 Jan 20  1970 java.desktop/
+76209 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.unsupported.desktop/
+76006 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.naming.dns/
+76091 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.xml.dom/
+76058 drwxr-xr-x. 1 ramumsrk ramumsrk 118 Jan 20  1970 jdk.dynalink/
+76079 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.crypto.ec/
+76129 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.internal.ed/
+76205 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.net.http/
+76002 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.httpserver/
+75989 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.instrument/
+75979 drwxr-xr-x. 1 ramumsrk ramumsrk 136 Jan 20  1970 jdk.javadoc/
+76172 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.jcmd/
+76034 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.jdi/
+76137 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.jfr/
+75998 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.management.jfr/
+76145 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.security.jgss/
+76063 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.security.jgss/
+76038 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.jsobject/
+76180 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.internal.jvmstat/
+75993 drwxr-xr-x. 1 ramumsrk ramumsrk 112 Jan 20  1970 jdk.internal.le/
+76028 drwxr-xr-x. 1 ramumsrk ramumsrk 132 Jan 20  1970 jdk.localedata/
+75975 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.logging/
+76133 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.management/
+76201 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.management/
+76168 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.naming/
+76213 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.net/
+76193 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.prefs/
+76083 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.management.rmi/
+75985 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.rmi/
+76075 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.naming.rmi/
+76054 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.sql.rowset/
+76046 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.security.sasl/
+76020 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.scripting/
+75971 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.sctp/
+76050 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.se/
+76116 drwxr-xr-x. 1 ramumsrk ramumsrk 118 Jan 20  1970 java.smartcardio/
+76121 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.sql/
+76010 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.unsupported/
+76024 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 java.transaction.xa/
+76184 drwxr-xr-x. 1 ramumsrk ramumsrk 170 Jan 20  1970 java.xml/
+76149 drwxr-xr-x. 1 ramumsrk ramumsrk  96 Jan 20  1970 jdk.zipfs/
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.accessibility:
+total 12K
+76533 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76532 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76534 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.hotspot.agent:
+total 12K
+76545 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76544 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76546 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.jdwp.agent:
+total 12K
+76575 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76574 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76576 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.management.agent:
+total 12K
+76596 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76595 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76597 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.attach:
+total 12K
+76500 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76499 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76501 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.security.auth:
+total 12K
+76554 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76553 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76555 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.base:
+total 88K
+76160 -rw-r--r--. 1 ramumsrk ramumsrk 2.1K Jan 20  1970 ADDITIONAL_LICENSE_INFO
+76156 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 ASSEMBLY_EXCEPTION
+76162 -rw-r--r--. 1 ramumsrk ramumsrk  19K Jan 20  1970 LICENSE
+76157 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 aes.md
+76161 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 asm.md
+76163 -rw-r--r--. 1 ramumsrk ramumsrk 9.0K Jan 20  1970 cldr.md
+76155 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 c-libutl.md
+76159 -rw-r--r--. 1 ramumsrk ramumsrk  11K Jan 20  1970 icu.md
+76154 -rw-r--r--. 1 ramumsrk ramumsrk  18K Jan 20  1970 public_suffix.md
+76158 -rw-r--r--. 1 ramumsrk ramumsrk 2.4K Jan 20  1970 unicode.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.charsets:
+total 12K
+76566 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76565 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76567 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.internal.vm.ci:
+total 12K
+76584 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76583 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76585 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.compiler:
+total 12K
+76448 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76447 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76449 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.compiler:
+total 12K
+76521 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76520 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76522 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.xml.crypto:
+total 24K
+76542 lrwxrwxrwx. 1 ramumsrk ramumsrk  36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76541 lrwxrwxrwx. 1 ramumsrk ramumsrk  31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76543 lrwxrwxrwx. 1 ramumsrk ramumsrk  20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+76110 -rw-r--r--. 1 ramumsrk ramumsrk 12K Jan 20  1970 santuario.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.crypto.cryptoki:
+total 20K
+76481 lrwxrwxrwx. 1 ramumsrk ramumsrk   36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76480 lrwxrwxrwx. 1 ramumsrk ramumsrk   31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76482 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+76015 -rw-r--r--. 1 ramumsrk ramumsrk 3.9K Jan 20  1970 pkcs11cryptotoken.md
+76019 -rw-r--r--. 1 ramumsrk ramumsrk 2.1K Jan 20  1970 pkcs11wrapper.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.datatransfer:
+total 12K
+76518 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76517 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76519 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.desktop:
+total 52K
+76539 lrwxrwxrwx. 1 ramumsrk ramumsrk   36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76538 lrwxrwxrwx. 1 ramumsrk ramumsrk   31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76540 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+76102 -rw-r--r--. 1 ramumsrk ramumsrk  167 Jan 20  1970 colorimaging.md
+76099 -rw-r--r--. 1 ramumsrk ramumsrk 1.3K Jan 20  1970 giflib.md
+76100 -rw-r--r--. 1 ramumsrk ramumsrk 3.3K Jan 20  1970 harfbuzz.md
+76101 -rw-r--r--. 1 ramumsrk ramumsrk 3.4K Jan 20  1970 jpeg.md
+76105 -rw-r--r--. 1 ramumsrk ramumsrk 2.6K Jan 20  1970 lcms.md
+76103 -rw-r--r--. 1 ramumsrk ramumsrk 6.8K Jan 20  1970 libpng.md
+76106 -rw-r--r--. 1 ramumsrk ramumsrk 5.6K Jan 20  1970 mesa3d.md
+76096 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 xwd.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.unsupported.desktop:
+total 12K
+76605 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76604 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76606 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.naming.dns:
+total 12K
+76475 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76474 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76476 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.xml.dom:
+total 12K
+76536 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76535 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76537 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.dynalink:
+total 16K
+76512 lrwxrwxrwx. 1 ramumsrk ramumsrk   36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76511 lrwxrwxrwx. 1 ramumsrk ramumsrk   31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76513 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+76059 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 dynalink.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.crypto.ec:
+total 12K
+76527 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76526 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76528 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.internal.ed:
+total 12K
+76557 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76556 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76558 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.net.http:
+total 12K
+76602 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76601 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76603 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.httpserver:
+total 12K
+76472 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76471 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76473 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.instrument:
+total 12K
+76463 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76462 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76464 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.javadoc:
+total 20K
+76457 lrwxrwxrwx. 1 ramumsrk ramumsrk   36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76456 lrwxrwxrwx. 1 ramumsrk ramumsrk   31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76458 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+75980 -rw-r--r--. 1 ramumsrk ramumsrk 2.9K Jan 20  1970 jquery.md
+75983 -rw-r--r--. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 jqueryUI.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.jcmd:
+total 12K
+76581 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76580 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76582 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.jdi:
+total 12K
+76494 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76493 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76495 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.jfr:
+total 12K
+76563 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76562 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76564 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.management.jfr:
+total 12K
+76469 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76468 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76470 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.security.jgss:
+total 12K
+76569 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76568 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76570 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.security.jgss:
+total 12K
+76515 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76514 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76516 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.jsobject:
+total 12K
+76497 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76496 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76498 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.internal.jvmstat:
+total 12K
+76587 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76586 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76588 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.internal.le:
+total 16K
+76466 lrwxrwxrwx. 1 ramumsrk ramumsrk   36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76465 lrwxrwxrwx. 1 ramumsrk ramumsrk   31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76467 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+75996 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 jline.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.localedata:
+total 20K
+76490 lrwxrwxrwx. 1 ramumsrk ramumsrk   36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76489 lrwxrwxrwx. 1 ramumsrk ramumsrk   31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76491 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+76492 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 cldr.md -> ../java.base/cldr.md
+76031 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 thaidict.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.logging:
+total 12K
+76454 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76453 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76455 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.management:
+total 12K
+76560 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76559 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76561 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.management:
+total 12K
+76599 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76598 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76600 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.naming:
+total 12K
+76578 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76577 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76579 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.net:
+total 12K
+76608 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76607 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76609 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.prefs:
+total 12K
+76593 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76592 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76594 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.management.rmi:
+total 12K
+76530 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76529 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76531 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.rmi:
+total 12K
+76460 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76459 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76461 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.naming.rmi:
+total 12K
+76524 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76523 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76525 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.sql.rowset:
+total 12K
+76509 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76508 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76510 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.security.sasl:
+total 12K
+76503 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76502 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76504 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.scripting:
+total 12K
+76484 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76483 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76485 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.sctp:
+total 12K
+76451 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76450 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76452 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.se:
+total 12K
+76506 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76505 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76507 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.smartcardio:
+total 16K
+76548 lrwxrwxrwx. 1 ramumsrk ramumsrk   36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76547 lrwxrwxrwx. 1 ramumsrk ramumsrk   31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76549 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+76119 -rw-r--r--. 1 ramumsrk ramumsrk 2.2K Jan 20  1970 pcsclite.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.sql:
+total 12K
+76551 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76550 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76552 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.unsupported:
+total 12K
+76478 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76477 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76479 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.transaction.xa:
+total 12K
+76487 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76486 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76488 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/legal/java.xml:
+total 60K
+76590 lrwxrwxrwx. 1 ramumsrk ramumsrk   36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76589 lrwxrwxrwx. 1 ramumsrk ramumsrk   31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76591 lrwxrwxrwx. 1 ramumsrk ramumsrk   20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+76191 -rw-r--r--. 1 ramumsrk ramumsrk  11K Jan 20  1970 bcel.md
+76188 -rw-r--r--. 1 ramumsrk ramumsrk 3.7K Jan 20  1970 dom.md
+76185 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 jcup.md
+76190 -rw-r--r--. 1 ramumsrk ramumsrk  14K Jan 20  1970 xalan.md
+76186 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 xerces.md
+
+/opt/idea-IC-233.14475.28/jbr/legal/jdk.zipfs:
+total 12K
+76572 lrwxrwxrwx. 1 ramumsrk ramumsrk 36 Jan 20  1970 ADDITIONAL_LICENSE_INFO -> ../java.base/ADDITIONAL_LICENSE_INFO
+76571 lrwxrwxrwx. 1 ramumsrk ramumsrk 31 Jan 20  1970 ASSEMBLY_EXCEPTION -> ../java.base/ASSEMBLY_EXCEPTION
+76573 lrwxrwxrwx. 1 ramumsrk ramumsrk 20 Jan 20  1970 LICENSE -> ../java.base/LICENSE
+
+/opt/idea-IC-233.14475.28/jbr/lib:
+total 296M
+76412 -rwxr-xr-x. 1 ramumsrk ramumsrk 229K Jan 20  1970 chrome-sandbox*
+76433 -rw-r--r--. 1 ramumsrk ramumsrk  70K Jan 20  1970 classlist
+76282 drwxr-xr-x. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 fonts/
+76442 -rwxr-xr-x. 1 ramumsrk ramumsrk 2.3M Jan 20  1970 jcef_helper*
+76417 -rwxr-xr-x. 1 ramumsrk ramumsrk  17K Jan 20  1970 jexec*
+76390 drwxr-xr-x. 1 ramumsrk ramumsrk   44 Jan 20  1970 jfr/
+76403 -rwxr-xr-x. 1 ramumsrk ramumsrk  23K Jan 20  1970 jspawnhelper*
+76332 drwxr-xr-x. 1 ramumsrk ramumsrk  706 Jan 20  1970 locales/
+76414 -rw-r--r--. 1 ramumsrk ramumsrk  56M Jan 20  1970 modules
+76273 drwxr-xr-x. 1 ramumsrk ramumsrk  112 Jan 20  1970 security/
+76436 drwxr-xr-x. 1 ramumsrk ramumsrk   38 Jan 20  1970 server/
+76272 -rw-r--r--. 1 ramumsrk ramumsrk 1.5M Jan 20  1970 libvulkan.so.1
+76430 -rw-r--r--. 1 ramumsrk ramumsrk 164K Jan 20  1970 snapshot_blob.bin
+76268 -rw-r--r--. 1 ramumsrk ramumsrk 460K Jan 20  1970 v8_context_snapshot.bin
+76394 -rw-r--r--. 1 ramumsrk ramumsrk   29 Jan 20  1970 jvm.cfg
+76404 -rw-r--r--. 1 ramumsrk ramumsrk  11M Jan 20  1970 icudtl.dat
+76443 -rw-r--r--. 1 ramumsrk ramumsrk 102K Jan 20  1970 tzdb.dat
+76402 -rw-r--r--. 1 ramumsrk ramumsrk 3.8K Jan 20  1970 psfont.properties.ja
+76411 -rw-r--r--. 1 ramumsrk ramumsrk 108K Jan 20  1970 jrt-fs.jar
+76279 -rw-r--r--. 1 ramumsrk ramumsrk  107 Jan 20  1970 vk_swiftshader_icd.json
+76396 -rw-r--r--. 1 ramumsrk ramumsrk 598K Jan 20  1970 chrome_100_percent.pak
+76328 -rw-r--r--. 1 ramumsrk ramumsrk 894K Jan 20  1970 chrome_200_percent.pak
+76429 -rw-r--r--. 1 ramumsrk ramumsrk 7.3M Jan 20  1970 resources.pak
+76431 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 psfontj2d.properties
+76439 -rw-r--r--. 1 ramumsrk ramumsrk  17K Jan 20  1970 libattach.so
+76421 -rw-r--r--. 1 ramumsrk ramumsrk  43K Jan 20  1970 libawt_headless.so
+76425 -rw-r--r--. 1 ramumsrk ramumsrk 859K Jan 20  1970 libawt.so
+76397 -rw-r--r--. 1 ramumsrk ramumsrk 489K Jan 20  1970 libawt_xawt.so
+76388 -rw-r--r--. 1 ramumsrk ramumsrk 186M Jan 20  1970 libcef.so
+76270 -rw-r--r--. 1 ramumsrk ramumsrk  32K Jan 20  1970 libdt_socket.so
+76400 -rw-r--r--. 1 ramumsrk ramumsrk 271K Jan 20  1970 libEGL.so
+76410 -rw-r--r--. 1 ramumsrk ramumsrk  17K Jan 20  1970 libextnet.so
+76426 -rw-r--r--. 1 ramumsrk ramumsrk 2.5M Jan 20  1970 libfontmanager.so
+76444 -rw-r--r--. 1 ramumsrk ramumsrk 6.3M Jan 20  1970 libGLESv2.so
+76441 -rw-r--r--. 1 ramumsrk ramumsrk  19K Jan 20  1970 libgluegen_rt.so
+76401 -rw-r--r--. 1 ramumsrk ramumsrk  50K Jan 20  1970 libinstrument.so
+76432 -rw-r--r--. 1 ramumsrk ramumsrk  51K Jan 20  1970 libj2gss.so
+76419 -rw-r--r--. 1 ramumsrk ramumsrk  22K Jan 20  1970 libj2pcsc.so
+76413 -rw-r--r--. 1 ramumsrk ramumsrk  95K Jan 20  1970 libj2pkcs11.so
+76423 -rw-r--r--. 1 ramumsrk ramumsrk  16K Jan 20  1970 libjaas.so
+76398 -rw-r--r--. 1 ramumsrk ramumsrk 235K Jan 20  1970 libjavajpeg.so
+76327 -rw-r--r--. 1 ramumsrk ramumsrk 190K Jan 20  1970 libjava.so
+76427 -rw-r--r--. 1 ramumsrk ramumsrk  16K Jan 20  1970 libjawt.so
+76420 -rw-r--r--. 1 ramumsrk ramumsrk 3.0M Jan 20  1970 libjcef.so
+76406 -rw-r--r--. 1 ramumsrk ramumsrk 284K Jan 20  1970 libjdwp.so
+76440 -rw-r--r--. 1 ramumsrk ramumsrk 147K Jan 20  1970 libjimage.so
+76269 -rw-r--r--. 1 ramumsrk ramumsrk  77K Jan 20  1970 libjli.so
+76435 -rw-r--r--. 1 ramumsrk ramumsrk 779K Jan 20  1970 libjogl_desktop.so
+76409 -rw-r--r--. 1 ramumsrk ramumsrk 391K Jan 20  1970 libjogl_mobile.so
+76416 -rw-r--r--. 1 ramumsrk ramumsrk  17K Jan 20  1970 libjsig.so
+76428 -rw-r--r--. 1 ramumsrk ramumsrk  80K Jan 20  1970 libjsound.so
+76434 -rw-r--r--. 1 ramumsrk ramumsrk 577K Jan 20  1970 liblcms.so
+76424 -rw-r--r--. 1 ramumsrk ramumsrk  16K Jan 20  1970 libmanagement_agent.so
+76422 -rw-r--r--. 1 ramumsrk ramumsrk  37K Jan 20  1970 libmanagement_ext.so
+76418 -rw-r--r--. 1 ramumsrk ramumsrk  26K Jan 20  1970 libmanagement.so
+76331 -rw-r--r--. 1 ramumsrk ramumsrk 594K Jan 20  1970 libmlib_image.so
+76405 -rw-r--r--. 1 ramumsrk ramumsrk  14K Jan 20  1970 libnativewindow_awt.so
+76408 -rw-r--r--. 1 ramumsrk ramumsrk  47K Jan 20  1970 libnativewindow_drm.so
+76281 -rw-r--r--. 1 ramumsrk ramumsrk  39K Jan 20  1970 libnativewindow_x11.so
+76415 -rw-r--r--. 1 ramumsrk ramumsrk 107K Jan 20  1970 libnet.so
+76399 -rw-r--r--. 1 ramumsrk ramumsrk  27K Jan 20  1970 libnewt_drm.so
+76389 -rw-r--r--. 1 ramumsrk ramumsrk  92K Jan 20  1970 libnewt_head.so
+76326 -rw-r--r--. 1 ramumsrk ramumsrk 108K Jan 20  1970 libnio.so
+76393 -rw-r--r--. 1 ramumsrk ramumsrk  16K Jan 20  1970 libprefs.so
+76278 -rw-r--r--. 1 ramumsrk ramumsrk  16K Jan 20  1970 librmi.so
+76329 -rw-r--r--. 1 ramumsrk ramumsrk 189K Jan 20  1970 libsaproc.so
+76445 -rw-r--r--. 1 ramumsrk ramumsrk  36K Jan 20  1970 libsctp.so
+76407 -rw-r--r--. 1 ramumsrk ramumsrk 371K Jan 20  1970 libsplashscreen.so
+76330 -rw-r--r--. 1 ramumsrk ramumsrk  64K Jan 20  1970 libverify.so
+76280 -rw-r--r--. 1 ramumsrk ramumsrk 4.3M Jan 20  1970 libvk_swiftshader.so
+76395 -rw-r--r--. 1 ramumsrk ramumsrk  41K Jan 20  1970 libzip.so
+76271 -rw-r--r--. 1 ramumsrk ramumsrk 8.0M Jan 20  1970 ct.sym
+
+/opt/idea-IC-233.14475.28/jbr/lib/fonts:
+total 9.2M
+76283 -rw-r--r--. 1 ramumsrk ramumsrk  584 Jan 20  1970 font.conf
+76318 -rw-r--r--. 1 ramumsrk ramumsrk  36K Jan 20  1970 fonts.dir
+76304 -rw-r--r--. 1 ramumsrk ramumsrk 266K Jan 20  1970 Inter-Italic.otf
+76321 -rw-r--r--. 1 ramumsrk ramumsrk 253K Jan 20  1970 Inter-Regular.otf
+76323 -rw-r--r--. 1 ramumsrk ramumsrk 273K Jan 20  1970 Inter-SemiBoldItalic.otf
+76294 -rw-r--r--. 1 ramumsrk ramumsrk 265K Jan 20  1970 Inter-SemiBold.otf
+76296 -rw-r--r--. 1 ramumsrk ramumsrk 190K Jan 20  1970 DroidSans-Bold.ttf
+76313 -rw-r--r--. 1 ramumsrk ramumsrk 115K Jan 20  1970 DroidSansMonoDotted.ttf
+76317 -rw-r--r--. 1 ramumsrk ramumsrk 115K Jan 20  1970 DroidSansMonoSlashed.ttf
+76288 -rw-r--r--. 1 ramumsrk ramumsrk 117K Jan 20  1970 DroidSansMono.ttf
+76292 -rw-r--r--. 1 ramumsrk ramumsrk 187K Jan 20  1970 DroidSans.ttf
+76286 -rw-r--r--. 1 ramumsrk ramumsrk 186K Jan 20  1970 DroidSerif-BoldItalic.ttf
+76295 -rw-r--r--. 1 ramumsrk ramumsrk 181K Jan 20  1970 DroidSerif-Bold.ttf
+76314 -rw-r--r--. 1 ramumsrk ramumsrk 174K Jan 20  1970 DroidSerif-Italic.ttf
+76300 -rw-r--r--. 1 ramumsrk ramumsrk 169K Jan 20  1970 DroidSerif-Regular.ttf
+76306 -rw-r--r--. 1 ramumsrk ramumsrk 317K Jan 20  1970 FiraCode-Bold.ttf
+76299 -rw-r--r--. 1 ramumsrk ramumsrk 279K Jan 20  1970 FiraCode-Light.ttf
+76311 -rw-r--r--. 1 ramumsrk ramumsrk 289K Jan 20  1970 FiraCode-Medium.ttf
+76285 -rw-r--r--. 1 ramumsrk ramumsrk 293K Jan 20  1970 FiraCode-Regular.ttf
+76293 -rw-r--r--. 1 ramumsrk ramumsrk 289K Jan 20  1970 FiraCode-Retina.ttf
+76287 -rw-r--r--. 1 ramumsrk ramumsrk  22K Jan 20  1970 Inconsolata.ttf
+76308 -rw-r--r--. 1 ramumsrk ramumsrk 274K Jan 20  1970 JetBrainsMono-BoldItalic.ttf
+76325 -rw-r--r--. 1 ramumsrk ramumsrk 272K Jan 20  1970 JetBrainsMono-Bold.ttf
+76310 -rw-r--r--. 1 ramumsrk ramumsrk 276K Jan 20  1970 JetBrainsMono-ExtraBoldItalic.ttf
+76322 -rw-r--r--. 1 ramumsrk ramumsrk 273K Jan 20  1970 JetBrainsMono-ExtraBold.ttf
+76307 -rw-r--r--. 1 ramumsrk ramumsrk 268K Jan 20  1970 JetBrainsMono-ExtraLightItalic.ttf
+76316 -rw-r--r--. 1 ramumsrk ramumsrk 268K Jan 20  1970 JetBrainsMono-ExtraLight.ttf
+76324 -rw-r--r--. 1 ramumsrk ramumsrk 271K Jan 20  1970 JetBrainsMono-Italic.ttf
+76309 -rw-r--r--. 1 ramumsrk ramumsrk 271K Jan 20  1970 JetBrainsMono-LightItalic.ttf
+76319 -rw-r--r--. 1 ramumsrk ramumsrk 270K Jan 20  1970 JetBrainsMono-Light.ttf
+76320 -rw-r--r--. 1 ramumsrk ramumsrk 271K Jan 20  1970 JetBrainsMono-MediumItalic.ttf
+76305 -rw-r--r--. 1 ramumsrk ramumsrk 268K Jan 20  1970 JetBrainsMono-Medium.ttf
+76303 -rw-r--r--. 1 ramumsrk ramumsrk 268K Jan 20  1970 JetBrainsMono-Regular.ttf
+76291 -rw-r--r--. 1 ramumsrk ramumsrk 274K Jan 20  1970 JetBrainsMono-SemiBoldItalic.ttf
+76298 -rw-r--r--. 1 ramumsrk ramumsrk 271K Jan 20  1970 JetBrainsMono-SemiBold.ttf
+76312 -rw-r--r--. 1 ramumsrk ramumsrk 267K Jan 20  1970 JetBrainsMono-ThinItalic.ttf
+76301 -rw-r--r--. 1 ramumsrk ramumsrk 264K Jan 20  1970 JetBrainsMono-Thin.ttf
+76290 -rw-r--r--. 1 ramumsrk ramumsrk 137K Jan 20  1970 Roboto-Light.ttf
+76302 -rw-r--r--. 1 ramumsrk ramumsrk 127K Jan 20  1970 Roboto-Thin.ttf
+76284 -rw-r--r--. 1 ramumsrk ramumsrk 160K Jan 20  1970 SourceCodePro-BoldIt.ttf
+76315 -rw-r--r--. 1 ramumsrk ramumsrk 193K Jan 20  1970 SourceCodePro-Bold.ttf
+76289 -rw-r--r--. 1 ramumsrk ramumsrk 160K Jan 20  1970 SourceCodePro-It.ttf
+76297 -rw-r--r--. 1 ramumsrk ramumsrk 194K Jan 20  1970 SourceCodePro-Regular.ttf
+
+/opt/idea-IC-233.14475.28/jbr/lib/jfr:
+total 72K
+76391 -rw-r--r--. 1 ramumsrk ramumsrk 36K Jan 20  1970 default.jfc
+76392 -rw-r--r--. 1 ramumsrk ramumsrk 36K Jan 20  1970 profile.jfc
+
+/opt/idea-IC-233.14475.28/jbr/lib/locales:
+total 32M
+76341 -rw-r--r--. 1 ramumsrk ramumsrk  400K Jan 20  1970 af.pak
+76346 -rw-r--r--. 1 ramumsrk ramumsrk  648K Jan 20  1970 am.pak
+76350 -rw-r--r--. 1 ramumsrk ramumsrk  713K Jan 20  1970 ar.pak
+76335 -rw-r--r--. 1 ramumsrk ramumsrk  739K Jan 20  1970 bg.pak
+76372 -rw-r--r--. 1 ramumsrk ramumsrk  953K Jan 20  1970 bn.pak
+76379 -rw-r--r--. 1 ramumsrk ramumsrk  459K Jan 20  1970 ca.pak
+76385 -rw-r--r--. 1 ramumsrk ramumsrk  463K Jan 20  1970 cs.pak
+76359 -rw-r--r--. 1 ramumsrk ramumsrk  422K Jan 20  1970 da.pak
+76355 -rw-r--r--. 1 ramumsrk ramumsrk  457K Jan 20  1970 de.pak
+76384 -rw-r--r--. 1 ramumsrk ramumsrk  810K Jan 20  1970 el.pak
+76375 -rw-r--r--. 1 ramumsrk ramumsrk  366K Jan 20  1970 en-GB.pak
+76356 -rw-r--r--. 1 ramumsrk ramumsrk  370K Jan 20  1970 en-US.pak
+76377 -rw-r--r--. 1 ramumsrk ramumsrk  447K Jan 20  1970 es-419.pak
+76340 -rw-r--r--. 1 ramumsrk ramumsrk  447K Jan 20  1970 es.pak
+76354 -rw-r--r--. 1 ramumsrk ramumsrk  405K Jan 20  1970 et.pak
+76387 -rw-r--r--. 1 ramumsrk ramumsrk  658K Jan 20  1970 fa.pak
+76361 -rw-r--r--. 1 ramumsrk ramumsrk  465K Jan 20  1970 fil.pak
+76371 -rw-r--r--. 1 ramumsrk ramumsrk  412K Jan 20  1970 fi.pak
+76338 -rw-r--r--. 1 ramumsrk ramumsrk  485K Jan 20  1970 fr.pak
+76380 -rw-r--r--. 1 ramumsrk ramumsrk  933K Jan 20  1970 gu.pak
+76362 -rw-r--r--. 1 ramumsrk ramumsrk  580K Jan 20  1970 he.pak
+76357 -rw-r--r--. 1 ramumsrk ramumsrk  991K Jan 20  1970 hi.pak
+76366 -rw-r--r--. 1 ramumsrk ramumsrk  449K Jan 20  1970 hr.pak
+76374 -rw-r--r--. 1 ramumsrk ramumsrk  483K Jan 20  1970 hu.pak
+76353 -rw-r--r--. 1 ramumsrk ramumsrk  397K Jan 20  1970 id.pak
+76351 -rw-r--r--. 1 ramumsrk ramumsrk  446K Jan 20  1970 it.pak
+76349 -rw-r--r--. 1 ramumsrk ramumsrk  541K Jan 20  1970 ja.pak
+76334 -rw-r--r--. 1 ramumsrk ramumsrk  1.1M Jan 20  1970 kn.pak
+76358 -rw-r--r--. 1 ramumsrk ramumsrk  454K Jan 20  1970 ko.pak
+76386 -rw-r--r--. 1 ramumsrk ramumsrk  487K Jan 20  1970 lt.pak
+76344 -rw-r--r--. 1 ramumsrk ramumsrk  485K Jan 20  1970 lv.pak
+76343 -rw-r--r--. 1 ramumsrk ramumsrk  1.1M Jan 20  1970 ml.pak
+76345 -rw-r--r--. 1 ramumsrk ramumsrk  910K Jan 20  1970 mr.pak
+76369 -rw-r--r--. 1 ramumsrk ramumsrk  414K Jan 20  1970 ms.pak
+76333 -rw-r--r--. 1 ramumsrk ramumsrk  406K Jan 20  1970 nb.pak
+76370 -rw-r--r--. 1 ramumsrk ramumsrk  420K Jan 20  1970 nl.pak
+76367 -rw-r--r--. 1 ramumsrk ramumsrk  468K Jan 20  1970 pl.pak
+76365 -rw-r--r--. 1 ramumsrk ramumsrk  440K Jan 20  1970 pt-BR.pak
+76363 -rw-r--r--. 1 ramumsrk ramumsrk  443K Jan 20  1970 pt-PT.pak
+76342 -rw-r--r--. 1 ramumsrk ramumsrk  456K Jan 20  1970 ro.pak
+76336 -rw-r--r--. 1 ramumsrk ramumsrk  743K Jan 20  1970 ru.pak
+76347 -rw-r--r--. 1 ramumsrk ramumsrk  470K Jan 20  1970 sk.pak
+76368 -rw-r--r--. 1 ramumsrk ramumsrk  452K Jan 20  1970 sl.pak
+76381 -rw-r--r--. 1 ramumsrk ramumsrk  696K Jan 20  1970 sr.pak
+76382 -rw-r--r--. 1 ramumsrk ramumsrk  409K Jan 20  1970 sv.pak
+76376 -rw-r--r--. 1 ramumsrk ramumsrk  429K Jan 20  1970 sw.pak
+76348 -rw-r--r--. 1 ramumsrk ramumsrk  1.1M Jan 20  1970 ta.pak
+76339 -rw-r--r--. 1 ramumsrk ramumsrk 1014K Jan 20  1970 te.pak
+76360 -rw-r--r--. 1 ramumsrk ramumsrk  854K Jan 20  1970 th.pak
+76373 -rw-r--r--. 1 ramumsrk ramumsrk  437K Jan 20  1970 tr.pak
+76352 -rw-r--r--. 1 ramumsrk ramumsrk  744K Jan 20  1970 uk.pak
+76378 -rw-r--r--. 1 ramumsrk ramumsrk  651K Jan 20  1970 ur.pak
+76337 -rw-r--r--. 1 ramumsrk ramumsrk  518K Jan 20  1970 vi.pak
+76383 -rw-r--r--. 1 ramumsrk ramumsrk  377K Jan 20  1970 zh-CN.pak
+76364 -rw-r--r--. 1 ramumsrk ramumsrk  375K Jan 20  1970 zh-TW.pak
+
+/opt/idea-IC-233.14475.28/jbr/lib/security:
+total 364K
+76277 -rw-r--r--. 1 ramumsrk ramumsrk 118K Jan 20  1970 cacerts
+76274 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 blocked.certs
+76276 -rw-r--r--. 1 ramumsrk ramumsrk 225K Jan 20  1970 public_suffix_list.dat
+76275 -rw-r--r--. 1 ramumsrk ramumsrk 9.8K Jan 20  1970 default.policy
+
+/opt/idea-IC-233.14475.28/jbr/lib/server:
+total 23M
+76437 -rw-r--r--. 1 ramumsrk ramumsrk 17K Jan 20  1970 libjsig.so
+76438 -rw-r--r--. 1 ramumsrk ramumsrk 23M Jan 20  1970 libjvm.so
+
+/opt/idea-IC-233.14475.28/lib:
+total 626M
+75888 drwxr-xr-x. 1 ramumsrk ramumsrk  152 Jan 20  1970 ant/
+75877 drwxr-xr-x. 1 ramumsrk ramumsrk   38 Jan 20  1970 cds/
+75962 drwxr-xr-x. 1 ramumsrk ramumsrk   10 Jan 20  1970 jna/
+75955 drwxr-xr-x. 1 ramumsrk ramumsrk   24 Jan 20  1970 native/
+75958 drwxr-xr-x. 1 ramumsrk ramumsrk   10 Jan 20  1970 pty4j/
+75954 -rw-r--r--. 1 ramumsrk ramumsrk   15 Jan 20  1970 build-marker-IC-233.14475.28
+75857 -rw-r--r--. 1 ramumsrk ramumsrk  48K Jan 20  1970 annotations.jar
+75879 -rw-r--r--. 1 ramumsrk ramumsrk 206M Jan 20  1970 app-client.jar
+75874 -rw-r--r--. 1 ramumsrk ramumsrk  85M Jan 20  1970 app.jar
+75880 -rw-r--r--. 1 ramumsrk ramumsrk  16M Jan 20  1970 bouncy-castle.jar
+75883 -rw-r--r--. 1 ramumsrk ramumsrk 739K Jan 20  1970 byte-buddy-agent.jar
+75870 -rw-r--r--. 1 ramumsrk ramumsrk  26K Jan 20  1970 error-prone-annotations.jar
+75868 -rw-r--r--. 1 ramumsrk ramumsrk  15K Jan 20  1970 externalProcess-rt.jar
+75876 -rw-r--r--. 1 ramumsrk ramumsrk  59K Jan 20  1970 external-system-rt.jar
+75865 -rw-r--r--. 1 ramumsrk ramumsrk  61K Jan 20  1970 forms_rt.jar
+75862 -rw-r--r--. 1 ramumsrk ramumsrk  21M Jan 20  1970 groovy.jar
+75859 -rw-r--r--. 1 ramumsrk ramumsrk  32M Jan 20  1970 grpc.jar
+75887 -rw-r--r--. 1 ramumsrk ramumsrk 136K Jan 20  1970 idea_rt.jar
+75875 -rw-r--r--. 1 ramumsrk ramumsrk 962K Jan 20  1970 intellij-coverage-agent-1.0.738.jar
+75881 -rw-r--r--. 1 ramumsrk ramumsrk 607K Jan 20  1970 intellij-test-discovery.jar
+75885 -rw-r--r--. 1 ramumsrk ramumsrk 1.2M Jan 20  1970 jps-model.jar
+75886 -rw-r--r--. 1 ramumsrk ramumsrk  60K Jan 20  1970 jsch-agent.jar
+75861 -rw-r--r--. 1 ramumsrk ramumsrk 896K Jan 20  1970 junit4.jar
+75867 -rw-r--r--. 1 ramumsrk ramumsrk 226K Jan 20  1970 junit.jar
+75858 -rw-r--r--. 1 ramumsrk ramumsrk  93M Jan 20  1970 lib-client.jar
+75882 -rw-r--r--. 1 ramumsrk ramumsrk  42M Jan 20  1970 lib.jar
+75871 -rw-r--r--. 1 ramumsrk ramumsrk  30M Jan 20  1970 modules.jar
+75860 -rw-r--r--. 1 ramumsrk ramumsrk 474K Jan 20  1970 platform-loader.jar
+75864 -rw-r--r--. 1 ramumsrk ramumsrk  59K Jan 20  1970 product-client.jar
+75863 -rw-r--r--. 1 ramumsrk ramumsrk 4.8M Jan 20  1970 protobuf.jar
+75872 -rw-r--r--. 1 ramumsrk ramumsrk 5.4M Jan 20  1970 rd.jar
+75873 -rw-r--r--. 1 ramumsrk ramumsrk 2.1M Jan 20  1970 stats.jar
+75929 -rw-r--r--. 1 ramumsrk ramumsrk 6.3M Jan 20  1970 testFramework.jar
+75869 -rw-r--r--. 1 ramumsrk ramumsrk  77M Jan 20  1970 util-8.jar
+75884 -rw-r--r--. 1 ramumsrk ramumsrk 3.6M Jan 20  1970 util.jar
+75866 -rw-r--r--. 1 ramumsrk ramumsrk 2.1M Jan 20  1970 util_rt.jar
+
+/opt/idea-IC-233.14475.28/lib/ant:
+total 2.7M
+75889 -rw-r--r--. 1 ramumsrk ramumsrk 6.8K Jan 20  1970 CONTRIBUTORS
+75892 -rw-r--r--. 1 ramumsrk ramumsrk  138 Jan 20  1970 INSTALL
+75890 -rw-r--r--. 1 ramumsrk ramumsrk  94K Jan 20  1970 KEYS
+75898 drwxr-xr-x. 1 ramumsrk ramumsrk  924 Jan 20  1970 lib/
+75896 -rw-r--r--. 1 ramumsrk ramumsrk  15K Jan 20  1970 LICENSE
+75897 -rw-r--r--. 1 ramumsrk ramumsrk  306 Jan 20  1970 NOTICE
+75893 -rw-r--r--. 1 ramumsrk ramumsrk 4.3K Jan 20  1970 README
+75891 -rw-r--r--. 1 ramumsrk ramumsrk 259K Jan 20  1970 WHATSNEW
+75894 -rw-r--r--. 1 ramumsrk ramumsrk  34K Jan 20  1970 contributors.xml
+75895 -rw-r--r--. 1 ramumsrk ramumsrk 2.3M Jan 20  1970 src.zip
+
+/opt/idea-IC-233.14475.28/lib/ant/lib:
+total 5.9M
+75924 -rw-r--r--. 1 ramumsrk ramumsrk  151 Jan 20  1970 README
+75904 -rw-r--r--. 1 ramumsrk ramumsrk  224 Jan 20  1970 classpath.index
+75923 -rw-r--r--. 1 ramumsrk ramumsrk 5.7M Jan 20  1970 ant.jar
+75912 -rw-r--r--. 1 ramumsrk ramumsrk 4.3K Jan 20  1970 ant-antlr.pom
+75919 -rw-r--r--. 1 ramumsrk ramumsrk 4.2K Jan 20  1970 ant-apache-bcel.pom
+75900 -rw-r--r--. 1 ramumsrk ramumsrk 3.6K Jan 20  1970 ant-apache-bsf.pom
+75915 -rw-r--r--. 1 ramumsrk ramumsrk 3.5K Jan 20  1970 ant-apache-log4j.pom
+75920 -rw-r--r--. 1 ramumsrk ramumsrk 3.7K Jan 20  1970 ant-apache-oro.pom
+75916 -rw-r--r--. 1 ramumsrk ramumsrk 3.7K Jan 20  1970 ant-apache-regexp.pom
+75907 -rw-r--r--. 1 ramumsrk ramumsrk 3.5K Jan 20  1970 ant-apache-resolver.pom
+75925 -rw-r--r--. 1 ramumsrk ramumsrk 4.8K Jan 20  1970 ant-apache-xalan2.pom
+75914 -rw-r--r--. 1 ramumsrk ramumsrk 3.6K Jan 20  1970 ant-commons-logging.pom
+75922 -rw-r--r--. 1 ramumsrk ramumsrk 4.3K Jan 20  1970 ant-commons-net.pom
+75921 -rw-r--r--. 1 ramumsrk ramumsrk 4.1K Jan 20  1970 ant-imageio.pom
+75905 -rw-r--r--. 1 ramumsrk ramumsrk 4.7K Jan 20  1970 ant-jai.pom
+75902 -rw-r--r--. 1 ramumsrk ramumsrk 3.8K Jan 20  1970 ant-javamail.pom
+75901 -rw-r--r--. 1 ramumsrk ramumsrk 4.5K Jan 20  1970 ant-jdepend.pom
+75910 -rw-r--r--. 1 ramumsrk ramumsrk 3.5K Jan 20  1970 ant-jmf.pom
+75917 -rw-r--r--. 1 ramumsrk ramumsrk 4.2K Jan 20  1970 ant-jsch.pom
+75918 -rw-r--r--. 1 ramumsrk ramumsrk 4.2K Jan 20  1970 ant-junit4.pom
+75906 -rw-r--r--. 1 ramumsrk ramumsrk 6.2K Jan 20  1970 ant-junitlauncher.pom
+75908 -rw-r--r--. 1 ramumsrk ramumsrk 7.4K Jan 20  1970 ant-junit.pom
+75913 -rw-r--r--. 1 ramumsrk ramumsrk 3.1K Jan 20  1970 ant-launcher.pom
+75911 -rw-r--r--. 1 ramumsrk ramumsrk 4.6K Jan 20  1970 ant-netrexx.pom
+75909 -rw-r--r--. 1 ramumsrk ramumsrk 6.4K Jan 20  1970 ant-parent.pom
+75928 -rw-r--r--. 1 ramumsrk ramumsrk  17K Jan 20  1970 ant.pom
+75927 -rw-r--r--. 1 ramumsrk ramumsrk 3.4K Jan 20  1970 ant-swing.pom
+75899 -rw-r--r--. 1 ramumsrk ramumsrk 3.9K Jan 20  1970 ant-testutil.pom
+75926 -rw-r--r--. 1 ramumsrk ramumsrk 3.6K Jan 20  1970 ant-xz.pom
+75903 -rw-r--r--. 1 ramumsrk ramumsrk 3.2K Jan 20  1970 libraries.properties
+
+/opt/idea-IC-233.14475.28/lib/cds:
+total 44K
+75878 -rw-r--r--. 1 ramumsrk ramumsrk 44K Jan 20  1970 classesLogAgent.jar
+
+/opt/idea-IC-233.14475.28/lib/jna:
+total 0
+75963 drwxr-xr-x. 1 ramumsrk ramumsrk 34 Jan 20  1970 amd64/
+
+/opt/idea-IC-233.14475.28/lib/jna/amd64:
+total 132K
+75964 -rw-r--r--. 1 ramumsrk ramumsrk 132K Jan 20  1970 libjnidispatch.so
+
+/opt/idea-IC-233.14475.28/lib/native:
+total 0
+75956 drwxr-xr-x. 1 ramumsrk ramumsrk 28 Jan 20  1970 linux-x86_64/
+
+/opt/idea-IC-233.14475.28/lib/native/linux-x86_64:
+total 1.4M
+75957 -rw-r--r--. 1 ramumsrk ramumsrk 1.4M Jan 20  1970 libsqliteij.so
+
+/opt/idea-IC-233.14475.28/lib/pty4j:
+total 0
+75959 drwxr-xr-x. 1 ramumsrk ramumsrk 12 Jan 20  1970 linux/
+
+/opt/idea-IC-233.14475.28/lib/pty4j/linux:
+total 0
+75960 drwxr-xr-x. 1 ramumsrk ramumsrk 18 Jan 20  1970 x86-64/
+
+/opt/idea-IC-233.14475.28/lib/pty4j/linux/x86-64:
+total 20K
+75961 -rw-r--r--. 1 ramumsrk ramumsrk 19K Jan 20  1970 libpty.so
+
+/opt/idea-IC-233.14475.28/license:
+total 1008K
+74684 -rw-r--r--. 1 ramumsrk ramumsrk 6.0K Jan 20  1970 saxon-conditions.html
+74687 -rw-r--r--. 1 ramumsrk ramumsrk 609K Jan 20  1970 third-party-libraries.html
+74686 -rw-r--r--. 1 ramumsrk ramumsrk 340K Jan 20  1970 third-party-libraries.json
+74688 -rw-r--r--. 1 ramumsrk ramumsrk  39K Jan 20  1970 javahelp_license.txt
+74683 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 javolution_license.txt
+74685 -rw-r--r--. 1 ramumsrk ramumsrk 1.7K Jan 20  1970 yourkit-license-redist.txt
+
+/opt/idea-IC-233.14475.28/modules:
+total 348K
+75946 -rw-r--r--. 1 ramumsrk ramumsrk 347K Jan 20  1970 module-descriptors.jar
+
+/opt/idea-IC-233.14475.28/plugins:
+total 0
+75178 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 ae-database/
+74928 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 android-gradle-dsl/
+74934 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 completionMlRanking/
+75784 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 configurationScript/
+74844 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 copyright/
+74877 drwxr-xr-x. 1 ramumsrk ramumsrk 58 Jan 20  1970 cwm-plugin/
+74852 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 dev/
+75181 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 eclipse/
+74871 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 editorconfig/
+75951 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 emojipicker/
+75781 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 featuresTrainer/
+75098 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 gradle/
+75144 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 gradle-analysis/
+75770 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 gradle-dependencyUpdater/
+75794 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 gradle-java/
+75844 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 gradle-java-maven/
+75172 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 grazie/
+75750 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 Groovy/
+74864 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 html-tools/
+75169 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 indexing-shared/
+75804 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 java/
+75798 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 java-byteCodeViewer/
+75773 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 java-coverage/
+75133 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 java-debugger-streams/
+75850 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 java-decompiler/
+74834 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 javaFX/
+75841 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 java-i18n/
+75847 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 java-ide-customization/
+74847 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 junit/
+75092 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 keymap-eclipse/
+75835 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 keymap-netbeans/
+74841 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 keymap-visualStudio/
+74940 drwxr-xr-x. 1 ramumsrk ramumsrk 20 Jan 20  1970 Kotlin/
+75136 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 markdown/
+75787 drwxr-xr-x. 1 ramumsrk ramumsrk 42 Jan 20  1970 marketplace/
+74707 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 maven/
+74690 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 maven-model/
+74937 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 maven-server/
+74704 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 packageChecker/
+74855 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 performanceTesting/
+74924 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 performanceTesting-async/
+74921 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 platform-ijent-impl/
+74701 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 platform-images/
+74693 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 platform-langInjection/
+75175 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 platform-tracing-ide/
+74918 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 properties/
+75147 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 qodana/
+75189 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 repository-search/
+74858 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 searchEverywhereMl/
+74915 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 settingsSync/
+74931 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 sh/
+75192 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 space/
+75095 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 tasks/
+75150 drwxr-xr-x. 1 ramumsrk ramumsrk 42 Jan 20  1970 terminal/
+74867 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 testng/
+75196 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 textmate/
+74698 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 toml/
+74874 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 turboComplete/
+75139 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 uiDesigner/
+75831 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 vcs-git/
+75838 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 vcs-github/
+74861 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 vcs-gitlab/
+75778 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 vcs-hg/
+75767 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 vcs-perforce/
+75186 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 vcs-svn/
+75853 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 webp/
+75801 drwxr-xr-x. 1 ramumsrk ramumsrk  6 Jan 20  1970 yaml/
+
+/opt/idea-IC-233.14475.28/plugins/ae-database:
+total 0
+75179 drwxr-xr-x. 1 ramumsrk ramumsrk 30 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/ae-database/lib:
+total 876K
+75180 -rw-r--r--. 1 ramumsrk ramumsrk 875K Jan 20  1970 ae-database.jar
+
+/opt/idea-IC-233.14475.28/plugins/android-gradle-dsl:
+total 0
+74929 drwxr-xr-x. 1 ramumsrk ramumsrk 44 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/android-gradle-dsl/lib:
+total 3.0M
+74930 -rw-r--r--. 1 ramumsrk ramumsrk 3.0M Jan 20  1970 android-gradle-dsl.jar
+
+/opt/idea-IC-233.14475.28/plugins/completionMlRanking:
+total 0
+74935 drwxr-xr-x. 1 ramumsrk ramumsrk 46 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/completionMlRanking/lib:
+total 1.3M
+74936 -rw-r--r--. 1 ramumsrk ramumsrk 1.3M Jan 20  1970 completionMlRanking.jar
+
+/opt/idea-IC-233.14475.28/plugins/configurationScript:
+total 0
+75785 drwxr-xr-x. 1 ramumsrk ramumsrk 46 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/configurationScript/lib:
+total 348K
+75786 -rw-r--r--. 1 ramumsrk ramumsrk 348K Jan 20  1970 configurationScript.jar
+
+/opt/idea-IC-233.14475.28/plugins/copyright:
+total 0
+74845 drwxr-xr-x. 1 ramumsrk ramumsrk 26 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/copyright/lib:
+total 548K
+74846 -rw-r--r--. 1 ramumsrk ramumsrk 547K Jan 20  1970 copyright.jar
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin:
+total 4.0K
+74890 drwxr-xr-x. 1 ramumsrk ramumsrk 568 Jan 20  1970 lib/
+74879 drwxr-xr-x. 1 ramumsrk ramumsrk 128 Jan 20  1970 quiche-native/
+74878 -rw-r--r--. 1 ramumsrk ramumsrk  15 Jan 20  1970 jre-build.txt
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin/lib:
+total 66M
+74907 drwxr-xr-x. 1 ramumsrk ramumsrk  218 Jan 20  1970 client/
+74901 -rw-r--r--. 1 ramumsrk ramumsrk 896K Jan 20  1970 bouncy-castle-pgp.jar
+74914 -rw-r--r--. 1 ramumsrk ramumsrk 8.2M Jan 20  1970 cwm-common.jar
+74900 -rw-r--r--. 1 ramumsrk ramumsrk  21M Jan 20  1970 cwm-host.jar
+74897 -rw-r--r--. 1 ramumsrk ramumsrk 821K Jan 20  1970 cwm-host-unattended.jar
+74893 -rw-r--r--. 1 ramumsrk ramumsrk 1.1M Jan 20  1970 cwm-lobby-common.jar
+74905 -rw-r--r--. 1 ramumsrk ramumsrk 6.2M Jan 20  1970 cwm-model.jar
+74891 -rw-r--r--. 1 ramumsrk ramumsrk 764K Jan 20  1970 cwm-plugin.jar
+74895 -rw-r--r--. 1 ramumsrk ramumsrk 385K Jan 20  1970 cwm-plugin-terminal.jar
+74899 -rw-r--r--. 1 ramumsrk ramumsrk 315K Jan 20  1970 cwm-unattended-common.jar
+74902 -rw-r--r--. 1 ramumsrk ramumsrk 1.1M Jan 20  1970 ice4j.jar
+74906 -rw-r--r--. 1 ramumsrk ramumsrk 285K Jan 20  1970 java-websocket.jar
+74896 -rw-r--r--. 1 ramumsrk ramumsrk 318K Jan 20  1970 jitsi-utils.jar
+74904 -rw-r--r--. 1 ramumsrk ramumsrk  89K Jan 20  1970 jnaerator-runtime.jar
+74894 -rw-r--r--. 1 ramumsrk ramumsrk 145K Jan 20  1970 jstun.jar
+74903 -rw-r--r--. 1 ramumsrk ramumsrk  34K Jan 20  1970 quiche-jna-stubs.jar
+74898 -rw-r--r--. 1 ramumsrk ramumsrk  26M Jan 20  1970 rd.jar
+74892 -rw-r--r--. 1 ramumsrk ramumsrk 143K Jan 20  1970 tls-channel.jar
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin/lib/client:
+total 25M
+74908 -rw-r--r--. 1 ramumsrk ramumsrk  16M Jan 20  1970 cwm-guest.jar
+74910 -rw-r--r--. 1 ramumsrk ramumsrk  21K Jan 20  1970 cwm-guest-markdown.jar
+74909 -rw-r--r--. 1 ramumsrk ramumsrk  47K Jan 20  1970 cwm-guest-notebooks.jar
+74912 -rw-r--r--. 1 ramumsrk ramumsrk 120K Jan 20  1970 cwm-guest-terminal.jar
+74913 -rw-r--r--. 1 ramumsrk ramumsrk 2.9M Jan 20  1970 platform-ssh.jar
+74911 -rw-r--r--. 1 ramumsrk ramumsrk 5.4M Jan 20  1970 rd-client.jar
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin/quiche-native:
+total 0
+74880 drwxr-xr-x. 1 ramumsrk ramumsrk 30 Jan 20  1970 darwin-aarch64/
+74884 drwxr-xr-x. 1 ramumsrk ramumsrk 30 Jan 20  1970 darwin-x86-64/
+74888 drwxr-xr-x. 1 ramumsrk ramumsrk 24 Jan 20  1970 linux-aarch64/
+74886 drwxr-xr-x. 1 ramumsrk ramumsrk 24 Jan 20  1970 linux-x86-64/
+74882 drwxr-xr-x. 1 ramumsrk ramumsrk 20 Jan 20  1970 win32-x86-64/
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin/quiche-native/darwin-aarch64:
+total 2.2M
+74881 -rw-r--r--. 1 ramumsrk ramumsrk 2.2M Jan 20  1970 libquiche.dylib
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin/quiche-native/darwin-x86-64:
+total 2.9M
+74885 -rw-r--r--. 1 ramumsrk ramumsrk 2.9M Jan 20  1970 libquiche.dylib
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin/quiche-native/linux-aarch64:
+total 1.7M
+74889 -rw-r--r--. 1 ramumsrk ramumsrk 1.7M Jan 20  1970 libquiche.so
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin/quiche-native/linux-x86-64:
+total 2.2M
+74887 -rw-r--r--. 1 ramumsrk ramumsrk 2.2M Jan 20  1970 libquiche.so
+
+/opt/idea-IC-233.14475.28/plugins/cwm-plugin/quiche-native/win32-x86-64:
+total 2.2M
+74883 -rw-r--r--. 1 ramumsrk ramumsrk 2.2M Jan 20  1970 quiche.dll
+
+/opt/idea-IC-233.14475.28/plugins/dev:
+total 0
+74853 drwxr-xr-x. 1 ramumsrk ramumsrk 14 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/dev/lib:
+total 1004K
+74854 -rw-r--r--. 1 ramumsrk ramumsrk 1001K Jan 20  1970 dev.jar
+
+/opt/idea-IC-233.14475.28/plugins/eclipse:
+total 0
+75182 drwxr-xr-x. 1 ramumsrk ramumsrk 88 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/eclipse/lib:
+total 2.0M
+75185 -rw-r--r--. 1 ramumsrk ramumsrk  42K Jan 20  1970 eclipse-common.jar
+75184 -rw-r--r--. 1 ramumsrk ramumsrk 1.9M Jan 20  1970 eclipse.jar
+75183 -rw-r--r--. 1 ramumsrk ramumsrk  37K Jan 20  1970 eclipse-jps.jar
+
+/opt/idea-IC-233.14475.28/plugins/editorconfig:
+total 0
+74872 drwxr-xr-x. 1 ramumsrk ramumsrk 32 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/editorconfig/lib:
+total 3.0M
+74873 -rw-r--r--. 1 ramumsrk ramumsrk 3.0M Jan 20  1970 editorconfig.jar
+
+/opt/idea-IC-233.14475.28/plugins/emojipicker:
+total 0
+75952 drwxr-xr-x. 1 ramumsrk ramumsrk 30 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/emojipicker/lib:
+total 11M
+75953 -rw-r--r--. 1 ramumsrk ramumsrk 11M Jan 20  1970 emojipicker.jar
+
+/opt/idea-IC-233.14475.28/plugins/featuresTrainer:
+total 0
+75782 drwxr-xr-x. 1 ramumsrk ramumsrk 38 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/featuresTrainer/lib:
+total 23M
+75783 -rw-r--r--. 1 ramumsrk ramumsrk 23M Jan 20  1970 featuresTrainer.jar
+
+/opt/idea-IC-233.14475.28/plugins/gradle:
+total 0
+75099 drwxr-xr-x. 1 ramumsrk ramumsrk 334 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/gradle/lib:
+total 155M
+75106 drwxr-xr-x. 1 ramumsrk ramumsrk  800 Jan 20  1970 ant/
+75132 -rw-r--r--. 1 ramumsrk ramumsrk  57M Jan 20  1970 gradle-api-8.4.jar
+75101 -rw-r--r--. 1 ramumsrk ramumsrk  90M Jan 20  1970 gradle-api-impldep-8.4.jar
+75100 -rw-r--r--. 1 ramumsrk ramumsrk 4.9M Jan 20  1970 gradle.jar
+75104 -rw-r--r--. 1 ramumsrk ramumsrk 1.3M Jan 20  1970 gradle-launcher-8.4.jar
+75102 -rw-r--r--. 1 ramumsrk ramumsrk 373K Jan 20  1970 gradle-tooling-extension-api.jar
+75105 -rw-r--r--. 1 ramumsrk ramumsrk 1.4M Jan 20  1970 gradle-tooling-extension-impl.jar
+75103 -rw-r--r--. 1 ramumsrk ramumsrk 130K Jan 20  1970 gradle-wrapper-8.4.jar
+
+/opt/idea-IC-233.14475.28/plugins/gradle/lib/ant:
+total 5.8M
+75122 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 ant-antlr.jar
+75124 -rw-r--r--. 1 ramumsrk ramumsrk  17K Jan 20  1970 ant-apache-bcel.jar
+75130 -rw-r--r--. 1 ramumsrk ramumsrk 6.6K Jan 20  1970 ant-apache-bsf.jar
+75125 -rw-r--r--. 1 ramumsrk ramumsrk 4.2K Jan 20  1970 ant-apache-log4j.jar
+75123 -rw-r--r--. 1 ramumsrk ramumsrk 6.4K Jan 20  1970 ant-apache-oro.jar
+75119 -rw-r--r--. 1 ramumsrk ramumsrk 6.1K Jan 20  1970 ant-apache-regexp.jar
+75131 -rw-r--r--. 1 ramumsrk ramumsrk 6.3K Jan 20  1970 ant-apache-resolver.jar
+75114 -rw-r--r--. 1 ramumsrk ramumsrk 3.1K Jan 20  1970 ant-apache-xalan2.jar
+75118 -rw-r--r--. 1 ramumsrk ramumsrk 6.9K Jan 20  1970 ant-commons-logging.jar
+75108 -rw-r--r--. 1 ramumsrk ramumsrk 176K Jan 20  1970 ant-commons-net.jar
+75126 -rw-r--r--. 1 ramumsrk ramumsrk  47K Jan 20  1970 ant-imageio.jar
+75112 -rw-r--r--. 1 ramumsrk ramumsrk  44K Jan 20  1970 ant-jai.jar
+75120 -rw-r--r--. 1 ramumsrk ramumsrk 4.6M Jan 20  1970 ant.jar
+75121 -rw-r--r--. 1 ramumsrk ramumsrk  15K Jan 20  1970 ant-javamail.jar
+75127 -rw-r--r--. 1 ramumsrk ramumsrk  17K Jan 20  1970 ant-jdepend.jar
+75115 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 ant-jmf.jar
+75111 -rw-r--r--. 1 ramumsrk ramumsrk 100K Jan 20  1970 ant-jsch.jar
+75117 -rw-r--r--. 1 ramumsrk ramumsrk  15K Jan 20  1970 ant-junit4.jar
+75129 -rw-r--r--. 1 ramumsrk ramumsrk 356K Jan 20  1970 ant-junit.jar
+75128 -rw-r--r--. 1 ramumsrk ramumsrk 190K Jan 20  1970 ant-junitlauncher.jar
+75107 -rw-r--r--. 1 ramumsrk ramumsrk  22K Jan 20  1970 ant-launcher.jar
+75113 -rw-r--r--. 1 ramumsrk ramumsrk  24K Jan 20  1970 ant-netrexx.jar
+75116 -rw-r--r--. 1 ramumsrk ramumsrk  14K Jan 20  1970 ant-swing.jar
+75109 -rw-r--r--. 1 ramumsrk ramumsrk  46K Jan 20  1970 ant-testutil.jar
+75110 -rw-r--r--. 1 ramumsrk ramumsrk 7.2K Jan 20  1970 ant-xz.jar
+
+/opt/idea-IC-233.14475.28/plugins/gradle-analysis:
+total 0
+75145 drwxr-xr-x. 1 ramumsrk ramumsrk 38 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/gradle-analysis/lib:
+total 60K
+75146 -rw-r--r--. 1 ramumsrk ramumsrk 59K Jan 20  1970 gradle-analysis.jar
+
+/opt/idea-IC-233.14475.28/plugins/gradle-dependencyUpdater:
+total 0
+75771 drwxr-xr-x. 1 ramumsrk ramumsrk 56 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/gradle-dependencyUpdater/lib:
+total 40K
+75772 -rw-r--r--. 1 ramumsrk ramumsrk 37K Jan 20  1970 gradle-dependencyUpdater.jar
+
+/opt/idea-IC-233.14475.28/plugins/gradle-java:
+total 0
+75795 drwxr-xr-x. 1 ramumsrk ramumsrk 58 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/gradle-java/lib:
+total 2.9M
+75797 -rw-r--r--. 1 ramumsrk ramumsrk 2.7M Jan 20  1970 gradle-java.jar
+75796 -rw-r--r--. 1 ramumsrk ramumsrk 147K Jan 20  1970 gradle-jps.jar
+
+/opt/idea-IC-233.14475.28/plugins/gradle-java-maven:
+total 0
+75845 drwxr-xr-x. 1 ramumsrk ramumsrk 42 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/gradle-java-maven/lib:
+total 180K
+75846 -rw-r--r--. 1 ramumsrk ramumsrk 179K Jan 20  1970 gradle-java-maven.jar
+
+/opt/idea-IC-233.14475.28/plugins/grazie:
+total 0
+75173 drwxr-xr-x. 1 ramumsrk ramumsrk 20 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/grazie/lib:
+total 35M
+75174 -rw-r--r--. 1 ramumsrk ramumsrk 35M Jan 20  1970 grazie.jar
+
+/opt/idea-IC-233.14475.28/plugins/Groovy:
+total 0
+75751 drwxr-xr-x. 1 ramumsrk ramumsrk 272 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/Groovy/lib:
+total 20M
+75753 drwxr-xr-x. 1 ramumsrk ramumsrk   22 Jan 20  1970 agent/
+75758 drwxr-xr-x. 1 ramumsrk ramumsrk  178 Jan 20  1970 standardDsls/
+75757 -rw-r--r--. 1 ramumsrk ramumsrk  559 Jan 20  1970 console.groovy
+75756 -rw-r--r--. 1 ramumsrk ramumsrk  15K Jan 20  1970 groovy-constants-rt.jar
+75765 -rw-r--r--. 1 ramumsrk ramumsrk  20M Jan 20  1970 Groovy.jar
+75755 -rw-r--r--. 1 ramumsrk ramumsrk 234K Jan 20  1970 groovy-jps.jar
+75764 -rw-r--r--. 1 ramumsrk ramumsrk 147K Jan 20  1970 groovy-rt-class-loader.jar
+75752 -rw-r--r--. 1 ramumsrk ramumsrk  79K Jan 20  1970 groovy-rt.jar
+75766 -rw-r--r--. 1 ramumsrk ramumsrk 2.6K Jan 20  1970 groovy-spock-rt.jar
+
+/opt/idea-IC-233.14475.28/plugins/Groovy/lib/agent:
+total 48K
+75754 -rw-r--r--. 1 ramumsrk ramumsrk 45K Jan 20  1970 gragent.jar
+
+/opt/idea-IC-233.14475.28/plugins/Groovy/lib/standardDsls:
+total 24K
+75760 -rw-r--r--. 1 ramumsrk ramumsrk  839 Jan 20  1970 categoryTransform.gdsl
+75763 -rw-r--r--. 1 ramumsrk ramumsrk 2.4K Jan 20  1970 closuresInMethod.gdsl
+75762 -rw-r--r--. 1 ramumsrk ramumsrk  789 Jan 20  1970 defaultMethods.gdsl
+75759 -rw-r--r--. 1 ramumsrk ramumsrk 1.3K Jan 20  1970 gantScript.gdsl
+75761 -rw-r--r--. 1 ramumsrk ramumsrk 7.3K Jan 20  1970 metaDsl.gdsl
+
+/opt/idea-IC-233.14475.28/plugins/html-tools:
+total 0
+74865 drwxr-xr-x. 1 ramumsrk ramumsrk 28 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/html-tools/lib:
+total 372K
+74866 -rw-r--r--. 1 ramumsrk ramumsrk 372K Jan 20  1970 html-tools.jar
+
+/opt/idea-IC-233.14475.28/plugins/indexing-shared:
+total 0
+75170 drwxr-xr-x. 1 ramumsrk ramumsrk 38 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/indexing-shared/lib:
+total 2.2M
+75171 -rw-r--r--. 1 ramumsrk ramumsrk 2.2M Jan 20  1970 indexing-shared.jar
+
+/opt/idea-IC-233.14475.28/plugins/java:
+total 0
+75805 drwxr-xr-x. 1 ramumsrk ramumsrk 734 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/java/lib:
+total 99M
+75829 drwxr-xr-x. 1 ramumsrk ramumsrk   34 Jan 20  1970 client/
+75827 drwxr-xr-x. 1 ramumsrk ramumsrk   22 Jan 20  1970 ecj/
+75824 drwxr-xr-x. 1 ramumsrk ramumsrk   36 Jan 20  1970 resources/
+75817 drwxr-xr-x. 1 ramumsrk ramumsrk   36 Jan 20  1970 rt/
+75807 -rw-r--r--. 1 ramumsrk ramumsrk  90K Jan 20  1970 aether-dependency-resolver.jar
+75816 -rw-r--r--. 1 ramumsrk ramumsrk 5.0M Jan 20  1970 debugger-memory-agent.jar
+75823 -rw-r--r--. 1 ramumsrk ramumsrk 448K Jan 20  1970 javac2.jar
+75812 -rw-r--r--. 1 ramumsrk ramumsrk 963K Jan 20  1970 java-frontback.jar
+75809 -rw-r--r--. 1 ramumsrk ramumsrk  85M Jan 20  1970 java-impl.jar
+75810 -rw-r--r--. 1 ramumsrk ramumsrk 1.5M Jan 20  1970 jb-jdi.jar
+75820 -rw-r--r--. 1 ramumsrk ramumsrk  62K Jan 20  1970 jgoodies-common.jar
+75808 -rw-r--r--. 1 ramumsrk ramumsrk 877K Jan 20  1970 jps-builders-6.jar
+75811 -rw-r--r--. 1 ramumsrk ramumsrk 4.5M Jan 20  1970 jps-builders.jar
+75806 -rw-r--r--. 1 ramumsrk ramumsrk 125K Jan 20  1970 jps-javac-extension.jar
+75819 -rw-r--r--. 1 ramumsrk ramumsrk 3.3K Jan 20  1970 jps-launcher.jar
+75813 -rw-r--r--. 1 ramumsrk ramumsrk  15K Jan 20  1970 jshell-frontend.jar
+75821 -rw-r--r--. 1 ramumsrk ramumsrk  27K Jan 20  1970 jshell-protocol.jar
+75826 -rw-r--r--. 1 ramumsrk ramumsrk  90K Jan 20  1970 maven-resolver-connector-basic.jar
+75815 -rw-r--r--. 1 ramumsrk ramumsrk  16K Jan 20  1970 maven-resolver-transport-file.jar
+75822 -rw-r--r--. 1 ramumsrk ramumsrk  79K Jan 20  1970 maven-resolver-transport-http.jar
+75814 -rw-r--r--. 1 ramumsrk ramumsrk 504K Jan 20  1970 sa-jdwp.jar
+
+/opt/idea-IC-233.14475.28/plugins/java/lib/client:
+total 160K
+75830 -rw-r--r--. 1 ramumsrk ramumsrk 160K Jan 20  1970 java-frontend.jar
+
+/opt/idea-IC-233.14475.28/plugins/java/lib/ecj:
+total 7.9M
+75828 -rw-r--r--. 1 ramumsrk ramumsrk 7.9M Jan 20  1970 eclipse.jar
+
+/opt/idea-IC-233.14475.28/plugins/java/lib/resources:
+total 696K
+75825 -rw-r--r--. 1 ramumsrk ramumsrk 695K Jan 20  1970 jdkAnnotations.jar
+
+/opt/idea-IC-233.14475.28/plugins/java/lib/rt:
+total 1016K
+75818 -rw-r--r--. 1 ramumsrk ramumsrk 1016K Jan 20  1970 debugger-agent.jar
+
+/opt/idea-IC-233.14475.28/plugins/java-byteCodeViewer:
+total 0
+75799 drwxr-xr-x. 1 ramumsrk ramumsrk 36 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/java-byteCodeViewer/lib:
+total 52K
+75800 -rw-r--r--. 1 ramumsrk ramumsrk 49K Jan 20  1970 byteCodeViewer.jar
+
+/opt/idea-IC-233.14475.28/plugins/java-coverage:
+total 0
+75774 drwxr-xr-x. 1 ramumsrk ramumsrk 94 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/java-coverage/lib:
+total 6.0M
+75776 -rw-r--r--. 1 ramumsrk ramumsrk 1.6M Jan 20  1970 jacoco.jar
+75775 -rw-r--r--. 1 ramumsrk ramumsrk 4.4M Jan 20  1970 java-coverage.jar
+75777 -rw-r--r--. 1 ramumsrk ramumsrk 6.4K Jan 20  1970 java-coverage-rt.jar
+
+/opt/idea-IC-233.14475.28/plugins/java-debugger-streams:
+total 0
+75134 drwxr-xr-x. 1 ramumsrk ramumsrk 50 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/java-debugger-streams/lib:
+total 1.3M
+75135 -rw-r--r--. 1 ramumsrk ramumsrk 1.3M Jan 20  1970 java-debugger-streams.jar
+
+/opt/idea-IC-233.14475.28/plugins/java-decompiler:
+total 0
+75851 drwxr-xr-x. 1 ramumsrk ramumsrk 38 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/java-decompiler/lib:
+total 1.8M
+75852 -rw-r--r--. 1 ramumsrk ramumsrk 1.8M Jan 20  1970 java-decompiler.jar
+
+/opt/idea-IC-233.14475.28/plugins/javaFX:
+total 0
+74835 drwxr-xr-x. 1 ramumsrk ramumsrk 86 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/javaFX/lib:
+total 1.3M
+74838 drwxr-xr-x. 1 ramumsrk ramumsrk   44 Jan 20  1970 rt/
+74840 -rw-r--r--. 1 ramumsrk ramumsrk  55K Jan 20  1970 javaFX-common.jar
+74836 -rw-r--r--. 1 ramumsrk ramumsrk 1.2M Jan 20  1970 javaFX.jar
+74837 -rw-r--r--. 1 ramumsrk ramumsrk  82K Jan 20  1970 javaFX-jps.jar
+
+/opt/idea-IC-233.14475.28/plugins/javaFX/lib/rt:
+total 36K
+74839 -rw-r--r--. 1 ramumsrk ramumsrk 36K Jan 20  1970 sceneBuilderBridge.jar
+
+/opt/idea-IC-233.14475.28/plugins/java-i18n:
+total 0
+75842 drwxr-xr-x. 1 ramumsrk ramumsrk 26 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/java-i18n/lib:
+total 776K
+75843 -rw-r--r--. 1 ramumsrk ramumsrk 774K Jan 20  1970 java-i18n.jar
+
+/opt/idea-IC-233.14475.28/plugins/java-ide-customization:
+total 0
+75848 drwxr-xr-x. 1 ramumsrk ramumsrk 52 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/java-ide-customization/lib:
+total 12K
+75849 -rw-r--r--. 1 ramumsrk ramumsrk 11K Jan 20  1970 java-ide-customization.jar
+
+/opt/idea-IC-233.14475.28/plugins/junit:
+total 0
+74848 drwxr-xr-x. 1 ramumsrk ramumsrk 78 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/junit/lib:
+total 904K
+74851 -rw-r--r--. 1 ramumsrk ramumsrk 693K Jan 20  1970 idea-junit.jar
+74849 -rw-r--r--. 1 ramumsrk ramumsrk  51K Jan 20  1970 junit5-rt.jar
+74850 -rw-r--r--. 1 ramumsrk ramumsrk 153K Jan 20  1970 junit-rt.jar
+
+/opt/idea-IC-233.14475.28/plugins/keymap-eclipse:
+total 0
+75093 drwxr-xr-x. 1 ramumsrk ramumsrk 36 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/keymap-eclipse/lib:
+total 32K
+75094 -rw-r--r--. 1 ramumsrk ramumsrk 30K Jan 20  1970 keymap-eclipse.jar
+
+/opt/idea-IC-233.14475.28/plugins/keymap-netbeans:
+total 0
+75836 drwxr-xr-x. 1 ramumsrk ramumsrk 38 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/keymap-netbeans/lib:
+total 20K
+75837 -rw-r--r--. 1 ramumsrk ramumsrk 17K Jan 20  1970 keymap-netbeans.jar
+
+/opt/idea-IC-233.14475.28/plugins/keymap-visualStudio:
+total 0
+74842 drwxr-xr-x. 1 ramumsrk ramumsrk 46 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/keymap-visualStudio/lib:
+total 48K
+74843 -rw-r--r--. 1 ramumsrk ramumsrk 47K Jan 20  1970 keymap-visualStudio.jar
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin:
+total 0
+74941 drwxr-xr-x. 1 ramumsrk ramumsrk   60 Jan 20  1970 kotlinc/
+75070 drwxr-xr-x. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/kotlinc:
+total 4.0K
+74942 drwxr-xr-x. 1 ramumsrk ramumsrk  252 Jan 20  1970 bin/
+75010 drwxr-xr-x. 1 ramumsrk ramumsrk 3.0K Jan 20  1970 lib/
+74958 drwxr-xr-x. 1 ramumsrk ramumsrk  148 Jan 20  1970 license/
+74955 drwxr-xr-x. 1 ramumsrk ramumsrk   22 Jan 20  1970 META-INF/
+74957 -rw-r--r--. 1 ramumsrk ramumsrk   18 Jan 20  1970 build.txt
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/kotlinc/bin:
+total 48K
+74945 -rw-r--r--. 1 ramumsrk ramumsrk  405 Jan 20  1970 kapt
+74950 -rwxr-xr-x. 1 ramumsrk ramumsrk  310 Jan 20  1970 kotlin*
+74944 -rwxr-xr-x. 1 ramumsrk ramumsrk 3.0K Jan 20  1970 kotlinc*
+74948 -rwxr-xr-x. 1 ramumsrk ramumsrk  351 Jan 20  1970 kotlinc-js*
+74954 -rwxr-xr-x. 1 ramumsrk ramumsrk  286 Jan 20  1970 kotlinc-jvm*
+74949 -rwxr-xr-x. 1 ramumsrk ramumsrk  350 Jan 20  1970 kotlin-dce-js*
+74953 -rw-r--r--. 1 ramumsrk ramumsrk  375 Jan 20  1970 kapt.bat
+74951 -rw-r--r--. 1 ramumsrk ramumsrk  282 Jan 20  1970 kotlin.bat
+74952 -rw-r--r--. 1 ramumsrk ramumsrk 3.6K Jan 20  1970 kotlinc.bat
+74947 -rw-r--r--. 1 ramumsrk ramumsrk  323 Jan 20  1970 kotlinc-js.bat
+74943 -rw-r--r--. 1 ramumsrk ramumsrk  248 Jan 20  1970 kotlinc-jvm.bat
+74946 -rw-r--r--. 1 ramumsrk ramumsrk  322 Jan 20  1970 kotlin-dce-js.bat
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/kotlinc/lib:
+total 201M
+75030 -rw-r--r--. 1 ramumsrk ramumsrk  24K Jan 20  1970 allopen-compiler-plugin.jar
+75036 -rw-r--r--. 1 ramumsrk ramumsrk 491K Jan 20  1970 android-extensions-compiler.jar
+75026 -rw-r--r--. 1 ramumsrk ramumsrk 9.5K Jan 20  1970 android-extensions-runtime.jar
+75046 -rw-r--r--. 1 ramumsrk ramumsrk  18K Jan 20  1970 annotations-13.0.jar
+75016 -rw-r--r--. 1 ramumsrk ramumsrk  51K Jan 20  1970 assignment-compiler-plugin.jar
+75034 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 js.engines.jar
+75049 -rw-r--r--. 1 ramumsrk ramumsrk 1.2M Jan 20  1970 jvm-abi-gen.jar
+75069 -rw-r--r--. 1 ramumsrk ramumsrk  29K Jan 20  1970 kotlin-annotation-processing-cli.jar
+75068 -rw-r--r--. 1 ramumsrk ramumsrk 464K Jan 20  1970 kotlin-annotation-processing-compiler.jar
+75013 -rw-r--r--. 1 ramumsrk ramumsrk 7.2M Jan 20  1970 kotlin-annotation-processing.jar
+75054 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 kotlin-annotation-processing-runtime.jar
+75062 -rw-r--r--. 1 ramumsrk ramumsrk 2.7K Jan 20  1970 kotlin-annotations-jvm.jar
+75056 -rw-r--r--. 1 ramumsrk ramumsrk 3.1K Jan 20  1970 kotlin-annotations-jvm-sources.jar
+75029 -rw-r--r--. 1 ramumsrk ramumsrk  25K Jan 20  1970 kotlin-ant.jar
+75065 -rw-r--r--. 1 ramumsrk ramumsrk 164M Jan 20  1970 kotlin-compiler.jar
+75045 -rw-r--r--. 1 ramumsrk ramumsrk 1.4M Jan 20  1970 kotlin-daemon-client.jar
+75014 -rw-r--r--. 1 ramumsrk ramumsrk 389K Jan 20  1970 kotlin-daemon.jar
+75021 -rw-r--r--. 1 ramumsrk ramumsrk 496K Jan 20  1970 kotlin-imports-dumper-compiler-plugin.jar
+75053 -rw-r--r--. 1 ramumsrk ramumsrk 6.4M Jan 20  1970 kotlin-main-kts.jar
+75060 -rw-r--r--. 1 ramumsrk ramumsrk  52K Jan 20  1970 kotlin-preloader.jar
+75039 -rw-r--r--. 1 ramumsrk ramumsrk 3.1M Jan 20  1970 kotlin-reflect.jar
+75023 -rw-r--r--. 1 ramumsrk ramumsrk 714K Jan 20  1970 kotlin-reflect-sources.jar
+75059 -rw-r--r--. 1 ramumsrk ramumsrk  31K Jan 20  1970 kotlin-runner.jar
+75040 -rw-r--r--. 1 ramumsrk ramumsrk 226K Jan 20  1970 kotlin-scripting-common.jar
+75012 -rw-r--r--. 1 ramumsrk ramumsrk 312K Jan 20  1970 kotlin-scripting-compiler-impl.jar
+75028 -rw-r--r--. 1 ramumsrk ramumsrk 434K Jan 20  1970 kotlin-scripting-compiler.jar
+75066 -rw-r--r--. 1 ramumsrk ramumsrk 197K Jan 20  1970 kotlin-scripting-jvm.jar
+75052 -rw-r--r--. 1 ramumsrk ramumsrk  43K Jan 20  1970 kotlin-script-runtime.jar
+75063 -rw-r--r--. 1 ramumsrk ramumsrk 9.7K Jan 20  1970 kotlin-script-runtime-sources.jar
+75032 -rw-r--r--. 1 ramumsrk ramumsrk 971K Jan 20  1970 kotlin-serialization-compiler-plugin.jar
+75050 -rw-r--r--. 1 ramumsrk ramumsrk 1.7M Jan 20  1970 kotlin-stdlib.jar
+75067 -rw-r--r--. 1 ramumsrk ramumsrk  961 Jan 20  1970 kotlin-stdlib-jdk7.jar
+75058 -rw-r--r--. 1 ramumsrk ramumsrk  580 Jan 20  1970 kotlin-stdlib-jdk7-sources.jar
+75027 -rw-r--r--. 1 ramumsrk ramumsrk  967 Jan 20  1970 kotlin-stdlib-jdk8.jar
+75022 -rw-r--r--. 1 ramumsrk ramumsrk  556 Jan 20  1970 kotlin-stdlib-jdk8-sources.jar
+75017 -rw-r--r--. 1 ramumsrk ramumsrk 3.7M Jan 20  1970 kotlin-stdlib-js.jar
+75047 -rw-r--r--. 1 ramumsrk ramumsrk 522K Jan 20  1970 kotlin-stdlib-js-sources.jar
+75024 -rw-r--r--. 1 ramumsrk ramumsrk 592K Jan 20  1970 kotlin-stdlib-sources.jar
+75037 -rw-r--r--. 1 ramumsrk ramumsrk 131K Jan 20  1970 kotlin-test.jar
+75064 -rw-r--r--. 1 ramumsrk ramumsrk 110K Jan 20  1970 kotlin-test-js.jar
+75020 -rw-r--r--. 1 ramumsrk ramumsrk 7.9K Jan 20  1970 kotlin-test-js-sources.jar
+75015 -rw-r--r--. 1 ramumsrk ramumsrk 5.1K Jan 20  1970 kotlin-test-junit5.jar
+75061 -rw-r--r--. 1 ramumsrk ramumsrk 1.8K Jan 20  1970 kotlin-test-junit5-sources.jar
+75055 -rw-r--r--. 1 ramumsrk ramumsrk 5.1K Jan 20  1970 kotlin-test-junit.jar
+75019 -rw-r--r--. 1 ramumsrk ramumsrk 1.8K Jan 20  1970 kotlin-test-junit-sources.jar
+75031 -rw-r--r--. 1 ramumsrk ramumsrk  11K Jan 20  1970 kotlin-test-sources.jar
+75035 -rw-r--r--. 1 ramumsrk ramumsrk 5.1K Jan 20  1970 kotlin-test-testng.jar
+75025 -rw-r--r--. 1 ramumsrk ramumsrk 1.8K Jan 20  1970 kotlin-test-testng-sources.jar
+75018 -rw-r--r--. 1 ramumsrk ramumsrk 1.5M Jan 20  1970 kotlinx-coroutines-core-jvm.jar
+75057 -rw-r--r--. 1 ramumsrk ramumsrk 971K Jan 20  1970 kotlinx-serialization-compiler-plugin.jar
+75011 -rw-r--r--. 1 ramumsrk ramumsrk 319K Jan 20  1970 lombok-compiler-plugin.jar
+75051 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 mutability-annotations-compat.jar
+75038 -rw-r--r--. 1 ramumsrk ramumsrk  62K Jan 20  1970 noarg-compiler-plugin.jar
+75043 -rw-r--r--. 1 ramumsrk ramumsrk 321K Jan 20  1970 parcelize-compiler.jar
+75044 -rw-r--r--. 1 ramumsrk ramumsrk 6.9K Jan 20  1970 parcelize-runtime.jar
+75048 -rw-r--r--. 1 ramumsrk ramumsrk  19K Jan 20  1970 sam-with-receiver-compiler-plugin.jar
+75033 -rw-r--r--. 1 ramumsrk ramumsrk 434K Jan 20  1970 scripting-compiler.jar
+75042 -rw-r--r--. 1 ramumsrk ramumsrk 560K Jan 20  1970 trove4j.jar
+75041 -rw-r--r--. 1 ramumsrk ramumsrk 2.5M Jan 20  1970 kotlin-stdlib-js.klib
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/kotlinc/license:
+total 44K
+74964 drwxr-xr-x. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 third_party/
+74963 -rw-r--r--. 1 ramumsrk ramumsrk  18K Jan 20  1970 README.md
+74959 -rw-r--r--. 1 ramumsrk ramumsrk  208 Jan 20  1970 COPYRIGHT_HEADER.txt
+74962 -rw-r--r--. 1 ramumsrk ramumsrk  647 Jan 20  1970 COPYRIGHT.txt
+74961 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 LICENSE.txt
+74960 -rw-r--r--. 1 ramumsrk ramumsrk  482 Jan 20  1970 NOTICE.txt
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/kotlinc/license/third_party:
+total 320K
+75004 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 fastutil_licence
+74979 drwxr-xr-x. 1 ramumsrk ramumsrk  326 Jan 20  1970 testdata/
+74996 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 aalto_xml_licence.txt
+75000 -rw-r--r--. 1 ramumsrk ramumsrk  11K Jan 20  1970 aether_license.txt
+74968 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 aosp_license.txt
+75003 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 args4j_LICENSE.txt
+75005 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 asmble_license.txt
+75001 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 asm_license.txt
+74994 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 assemblyscript_license.txt
+74992 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 boost_LICENSE.txt
+74969 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 caffeine_LICENSE.txt
+74966 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 closure-compiler_LICENSE.txt
+74967 -rw-r--r--. 1 ramumsrk ramumsrk 2.3K Jan 20  1970 dart_LICENSE.txt
+74972 -rw-r--r--. 1 ramumsrk ramumsrk  24K Jan 20  1970 gradle_license.txt
+75008 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 gradle-node-plugin_LICENSE.txt
+74974 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 guava_license.txt
+74990 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 gwt_license.txt
+75009 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 jgit_license.txt
+74971 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 jquery_license.txt
+75006 -rw-r--r--. 1 ramumsrk ramumsrk  594 Jan 20  1970 jshashtable_license.txt
+75002 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 karma_LICENSE.txt
+74973 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 karma-teamcity-reporter_LICENSE.txt
+74999 -rw-r--r--. 1 ramumsrk ramumsrk 2.0K Jan 20  1970 lodash_LICENSE.txt
+74998 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 lombok_LICENSE.txt
+74978 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 maven_LICENSE.txt
+74995 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 mocha-teamcity-reporter_LICENSE.txt
+74965 -rw-r--r--. 1 ramumsrk ramumsrk  587 Jan 20  1970 okhttp_license.txt
+74975 -rw-r--r--. 1 ramumsrk ramumsrk  934 Jan 20  1970 prototype_license.txt
+74976 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 qunit_license.txt
+74977 -rw-r--r--. 1 ramumsrk ramumsrk  48K Jan 20  1970 rhino_LICENSE.txt
+74991 -rw-r--r--. 1 ramumsrk ramumsrk 1.7K Jan 20  1970 scala_license.txt
+74970 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 sl4f_license.txt
+74988 -rw-r--r--. 1 ramumsrk ramumsrk  388 Jan 20  1970 stax2-api.txt
+74997 -rw-r--r--. 1 ramumsrk ramumsrk  245 Jan 20  1970 sun_license.txt
+75007 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 teamcity-service-messages_LICENSE.txt
+74993 -rw-r--r--. 1 ramumsrk ramumsrk  26K Jan 20  1970 trove_license.txt
+74989 -rw-r--r--. 1 ramumsrk ramumsrk  766 Jan 20  1970 trove_readme_license.txt
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/kotlinc/license/third_party/testdata:
+total 96K
+74986 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 dagger_license.txt
+74983 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 eclipse_distribution_license.txt
+74981 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 eclipse_license.txt
+74984 -rw-r--r--. 1 ramumsrk ramumsrk  26K Jan 20  1970 findbugs_license.txt
+74985 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 jspecify_license.txt
+74980 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 lombok_license.txt
+74987 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 rxjava_license.txt
+74982 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 spring_license.txt
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/kotlinc/META-INF:
+total 4.0K
+74956 -rw-r--r--. 1 ramumsrk ramumsrk 25 Jan 20  1970 MANIFEST.MF
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/lib:
+total 269M
+75080 drwxr-xr-x. 1 ramumsrk ramumsrk   42 Jan 20  1970 jps/
+75086 -rw-r--r--. 1 ramumsrk ramumsrk 1.9M Jan 20  1970 javaslang.jar
+75084 -rw-r--r--. 1 ramumsrk ramumsrk 3.5K Jan 20  1970 javax-inject.jar
+75089 -rw-r--r--. 1 ramumsrk ramumsrk  35K Jan 20  1970 kotlin-base-jps.jar
+75074 -rw-r--r--. 1 ramumsrk ramumsrk  51K Jan 20  1970 kotlinc.allopen-compiler-plugin.jar
+75088 -rw-r--r--. 1 ramumsrk ramumsrk 1.4M Jan 20  1970 kotlinc.android-extensions-compiler-plugin.jar
+75082 -rw-r--r--. 1 ramumsrk ramumsrk 124K Jan 20  1970 kotlinc.assignment-compiler-plugin.jar
+75071 -rw-r--r--. 1 ramumsrk ramumsrk  20M Jan 20  1970 kotlinc.kotlin-compiler-common.jar
+75083 -rw-r--r--. 1 ramumsrk ramumsrk  64M Jan 20  1970 kotlinc.kotlin-compiler-fe10.jar
+75076 -rw-r--r--. 1 ramumsrk ramumsrk  21M Jan 20  1970 kotlinc.kotlin-compiler-ir.jar
+75091 -rw-r--r--. 1 ramumsrk ramumsrk 390K Jan 20  1970 kotlinc.kotlin-jps-common.jar
+75073 -rw-r--r--. 1 ramumsrk ramumsrk 2.7M Jan 20  1970 kotlinc.kotlinx-serialization-compiler-plugin.jar
+75087 -rw-r--r--. 1 ramumsrk ramumsrk 805K Jan 20  1970 kotlinc.lombok-compiler-plugin.jar
+75078 -rw-r--r--. 1 ramumsrk ramumsrk 192K Jan 20  1970 kotlinc.noarg-compiler-plugin.jar
+75075 -rw-r--r--. 1 ramumsrk ramumsrk 955K Jan 20  1970 kotlinc.parcelize-compiler-plugin.jar
+75072 -rw-r--r--. 1 ramumsrk ramumsrk  40K Jan 20  1970 kotlinc.sam-with-receiver-compiler-plugin.jar
+75090 -rw-r--r--. 1 ramumsrk ramumsrk 1.2M Jan 20  1970 kotlinc.scripting-compiler-plugin.jar
+75079 -rw-r--r--. 1 ramumsrk ramumsrk  12M Jan 20  1970 kotlin-gradle-tooling.jar
+75077 -rw-r--r--. 1 ramumsrk ramumsrk 143M Jan 20  1970 kotlin-plugin.jar
+75085 -rw-r--r--. 1 ramumsrk ramumsrk 593K Jan 20  1970 kotlinx-collections-immutable.jar
+
+/opt/idea-IC-233.14475.28/plugins/Kotlin/lib/jps:
+total 32M
+75081 -rw-r--r--. 1 ramumsrk ramumsrk 32M Jan 20  1970 kotlin-jps-plugin.jar
+
+/opt/idea-IC-233.14475.28/plugins/markdown:
+total 0
+75137 drwxr-xr-x. 1 ramumsrk ramumsrk 24 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/markdown/lib:
+total 4.9M
+75138 -rw-r--r--. 1 ramumsrk ramumsrk 4.9M Jan 20  1970 markdown.jar
+
+/opt/idea-IC-233.14475.28/plugins/marketplace:
+total 4.0K
+75789 drwxr-xr-x. 1 ramumsrk ramumsrk 38 Jan 20  1970 lib/
+75788 -rw-r--r--. 1 ramumsrk ramumsrk 15 Jan 20  1970 platform-build.txt
+
+/opt/idea-IC-233.14475.28/plugins/marketplace/lib:
+total 16K
+75791 drwxr-xr-x. 1 ramumsrk ramumsrk  90 Jan 20  1970 boot/
+75790 -rw-r--r--. 1 ramumsrk ramumsrk 14K Jan 20  1970 marketplace.jar
+
+/opt/idea-IC-233.14475.28/plugins/marketplace/lib/boot:
+total 2.8M
+75793 -rw-r--r--. 1 ramumsrk ramumsrk 260K Jan 20  1970 marketplace-bootstrap.jar
+75792 -rw-r--r--. 1 ramumsrk ramumsrk 2.6M Jan 20  1970 marketplace-impl.jar
+
+/opt/idea-IC-233.14475.28/plugins/maven:
+total 0
+74708 drwxr-xr-x. 1 ramumsrk ramumsrk 482 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib:
+total 19M
+74719 drwxr-xr-x. 1 ramumsrk ramumsrk   74 Jan 20  1970 maven3/
+74822 drwxr-xr-x. 1 ramumsrk ramumsrk  364 Jan 20  1970 maven3-server-lib/
+74709 drwxr-xr-x. 1 ramumsrk ramumsrk    0 Jan 20  1970 maven4-server-lib/
+74714 drwxr-xr-x. 1 ramumsrk ramumsrk    6 Jan 20  1970 intellij.maven.server.indexer/
+74832 -rw-r--r--. 1 ramumsrk ramumsrk 7.4K Jan 20  1970 artifact-resolver-m31.jar
+74833 -rw-r--r--. 1 ramumsrk ramumsrk  64K Jan 20  1970 maven36-server.jar
+74710 -rw-r--r--. 1 ramumsrk ramumsrk 179K Jan 20  1970 maven3-server-common.jar
+74712 -rw-r--r--. 1 ramumsrk ramumsrk 231K Jan 20  1970 maven3-server.jar
+74831 -rw-r--r--. 1 ramumsrk ramumsrk 252K Jan 20  1970 maven40-server.jar
+74821 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 maven-event-listener.jar
+74713 -rw-r--r--. 1 ramumsrk ramumsrk  18M Jan 20  1970 maven.jar
+74830 -rw-r--r--. 1 ramumsrk ramumsrk 197K Jan 20  1970 maven-jps.jar
+74711 -rw-r--r--. 1 ramumsrk ramumsrk  49K Jan 20  1970 maven-server-indexer.jar
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3:
+total 32K
+74720 drwxr-xr-x. 1 ramumsrk ramumsrk   86 Jan 20  1970 bin/
+74727 drwxr-xr-x. 1 ramumsrk ramumsrk  108 Jan 20  1970 boot/
+74730 drwxr-xr-x. 1 ramumsrk ramumsrk   66 Jan 20  1970 conf/
+74738 drwxr-xr-x. 1 ramumsrk ramumsrk 3.5K Jan 20  1970 lib/
+74736 -rw-r--r--. 1 ramumsrk ramumsrk  19K Jan 20  1970 LICENSE
+74737 -rw-r--r--. 1 ramumsrk ramumsrk 5.0K Jan 20  1970 NOTICE
+74735 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 README.txt
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/bin:
+total 32K
+74725 -rwxr-xr-x. 1 ramumsrk ramumsrk 5.8K Jan 20  1970 mvn*
+74726 -rwxr-xr-x. 1 ramumsrk ramumsrk 1.7K Jan 20  1970 mvnDebug*
+74722 -rwxr-xr-x. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 mvnyjp*
+74723 -rw-r--r--. 1 ramumsrk ramumsrk 6.2K Jan 20  1970 mvn.cmd
+74721 -rw-r--r--. 1 ramumsrk ramumsrk 2.2K Jan 20  1970 mvnDebug.cmd
+74724 -rw-r--r--. 1 ramumsrk ramumsrk  327 Jan 20  1970 m2.conf
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/boot:
+total 68K
+74728 -rw-r--r--. 1 ramumsrk ramumsrk 53K Jan 20  1970 plexus-classworlds-2.7.0.jar
+74729 -rw-r--r--. 1 ramumsrk ramumsrk 12K Jan 20  1970 plexus-classworlds.license
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/conf:
+total 16K
+74733 drwxr-xr-x. 1 ramumsrk ramumsrk   46 Jan 20  1970 logging/
+74731 -rw-r--r--. 1 ramumsrk ramumsrk  11K Jan 20  1970 settings.xml
+74732 -rw-r--r--. 1 ramumsrk ramumsrk 3.6K Jan 20  1970 toolchains.xml
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/conf/logging:
+total 4.0K
+74734 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 simplelogger.properties
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/lib:
+total 11M
+74810 drwxr-xr-x. 1 ramumsrk ramumsrk   54 Jan 20  1970 ext/
+74746 drwxr-xr-x. 1 ramumsrk ramumsrk   34 Jan 20  1970 jansi-native/
+74781 -rw-r--r--. 1 ramumsrk ramumsrk 4.4K Jan 20  1970 aopalliance-1.0.jar
+74800 -rw-r--r--. 1 ramumsrk ramumsrk  57K Jan 20  1970 commons-cli-1.5.0.jar
+74806 -rw-r--r--. 1 ramumsrk ramumsrk 353K Jan 20  1970 commons-codec-1.16.0.jar
+74788 -rw-r--r--. 1 ramumsrk ramumsrk 574K Jan 20  1970 commons-lang3-3.12.0.jar
+74741 -rw-r--r--. 1 ramumsrk ramumsrk 4.6K Jan 20  1970 failureaccess-1.0.1.jar
+74778 -rw-r--r--. 1 ramumsrk ramumsrk 2.9M Jan 20  1970 guava-32.0.1-jre.jar
+74756 -rw-r--r--. 1 ramumsrk ramumsrk 760K Jan 20  1970 guice-5.1.0.jar
+74772 -rw-r--r--. 1 ramumsrk ramumsrk 768K Jan 20  1970 httpclient-4.5.14.jar
+74799 -rw-r--r--. 1 ramumsrk ramumsrk 321K Jan 20  1970 httpcore-4.4.16.jar
+74776 -rw-r--r--. 1 ramumsrk ramumsrk 707K Jan 20  1970 jansi-2.4.0.jar
+74761 -rw-r--r--. 1 ramumsrk ramumsrk  26K Jan 20  1970 javax.annotation-api-1.3.2.jar
+74792 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 javax.inject-1.jar
+74794 -rw-r--r--. 1 ramumsrk ramumsrk  17K Jan 20  1970 jcl-over-slf4j-1.7.36.jar
+74770 -rw-r--r--. 1 ramumsrk ramumsrk  58K Jan 20  1970 maven-artifact-3.9.5.jar
+74787 -rw-r--r--. 1 ramumsrk ramumsrk  14K Jan 20  1970 maven-builder-support-3.9.5.jar
+74793 -rw-r--r--. 1 ramumsrk ramumsrk 283K Jan 20  1970 maven-compat-3.9.5.jar
+74820 -rw-r--r--. 1 ramumsrk ramumsrk 684K Jan 20  1970 maven-core-3.9.5.jar
+74753 -rw-r--r--. 1 ramumsrk ramumsrk 106K Jan 20  1970 maven-embedder-3.9.5.jar
+74765 -rw-r--r--. 1 ramumsrk ramumsrk 213K Jan 20  1970 maven-model-3.9.5.jar
+74808 -rw-r--r--. 1 ramumsrk ramumsrk 194K Jan 20  1970 maven-model-builder-3.9.5.jar
+74798 -rw-r--r--. 1 ramumsrk ramumsrk  47K Jan 20  1970 maven-plugin-api-3.9.5.jar
+74809 -rw-r--r--. 1 ramumsrk ramumsrk  28K Jan 20  1970 maven-repository-metadata-3.9.5.jar
+74740 -rw-r--r--. 1 ramumsrk ramumsrk 154K Jan 20  1970 maven-resolver-api-1.9.16.jar
+74743 -rw-r--r--. 1 ramumsrk ramumsrk  40K Jan 20  1970 maven-resolver-connector-basic-1.9.16.jar
+74769 -rw-r--r--. 1 ramumsrk ramumsrk 311K Jan 20  1970 maven-resolver-impl-1.9.16.jar
+74762 -rw-r--r--. 1 ramumsrk ramumsrk  37K Jan 20  1970 maven-resolver-named-locks-1.9.16.jar
+74767 -rw-r--r--. 1 ramumsrk ramumsrk  73K Jan 20  1970 maven-resolver-provider-3.9.5.jar
+74768 -rw-r--r--. 1 ramumsrk ramumsrk  51K Jan 20  1970 maven-resolver-spi-1.9.16.jar
+74807 -rw-r--r--. 1 ramumsrk ramumsrk  16K Jan 20  1970 maven-resolver-transport-file-1.9.16.jar
+74804 -rw-r--r--. 1 ramumsrk ramumsrk  55K Jan 20  1970 maven-resolver-transport-http-1.9.16.jar
+74779 -rw-r--r--. 1 ramumsrk ramumsrk  32K Jan 20  1970 maven-resolver-transport-wagon-1.9.16.jar
+74745 -rw-r--r--. 1 ramumsrk ramumsrk 191K Jan 20  1970 maven-resolver-util-1.9.16.jar
+74786 -rw-r--r--. 1 ramumsrk ramumsrk  44K Jan 20  1970 maven-settings-3.9.5.jar
+74784 -rw-r--r--. 1 ramumsrk ramumsrk  42K Jan 20  1970 maven-settings-builder-3.9.5.jar
+74796 -rw-r--r--. 1 ramumsrk ramumsrk 150K Jan 20  1970 maven-shared-utils-3.3.4.jar
+74742 -rw-r--r--. 1 ramumsrk ramumsrk  24K Jan 20  1970 maven-slf4j-provider-3.9.5.jar
+74803 -rw-r--r--. 1 ramumsrk ramumsrk 371K Jan 20  1970 org.eclipse.sisu.inject-0.3.5.jar
+74783 -rw-r--r--. 1 ramumsrk ramumsrk 201K Jan 20  1970 org.eclipse.sisu.plexus-0.3.5.jar
+74780 -rw-r--r--. 1 ramumsrk ramumsrk  13K Jan 20  1970 plexus-cipher-2.0.jar
+74766 -rw-r--r--. 1 ramumsrk ramumsrk 4.2K Jan 20  1970 plexus-component-annotations-2.1.0.jar
+74785 -rw-r--r--. 1 ramumsrk ramumsrk  84K Jan 20  1970 plexus-interpolation-1.26.jar
+74754 -rw-r--r--. 1 ramumsrk ramumsrk  24K Jan 20  1970 plexus-sec-dispatcher-2.0.jar
+74817 -rw-r--r--. 1 ramumsrk ramumsrk 264K Jan 20  1970 plexus-utils-3.5.1.jar
+74774 -rw-r--r--. 1 ramumsrk ramumsrk  41K Jan 20  1970 slf4j-api-1.7.36.jar
+74773 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 wagon-file-3.5.3.jar
+74801 -rw-r--r--. 1 ramumsrk ramumsrk 9.2K Jan 20  1970 wagon-http-3.5.3.jar
+74775 -rw-r--r--. 1 ramumsrk ramumsrk  40K Jan 20  1970 wagon-http-shared-3.5.3.jar
+74791 -rw-r--r--. 1 ramumsrk ramumsrk  54K Jan 20  1970 wagon-provider-api-3.5.3.jar
+74805 -rw-r--r--. 1 ramumsrk ramumsrk   13 Jan 20  1970 aopalliance.license
+74802 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 commons-cli.license
+74755 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 commons-codec.license
+74764 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 commons-lang3.license
+74763 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 failureaccess.license
+74777 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 guava.license
+74795 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 guice.license
+74759 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 httpclient.license
+74816 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 httpcore.license
+74757 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 jansi.license
+74760 -rw-r--r--. 1 ramumsrk ramumsrk  39K Jan 20  1970 javax.annotation-api.license
+74782 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 javax.inject.license
+74797 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 jcl-over-slf4j.license
+74758 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 org.eclipse.sisu.inject.license
+74744 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 org.eclipse.sisu.plexus.license
+74771 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 plexus-cipher.license
+74819 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 plexus-component-annotations.license
+74818 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 plexus-interpolation.license
+74789 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 plexus-sec-dispatcher.license
+74790 -rw-r--r--. 1 ramumsrk ramumsrk  12K Jan 20  1970 plexus-utils.license
+74739 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 slf4j-api.license
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/lib/ext:
+total 4.0K
+74811 drwxr-xr-x. 1 ramumsrk ramumsrk  20 Jan 20  1970 hazelcast/
+74814 drwxr-xr-x. 1 ramumsrk ramumsrk  20 Jan 20  1970 redisson/
+74813 -rw-r--r--. 1 ramumsrk ramumsrk 143 Jan 20  1970 README.txt
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/lib/ext/hazelcast:
+total 4.0K
+74812 -rw-r--r--. 1 ramumsrk ramumsrk 300 Jan 20  1970 README.txt
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/lib/ext/redisson:
+total 4.0K
+74815 -rw-r--r--. 1 ramumsrk ramumsrk 295 Jan 20  1970 README.txt
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/lib/jansi-native:
+total 4.0K
+74748 drwxr-xr-x. 1 ramumsrk ramumsrk  18 Jan 20  1970 Windows/
+74747 -rw-r--r--. 1 ramumsrk ramumsrk 490 Jan 20  1970 README.txt
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/lib/jansi-native/Windows:
+total 0
+74751 drwxr-xr-x. 1 ramumsrk ramumsrk 18 Jan 20  1970 x86/
+74749 drwxr-xr-x. 1 ramumsrk ramumsrk 18 Jan 20  1970 x86_64/
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/lib/jansi-native/Windows/x86:
+total 112K
+74752 -rw-r--r--. 1 ramumsrk ramumsrk 112K Jan 20  1970 jansi.dll
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3/lib/jansi-native/Windows/x86_64:
+total 128K
+74750 -rw-r--r--. 1 ramumsrk ramumsrk 125K Jan 20  1970 jansi.dll
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven3-server-lib:
+total 1.3M
+74829 -rw-r--r--. 1 ramumsrk ramumsrk  22K Jan 20  1970 archetype-catalog-2.2.jar
+74824 -rw-r--r--. 1 ramumsrk ramumsrk 172K Jan 20  1970 archetype-common-2.2.jar
+74825 -rw-r--r--. 1 ramumsrk ramumsrk  26K Jan 20  1970 archetype-descriptor-2.2.jar
+74828 -rw-r--r--. 1 ramumsrk ramumsrk 804K Jan 20  1970 lucene-core-2.4.1.jar
+74827 -rw-r--r--. 1 ramumsrk ramumsrk  34K Jan 20  1970 maven-dependency-tree-1.2.jar
+74826 -rw-r--r--. 1 ramumsrk ramumsrk 211K Jan 20  1970 nexus-indexer-3.0.4.jar
+74823 -rw-r--r--. 1 ramumsrk ramumsrk  18K Jan 20  1970 nexus-indexer-artifact-1.0.1.jar
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/maven4-server-lib:
+total 0
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/intellij.maven.server.indexer:
+total 0
+74715 drwxr-xr-x. 1 ramumsrk ramumsrk 214 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/maven/lib/intellij.maven.server.indexer/lib:
+total 75M
+74716 -rw-r--r--. 1 ramumsrk ramumsrk  59M Jan 20  1970 apache.maven.archetype.common-3.2.1.jar
+74717 -rw-r--r--. 1 ramumsrk ramumsrk  16M Jan 20  1970 apache.maven.core-3.8.3.jar
+74718 -rw-r--r--. 1 ramumsrk ramumsrk 102K Jan 20  1970 apache.maven.wagon.provider.api-3.5.2.jar
+
+/opt/idea-IC-233.14475.28/plugins/maven-model:
+total 0
+74691 drwxr-xr-x. 1 ramumsrk ramumsrk 30 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/maven-model/lib:
+total 48K
+74692 -rw-r--r--. 1 ramumsrk ramumsrk 48K Jan 20  1970 maven-model.jar
+
+/opt/idea-IC-233.14475.28/plugins/maven-server:
+total 0
+74938 drwxr-xr-x. 1 ramumsrk ramumsrk 32 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/maven-server/lib:
+total 256K
+74939 -rw-r--r--. 1 ramumsrk ramumsrk 255K Jan 20  1970 maven-server.jar
+
+/opt/idea-IC-233.14475.28/plugins/packageChecker:
+total 0
+74705 drwxr-xr-x. 1 ramumsrk ramumsrk 36 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/packageChecker/lib:
+total 2.2M
+74706 -rw-r--r--. 1 ramumsrk ramumsrk 2.2M Jan 20  1970 packageChecker.jar
+
+/opt/idea-IC-233.14475.28/plugins/performanceTesting:
+total 0
+74856 drwxr-xr-x. 1 ramumsrk ramumsrk 44 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/performanceTesting/lib:
+total 20M
+74857 -rw-r--r--. 1 ramumsrk ramumsrk 20M Jan 20  1970 performanceTesting.jar
+
+/opt/idea-IC-233.14475.28/plugins/performanceTesting-async:
+total 0
+74925 drwxr-xr-x. 1 ramumsrk ramumsrk 92 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/performanceTesting-async/lib:
+total 23M
+74926 -rw-r--r--. 1 ramumsrk ramumsrk  18M Jan 20  1970 async-profiler.jar
+74927 -rw-r--r--. 1 ramumsrk ramumsrk 5.1M Jan 20  1970 performanceTesting-async.jar
+
+/opt/idea-IC-233.14475.28/plugins/platform-ijent-impl:
+total 0
+74922 drwxr-xr-x. 1 ramumsrk ramumsrk 46 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/platform-ijent-impl/lib:
+total 2.8M
+74923 -rw-r--r--. 1 ramumsrk ramumsrk 2.8M Jan 20  1970 platform-ijent-impl.jar
+
+/opt/idea-IC-233.14475.28/plugins/platform-images:
+total 0
+74702 drwxr-xr-x. 1 ramumsrk ramumsrk 38 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/platform-images/lib:
+total 796K
+74703 -rw-r--r--. 1 ramumsrk ramumsrk 795K Jan 20  1970 platform-images.jar
+
+/opt/idea-IC-233.14475.28/plugins/platform-langInjection:
+total 0
+74694 drwxr-xr-x. 1 ramumsrk ramumsrk 134 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/platform-langInjection/lib:
+total 1.4M
+74695 -rw-r--r--. 1 ramumsrk ramumsrk 474K Jan 20  1970 IntelliLang.jar
+74696 -rw-r--r--. 1 ramumsrk ramumsrk  60K Jan 20  1970 java-langInjection-jps.jar
+74697 -rw-r--r--. 1 ramumsrk ramumsrk 800K Jan 20  1970 platform-langInjection.jar
+
+/opt/idea-IC-233.14475.28/plugins/platform-tracing-ide:
+total 0
+75176 drwxr-xr-x. 1 ramumsrk ramumsrk 48 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/platform-tracing-ide/lib:
+total 52K
+75177 -rw-r--r--. 1 ramumsrk ramumsrk 51K Jan 20  1970 platform-tracing-ide.jar
+
+/opt/idea-IC-233.14475.28/plugins/properties:
+total 0
+74919 drwxr-xr-x. 1 ramumsrk ramumsrk 28 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/properties/lib:
+total 1.2M
+74920 -rw-r--r--. 1 ramumsrk ramumsrk 1.2M Jan 20  1970 properties.jar
+
+/opt/idea-IC-233.14475.28/plugins/qodana:
+total 0
+75148 drwxr-xr-x. 1 ramumsrk ramumsrk 20 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/qodana/lib:
+total 24M
+75149 -rw-r--r--. 1 ramumsrk ramumsrk 24M Jan 20  1970 qodana.jar
+
+/opt/idea-IC-233.14475.28/plugins/repository-search:
+total 0
+75190 drwxr-xr-x. 1 ramumsrk ramumsrk 42 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/repository-search/lib:
+total 1.3M
+75191 -rw-r--r--. 1 ramumsrk ramumsrk 1.3M Jan 20  1970 repository-search.jar
+
+/opt/idea-IC-233.14475.28/plugins/searchEverywhereMl:
+total 0
+74859 drwxr-xr-x. 1 ramumsrk ramumsrk 44 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/searchEverywhereMl/lib:
+total 4.5M
+74860 -rw-r--r--. 1 ramumsrk ramumsrk 4.5M Jan 20  1970 searchEverywhereMl.jar
+
+/opt/idea-IC-233.14475.28/plugins/settingsSync:
+total 0
+74916 drwxr-xr-x. 1 ramumsrk ramumsrk 32 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/settingsSync/lib:
+total 7.6M
+74917 -rw-r--r--. 1 ramumsrk ramumsrk 7.6M Jan 20  1970 settingsSync.jar
+
+/opt/idea-IC-233.14475.28/plugins/sh:
+total 0
+74932 drwxr-xr-x. 1 ramumsrk ramumsrk 12 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/sh/lib:
+total 1.4M
+74933 -rw-r--r--. 1 ramumsrk ramumsrk 1.4M Jan 20  1970 sh.jar
+
+/opt/idea-IC-233.14475.28/plugins/space:
+total 0
+75193 drwxr-xr-x. 1 ramumsrk ramumsrk 54 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/space/lib:
+total 123M
+75195 -rw-r--r--. 1 ramumsrk ramumsrk 123M Jan 20  1970 space.jar
+75194 -rw-r--r--. 1 ramumsrk ramumsrk 3.4K Jan 20  1970 space-java-jps.jar
+
+/opt/idea-IC-233.14475.28/plugins/tasks:
+total 0
+75096 drwxr-xr-x. 1 ramumsrk ramumsrk 28 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/tasks/lib:
+total 7.4M
+75097 -rw-r--r--. 1 ramumsrk ramumsrk 7.4M Jan 20  1970 tasks-core.jar
+
+/opt/idea-IC-233.14475.28/plugins/terminal:
+total 0
+75167 drwxr-xr-x. 1 ramumsrk ramumsrk 24 Jan 20  1970 lib/
+75151 drwxr-xr-x. 1 ramumsrk ramumsrk 42 Jan 20  1970 shell-integrations/
+
+/opt/idea-IC-233.14475.28/plugins/terminal/lib:
+total 53M
+75168 -rw-r--r--. 1 ramumsrk ramumsrk 53M Jan 20  1970 terminal.jar
+
+/opt/idea-IC-233.14475.28/plugins/terminal/shell-integrations:
+total 0
+75159 drwxr-xr-x. 1 ramumsrk ramumsrk 154 Jan 20  1970 bash/
+75164 drwxr-xr-x. 1 ramumsrk ramumsrk  94 Jan 20  1970 fish/
+75156 drwxr-xr-x. 1 ramumsrk ramumsrk 102 Jan 20  1970 powershell/
+75152 drwxr-xr-x. 1 ramumsrk ramumsrk 102 Jan 20  1970 zsh/
+
+/opt/idea-IC-233.14475.28/plugins/terminal/shell-integrations/bash:
+total 32K
+75162 -rw-r--r--. 1 ramumsrk ramumsrk 1.7K Jan 20  1970 bash-fig.bash
+75161 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 bash-integration.bash
+75163 -rw-r--r--. 1 ramumsrk ramumsrk  16K Jan 20  1970 bash-preexec.bash
+75160 -rw-r--r--. 1 ramumsrk ramumsrk 4.7K Jan 20  1970 command-block-support.bash
+
+/opt/idea-IC-233.14475.28/plugins/terminal/shell-integrations/fish:
+total 8.0K
+75166 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 command-block-support.fish
+75165 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 fish-integration.fish
+
+/opt/idea-IC-233.14475.28/plugins/terminal/shell-integrations/powershell:
+total 8.0K
+75158 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 command-block-support.ps1
+75157 -rw-r--r--. 1 ramumsrk ramumsrk  880 Jan 20  1970 powershell-integration.ps1
+
+/opt/idea-IC-233.14475.28/plugins/terminal/shell-integrations/zsh:
+total 12K
+75153 -rw-r--r--. 1 ramumsrk ramumsrk 4.0K Jan 20  1970 command-block-support.zsh
+75155 -rw-r--r--. 1 ramumsrk ramumsrk 1.7K Jan 20  1970 zsh-integration.zsh
+75154 -rw-r--r--. 1 ramumsrk ramumsrk 2.4K Jan 20  1970 .zshenv
+
+/opt/idea-IC-233.14475.28/plugins/testng:
+total 0
+74868 drwxr-xr-x. 1 ramumsrk ramumsrk 60 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/testng/lib:
+total 4.0M
+74870 -rw-r--r--. 1 ramumsrk ramumsrk 4.0M Jan 20  1970 testng-plugin.jar
+74869 -rw-r--r--. 1 ramumsrk ramumsrk  56K Jan 20  1970 testng-rt.jar
+
+/opt/idea-IC-233.14475.28/plugins/textmate:
+total 0
+75197 drwxr-xr-x. 1 ramumsrk ramumsrk 38 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib:
+total 952K
+75199 drwxr-xr-x. 1 ramumsrk ramumsrk  708 Jan 20  1970 bundles/
+75198 -rw-r--r--. 1 ramumsrk ramumsrk 951K Jan 20  1970 textmate.jar
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles:
+total 0
+75279 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 bat/
+75660 drwxr-xr-x. 1 ramumsrk ramumsrk  40 Jan 20  1970 bicep/
+75451 drwxr-xr-x. 1 ramumsrk ramumsrk  24 Jan 20  1970 bicepparam/
+75492 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 clojure/
+75620 drwxr-xr-x. 1 ramumsrk ramumsrk  72 Jan 20  1970 cmake/
+75322 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 coffeescript/
+75558 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 cpp/
+75676 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 csharp/
+75530 drwxr-xr-x. 1 ramumsrk ramumsrk 196 Jan 20  1970 css/
+75500 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 dart/
+75226 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 diff/
+75686 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 docker/
+75348 drwxr-xr-x. 1 ramumsrk ramumsrk  92 Jan 20  1970 erlang/
+75433 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 fsharp/
+75735 drwxr-xr-x. 1 ramumsrk ramumsrk 190 Jan 20  1970 git-base/
+75218 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 go/
+75423 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 groovy/
+75484 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 handlebars/
+75587 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 hlsl/
+75508 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 html/
+75726 drwxr-xr-x. 1 ramumsrk ramumsrk 266 Jan 20  1970 ini/
+75666 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 java/
+75463 drwxr-xr-x. 1 ramumsrk ramumsrk 284 Jan 20  1970 javascript/
+75252 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 json/
+75694 drwxr-xr-x. 1 ramumsrk ramumsrk 116 Jan 20  1970 jsp/
+75644 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 julia/
+75477 drwxr-xr-x. 1 ramumsrk ramumsrk  52 Jan 20  1970 kotlin/
+75332 drwxr-xr-x. 1 ramumsrk ramumsrk 504 Jan 20  1970 latex/
+75612 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 less/
+75289 drwxr-xr-x. 1 ramumsrk ramumsrk 128 Jan 20  1970 log/
+75636 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 lua/
+75200 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 make/
+75391 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 markdown-basics/
+75263 drwxr-xr-x. 1 ramumsrk ramumsrk 236 Jan 20  1970 markdown-math/
+75607 drwxr-xr-x. 1 ramumsrk ramumsrk  54 Jan 20  1970 mdx/
+75709 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 objective-c/
+75453 drwxr-xr-x. 1 ramumsrk ramumsrk 258 Jan 20  1970 perl/
+75369 drwxr-xr-x. 1 ramumsrk ramumsrk 212 Jan 20  1970 php/
+75312 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 powershell/
+75540 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 pug/
+75595 drwxr-xr-x. 1 ramumsrk ramumsrk 196 Jan 20  1970 python/
+75415 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 r/
+75383 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 razor/
+75296 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 restructuredtext/
+75353 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 ruby/
+75701 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 rust/
+75573 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 scss/
+75361 drwxr-xr-x. 1 ramumsrk ramumsrk 142 Jan 20  1970 search-result/
+75304 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 shaderlab/
+75443 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 shellscript/
+75718 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 sql/
+75519 drwxr-xr-x. 1 ramumsrk ramumsrk 218 Jan 20  1970 swift/
+75627 drwxr-xr-x. 1 ramumsrk ramumsrk 142 Jan 20  1970 terraform/
+75234 drwxr-xr-x. 1 ramumsrk ramumsrk  84 Jan 20  1970 twig/
+75401 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 typescript-basics/
+75208 drwxr-xr-x. 1 ramumsrk ramumsrk 198 Jan 20  1970 vb/
+75582 drwxr-xr-x. 1 ramumsrk ramumsrk  62 Jan 20  1970 viml/
+75548 drwxr-xr-x. 1 ramumsrk ramumsrk 252 Jan 20  1970 xml/
+75652 drwxr-xr-x. 1 ramumsrk ramumsrk 182 Jan 20  1970 yaml/
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/bat:
+total 20K
+75285 drwxr-xr-x. 1 ramumsrk ramumsrk  46 Jan 20  1970 snippets/
+75283 drwxr-xr-x. 1 ramumsrk ramumsrk  50 Jan 20  1970 syntaxes/
+75282 -rw-r--r--. 1 ramumsrk ramumsrk 326 Jan 20  1970 cgmanifest.json
+75280 -rw-r--r--. 1 ramumsrk ramumsrk 455 Jan 20  1970 language-configuration.json
+75288 -rw-r--r--. 1 ramumsrk ramumsrk 661 Jan 20  1970 package.json
+75287 -rw-r--r--. 1 ramumsrk ramumsrk 162 Jan 20  1970 package.nls.json
+75281 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/bat/snippets:
+total 4.0K
+75286 -rw-r--r--. 1 ramumsrk ramumsrk 241 Jan 20  1970 batchfile.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/bat/syntaxes:
+total 20K
+75284 -rw-r--r--. 1 ramumsrk ramumsrk 19K Jan 20  1970 batchfile.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/bicep:
+total 4.0K
+75661 drwxr-xr-x. 1 ramumsrk ramumsrk 126 Jan 20  1970 syntaxes/
+75665 -rw-r--r--. 1 ramumsrk ramumsrk 915 Jan 20  1970 package.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/bicep/syntaxes:
+total 20K
+75664 -rw-r--r--. 1 ramumsrk ramumsrk 939 Jan 20  1970 bicep.codeblock.json
+75663 -rw-r--r--. 1 ramumsrk ramumsrk 830 Jan 20  1970 language-configuration.json
+75662 -rw-r--r--. 1 ramumsrk ramumsrk 11K Jan 20  1970 bicep.tmlanguage
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/bicepparam:
+total 4.0K
+75452 -rw-r--r--. 1 ramumsrk ramumsrk 577 Jan 20  1970 package.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/clojure:
+total 20K
+75496 drwxr-xr-x. 1 ramumsrk ramumsrk  46 Jan 20  1970 syntaxes/
+75495 -rw-r--r--. 1 ramumsrk ramumsrk 561 Jan 20  1970 cgmanifest.json
+75493 -rw-r--r--. 1 ramumsrk ramumsrk 348 Jan 20  1970 language-configuration.json
+75499 -rw-r--r--. 1 ramumsrk ramumsrk 749 Jan 20  1970 package.json
+75498 -rw-r--r--. 1 ramumsrk ramumsrk 133 Jan 20  1970 package.nls.json
+75494 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/clojure/syntaxes:
+total 12K
+75497 -rw-r--r--. 1 ramumsrk ramumsrk 9.0K Jan 20  1970 clojure.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/cmake:
+total 12K
+75625 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 LICENSE
+75621 drwxr-xr-x. 1 ramumsrk ramumsrk   74 Jan 20  1970 syntaxes/
+75626 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 package.json
+75624 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 README.md
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/cmake/syntaxes:
+total 20K
+75623 -rw-r--r--. 1 ramumsrk ramumsrk 1.8K Jan 20  1970 CMakeCache.tmLanguage
+75622 -rw-r--r--. 1 ramumsrk ramumsrk  14K Jan 20  1970 CMake.tmLanguage
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/coffeescript:
+total 20K
+75328 drwxr-xr-x. 1 ramumsrk ramumsrk  52 Jan 20  1970 snippets/
+75326 drwxr-xr-x. 1 ramumsrk ramumsrk  56 Jan 20  1970 syntaxes/
+75325 -rw-r--r--. 1 ramumsrk ramumsrk 591 Jan 20  1970 cgmanifest.json
+75323 -rw-r--r--. 1 ramumsrk ramumsrk 547 Jan 20  1970 language-configuration.json
+75331 -rw-r--r--. 1 ramumsrk ramumsrk 959 Jan 20  1970 package.json
+75330 -rw-r--r--. 1 ramumsrk ramumsrk 162 Jan 20  1970 package.nls.json
+75324 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/coffeescript/snippets:
+total 4.0K
+75329 -rw-r--r--. 1 ramumsrk ramumsrk 237 Jan 20  1970 coffeescript.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/coffeescript/syntaxes:
+total 36K
+75327 -rw-r--r--. 1 ramumsrk ramumsrk 35K Jan 20  1970 coffeescript.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/cpp:
+total 20K
+75568 drwxr-xr-x. 1 ramumsrk ramumsrk   64 Jan 20  1970 snippets/
+75562 drwxr-xr-x. 1 ramumsrk ramumsrk  236 Jan 20  1970 syntaxes/
+75561 -rw-r--r--. 1 ramumsrk ramumsrk 3.9K Jan 20  1970 cgmanifest.json
+75559 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 language-configuration.json
+75572 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 package.json
+75571 -rw-r--r--. 1 ramumsrk ramumsrk  148 Jan 20  1970 package.nls.json
+75560 -rw-r--r--. 1 ramumsrk ramumsrk   33 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/cpp/snippets:
+total 8.0K
+75570 -rw-r--r--. 1 ramumsrk ramumsrk 254 Jan 20  1970 c.code-snippets
+75569 -rw-r--r--. 1 ramumsrk ramumsrk 254 Jan 20  1970 cpp.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/cpp/syntaxes:
+total 2.1M
+75566 -rw-r--r--. 1 ramumsrk ramumsrk 300K Jan 20  1970 cpp.embedded.macro.tmLanguage.json
+75564 -rw-r--r--. 1 ramumsrk ramumsrk 539K Jan 20  1970 cpp.tmLanguage.json
+75563 -rw-r--r--. 1 ramumsrk ramumsrk  98K Jan 20  1970 c.tmLanguage.json
+75565 -rw-r--r--. 1 ramumsrk ramumsrk 637K Jan 20  1970 cuda-cpp.tmLanguage.json
+75567 -rw-r--r--. 1 ramumsrk ramumsrk 555K Jan 20  1970 platform.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/csharp:
+total 20K
+75682 drwxr-xr-x. 1 ramumsrk ramumsrk  40 Jan 20  1970 snippets/
+75680 drwxr-xr-x. 1 ramumsrk ramumsrk  44 Jan 20  1970 syntaxes/
+75679 -rw-r--r--. 1 ramumsrk ramumsrk 450 Jan 20  1970 cgmanifest.json
+75677 -rw-r--r--. 1 ramumsrk ramumsrk 547 Jan 20  1970 language-configuration.json
+75685 -rw-r--r--. 1 ramumsrk ramumsrk 793 Jan 20  1970 package.json
+75684 -rw-r--r--. 1 ramumsrk ramumsrk 142 Jan 20  1970 package.nls.json
+75678 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/csharp/snippets:
+total 4.0K
+75683 -rw-r--r--. 1 ramumsrk ramumsrk 240 Jan 20  1970 csharp.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/csharp/syntaxes:
+total 116K
+75681 -rw-r--r--. 1 ramumsrk ramumsrk 115K Jan 20  1970 csharp.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/css:
+total 20K
+75536 drwxr-xr-x. 1 ramumsrk ramumsrk   38 Jan 20  1970 syntaxes/
+75535 -rw-r--r--. 1 ramumsrk ramumsrk 2.3K Jan 20  1970 cgmanifest.json
+75533 -rw-r--r--. 1 ramumsrk ramumsrk  919 Jan 20  1970 language-configuration.json
+75539 -rw-r--r--. 1 ramumsrk ramumsrk  651 Jan 20  1970 package.json
+75538 -rw-r--r--. 1 ramumsrk ramumsrk  141 Jan 20  1970 package.nls.json
+75531 drwxr-xr-x. 1 ramumsrk ramumsrk   22 Jan 20  1970 .vscode/
+75534 -rw-r--r--. 1 ramumsrk ramumsrk   31 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/css/syntaxes:
+total 72K
+75537 -rw-r--r--. 1 ramumsrk ramumsrk 69K Jan 20  1970 css.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/css/.vscode:
+total 4.0K
+75532 -rw-r--r--. 1 ramumsrk ramumsrk 274 Jan 20  1970 launch.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/dart:
+total 20K
+75504 drwxr-xr-x. 1 ramumsrk ramumsrk   40 Jan 20  1970 syntaxes/
+75503 -rw-r--r--. 1 ramumsrk ramumsrk 2.1K Jan 20  1970 cgmanifest.json
+75501 -rw-r--r--. 1 ramumsrk ramumsrk  633 Jan 20  1970 language-configuration.json
+75507 -rw-r--r--. 1 ramumsrk ramumsrk  498 Jan 20  1970 package.json
+75506 -rw-r--r--. 1 ramumsrk ramumsrk  125 Jan 20  1970 package.nls.json
+75502 -rw-r--r--. 1 ramumsrk ramumsrk   25 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/dart/syntaxes:
+total 12K
+75505 -rw-r--r--. 1 ramumsrk ramumsrk 11K Jan 20  1970 dart.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/diff:
+total 20K
+75230 drwxr-xr-x. 1 ramumsrk ramumsrk   40 Jan 20  1970 syntaxes/
+75229 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 cgmanifest.json
+75227 -rw-r--r--. 1 ramumsrk ramumsrk  135 Jan 20  1970 language-configuration.json
+75233 -rw-r--r--. 1 ramumsrk ramumsrk  554 Jan 20  1970 package.json
+75232 -rw-r--r--. 1 ramumsrk ramumsrk  125 Jan 20  1970 package.nls.json
+75228 -rw-r--r--. 1 ramumsrk ramumsrk   25 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/diff/syntaxes:
+total 4.0K
+75231 -rw-r--r--. 1 ramumsrk ramumsrk 3.6K Jan 20  1970 diff.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/docker:
+total 20K
+75690 drwxr-xr-x. 1 ramumsrk ramumsrk  44 Jan 20  1970 syntaxes/
+75689 -rw-r--r--. 1 ramumsrk ramumsrk 494 Jan 20  1970 cgmanifest.json
+75687 -rw-r--r--. 1 ramumsrk ramumsrk 298 Jan 20  1970 language-configuration.json
+75693 -rw-r--r--. 1 ramumsrk ramumsrk 929 Jan 20  1970 package.json
+75692 -rw-r--r--. 1 ramumsrk ramumsrk 131 Jan 20  1970 package.nls.json
+75688 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/docker/syntaxes:
+total 4.0K
+75691 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 docker.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/erlang:
+total 12K
+75351 drwxr-xr-x. 1 ramumsrk ramumsrk   24 Jan 20  1970 grammar/
+75349 -rw-r--r--. 1 ramumsrk ramumsrk 2.0K Jan 20  1970 language-configuration.json
+75350 -rw-r--r--. 1 ramumsrk ramumsrk 5.6K Jan 20  1970 package.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/erlang/grammar:
+total 68K
+75352 -rw-r--r--. 1 ramumsrk ramumsrk 67K Jan 20  1970 Erlang.plist
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/fsharp:
+total 20K
+75439 drwxr-xr-x. 1 ramumsrk ramumsrk  40 Jan 20  1970 snippets/
+75437 drwxr-xr-x. 1 ramumsrk ramumsrk  44 Jan 20  1970 syntaxes/
+75436 -rw-r--r--. 1 ramumsrk ramumsrk 469 Jan 20  1970 cgmanifest.json
+75434 -rw-r--r--. 1 ramumsrk ramumsrk 616 Jan 20  1970 language-configuration.json
+75442 -rw-r--r--. 1 ramumsrk ramumsrk 839 Jan 20  1970 package.json
+75441 -rw-r--r--. 1 ramumsrk ramumsrk 142 Jan 20  1970 package.nls.json
+75435 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/fsharp/snippets:
+total 4.0K
+75440 -rw-r--r--. 1 ramumsrk ramumsrk 244 Jan 20  1970 fsharp.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/fsharp/syntaxes:
+total 40K
+75438 -rw-r--r--. 1 ramumsrk ramumsrk 37K Jan 20  1970 fsharp.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/git-base:
+total 24K
+75736 drwxr-xr-x. 1 ramumsrk ramumsrk  220 Jan 20  1970 languages/
+75743 drwxr-xr-x. 1 ramumsrk ramumsrk  148 Jan 20  1970 syntaxes/
+75742 -rw-r--r--. 1 ramumsrk ramumsrk 3.3K Jan 20  1970 cgmanifest.json
+75749 -rw-r--r--. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 package.json
+75747 -rw-r--r--. 1 ramumsrk ramumsrk  143 Jan 20  1970 package.nls.json
+75740 -rw-r--r--. 1 ramumsrk ramumsrk  238 Jan 20  1970 tsconfig.json
+75748 -rw-r--r--. 1 ramumsrk ramumsrk  639 Jan 20  1970 README.md
+75741 -rw-r--r--. 1 ramumsrk ramumsrk  111 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/git-base/languages:
+total 12K
+75737 -rw-r--r--. 1 ramumsrk ramumsrk 134 Jan 20  1970 git-commit.language-configuration.json
+75738 -rw-r--r--. 1 ramumsrk ramumsrk 134 Jan 20  1970 git-rebase.language-configuration.json
+75739 -rw-r--r--. 1 ramumsrk ramumsrk  44 Jan 20  1970 ignore.language-configuration.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/git-base/syntaxes:
+total 12K
+75746 -rw-r--r--. 1 ramumsrk ramumsrk 2.3K Jan 20  1970 git-commit.tmLanguage.json
+75745 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 git-rebase.tmLanguage.json
+75744 -rw-r--r--. 1 ramumsrk ramumsrk  145 Jan 20  1970 ignore.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/go:
+total 20K
+75222 drwxr-xr-x. 1 ramumsrk ramumsrk  36 Jan 20  1970 syntaxes/
+75221 -rw-r--r--. 1 ramumsrk ramumsrk 439 Jan 20  1970 cgmanifest.json
+75219 -rw-r--r--. 1 ramumsrk ramumsrk 854 Jan 20  1970 language-configuration.json
+75225 -rw-r--r--. 1 ramumsrk ramumsrk 583 Jan 20  1970 package.json
+75224 -rw-r--r--. 1 ramumsrk ramumsrk 123 Jan 20  1970 package.nls.json
+75220 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/go/syntaxes:
+total 28K
+75223 -rw-r--r--. 1 ramumsrk ramumsrk 25K Jan 20  1970 go.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/groovy:
+total 20K
+75429 drwxr-xr-x. 1 ramumsrk ramumsrk   40 Jan 20  1970 snippets/
+75427 drwxr-xr-x. 1 ramumsrk ramumsrk   44 Jan 20  1970 syntaxes/
+75426 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 cgmanifest.json
+75424 -rw-r--r--. 1 ramumsrk ramumsrk  414 Jan 20  1970 language-configuration.json
+75432 -rw-r--r--. 1 ramumsrk ramumsrk  901 Jan 20  1970 package.json
+75431 -rw-r--r--. 1 ramumsrk ramumsrk  141 Jan 20  1970 package.nls.json
+75425 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/groovy/snippets:
+total 8.0K
+75430 -rw-r--r--. 1 ramumsrk ramumsrk 4.3K Jan 20  1970 groovy.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/groovy/syntaxes:
+total 32K
+75428 -rw-r--r--. 1 ramumsrk ramumsrk 29K Jan 20  1970 groovy.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/handlebars:
+total 20K
+75488 drwxr-xr-x. 1 ramumsrk ramumsrk   52 Jan 20  1970 syntaxes/
+75487 -rw-r--r--. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 cgmanifest.json
+75485 -rw-r--r--. 1 ramumsrk ramumsrk 1.3K Jan 20  1970 language-configuration.json
+75491 -rw-r--r--. 1 ramumsrk ramumsrk  796 Jan 20  1970 package.json
+75490 -rw-r--r--. 1 ramumsrk ramumsrk  139 Jan 20  1970 package.nls.json
+75486 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/handlebars/syntaxes:
+total 20K
+75489 -rw-r--r--. 1 ramumsrk ramumsrk 18K Jan 20  1970 Handlebars.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/hlsl:
+total 20K
+75591 drwxr-xr-x. 1 ramumsrk ramumsrk  40 Jan 20  1970 syntaxes/
+75590 -rw-r--r--. 1 ramumsrk ramumsrk 322 Jan 20  1970 cgmanifest.json
+75588 -rw-r--r--. 1 ramumsrk ramumsrk 305 Jan 20  1970 language-configuration.json
+75594 -rw-r--r--. 1 ramumsrk ramumsrk 649 Jan 20  1970 package.json
+75593 -rw-r--r--. 1 ramumsrk ramumsrk 127 Jan 20  1970 package.nls.json
+75589 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/hlsl/syntaxes:
+total 12K
+75592 -rw-r--r--. 1 ramumsrk ramumsrk 8.4K Jan 20  1970 hlsl.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/html:
+total 20K
+75515 drwxr-xr-x. 1 ramumsrk ramumsrk   36 Jan 20  1970 snippets/
+75512 drwxr-xr-x. 1 ramumsrk ramumsrk  102 Jan 20  1970 syntaxes/
+75511 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 cgmanifest.json
+75509 -rw-r--r--. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 language-configuration.json
+75518 -rw-r--r--. 1 ramumsrk ramumsrk 1.8K Jan 20  1970 package.json
+75517 -rw-r--r--. 1 ramumsrk ramumsrk  135 Jan 20  1970 package.nls.json
+75510 -rw-r--r--. 1 ramumsrk ramumsrk   33 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/html/snippets:
+total 4.0K
+75516 -rw-r--r--. 1 ramumsrk ramumsrk 280 Jan 20  1970 html.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/html/syntaxes:
+total 88K
+75513 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 html-derivative.tmLanguage.json
+75514 -rw-r--r--. 1 ramumsrk ramumsrk  83K Jan 20  1970 html.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/ini:
+total 24K
+75730 drwxr-xr-x. 1 ramumsrk ramumsrk   38 Jan 20  1970 syntaxes/
+75729 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 cgmanifest.json
+75732 -rw-r--r--. 1 ramumsrk ramumsrk  411 Jan 20  1970 ini.language-configuration.json
+75734 -rw-r--r--. 1 ramumsrk ramumsrk 1.3K Jan 20  1970 package.json
+75733 -rw-r--r--. 1 ramumsrk ramumsrk  125 Jan 20  1970 package.nls.json
+75727 -rw-r--r--. 1 ramumsrk ramumsrk  357 Jan 20  1970 properties.language-configuration.json
+75728 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/ini/syntaxes:
+total 4.0K
+75731 -rw-r--r--. 1 ramumsrk ramumsrk 2.4K Jan 20  1970 ini.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/java:
+total 20K
+75672 drwxr-xr-x. 1 ramumsrk ramumsrk   36 Jan 20  1970 snippets/
+75670 drwxr-xr-x. 1 ramumsrk ramumsrk   40 Jan 20  1970 syntaxes/
+75669 -rw-r--r--. 1 ramumsrk ramumsrk 2.2K Jan 20  1970 cgmanifest.json
+75667 -rw-r--r--. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 language-configuration.json
+75675 -rw-r--r--. 1 ramumsrk ramumsrk  651 Jan 20  1970 package.json
+75674 -rw-r--r--. 1 ramumsrk ramumsrk  146 Jan 20  1970 package.nls.json
+75668 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/java/snippets:
+total 4.0K
+75673 -rw-r--r--. 1 ramumsrk ramumsrk 241 Jan 20  1970 java.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/java/syntaxes:
+total 40K
+75671 -rw-r--r--. 1 ramumsrk ramumsrk 40K Jan 20  1970 java.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/javascript:
+total 28K
+75473 drwxr-xr-x. 1 ramumsrk ramumsrk   48 Jan 20  1970 snippets/
+75468 drwxr-xr-x. 1 ramumsrk ramumsrk  218 Jan 20  1970 syntaxes/
+75466 -rw-r--r--. 1 ramumsrk ramumsrk 1.7K Jan 20  1970 cgmanifest.json
+75464 -rw-r--r--. 1 ramumsrk ramumsrk 3.3K Jan 20  1970 javascript-language-configuration.json
+75476 -rw-r--r--. 1 ramumsrk ramumsrk 4.6K Jan 20  1970 package.json
+75475 -rw-r--r--. 1 ramumsrk ramumsrk  158 Jan 20  1970 package.nls.json
+75467 -rw-r--r--. 1 ramumsrk ramumsrk 2.1K Jan 20  1970 tags-language-configuration.json
+75465 -rw-r--r--. 1 ramumsrk ramumsrk   69 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/javascript/snippets:
+total 4.0K
+75474 -rw-r--r--. 1 ramumsrk ramumsrk 3.9K Jan 20  1970 javascript.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/javascript/syntaxes:
+total 464K
+75469 -rw-r--r--. 1 ramumsrk ramumsrk 225K Jan 20  1970 JavaScriptReact.tmLanguage.json
+75472 -rw-r--r--. 1 ramumsrk ramumsrk 222K Jan 20  1970 JavaScript.tmLanguage.json
+75470 -rw-r--r--. 1 ramumsrk ramumsrk  494 Jan 20  1970 Readme.md
+75471 -rw-r--r--. 1 ramumsrk ramumsrk 5.8K Jan 20  1970 Regular Expressions (JavaScript).tmLanguage
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/json:
+total 20K
+75256 drwxr-xr-x. 1 ramumsrk ramumsrk  172 Jan 20  1970 syntaxes/
+75255 -rw-r--r--. 1 ramumsrk ramumsrk  644 Jan 20  1970 cgmanifest.json
+75253 -rw-r--r--. 1 ramumsrk ramumsrk  727 Jan 20  1970 language-configuration.json
+75262 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 package.json
+75261 -rw-r--r--. 1 ramumsrk ramumsrk  125 Jan 20  1970 package.nls.json
+75254 -rw-r--r--. 1 ramumsrk ramumsrk   33 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/json/syntaxes:
+total 340K
+75260 -rw-r--r--. 1 ramumsrk ramumsrk 5.3K Jan 20  1970 JSONC.tmLanguage.json
+75257 -rw-r--r--. 1 ramumsrk ramumsrk 5.2K Jan 20  1970 JSONL.tmLanguage.json
+75259 -rw-r--r--. 1 ramumsrk ramumsrk 5.0K Jan 20  1970 JSON.tmLanguage.json
+75258 -rw-r--r--. 1 ramumsrk ramumsrk 314K Jan 20  1970 snippets.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/jsp:
+total 16K
+75699 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 LICENSE
+75696 drwxr-xr-x. 1 ramumsrk ramumsrk   38 Jan 20  1970 syntaxes/
+75695 -rw-r--r--. 1 ramumsrk ramumsrk  391 Jan 20  1970 jsp-configuration.json
+75700 -rw-r--r--. 1 ramumsrk ramumsrk  806 Jan 20  1970 package.json
+75698 -rw-r--r--. 1 ramumsrk ramumsrk  352 Jan 20  1970 README.md
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/jsp/syntaxes:
+total 56K
+75697 -rw-r--r--. 1 ramumsrk ramumsrk 54K Jan 20  1970 jsp.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/julia:
+total 20K
+75648 drwxr-xr-x. 1 ramumsrk ramumsrk   42 Jan 20  1970 syntaxes/
+75647 -rw-r--r--. 1 ramumsrk ramumsrk  355 Jan 20  1970 cgmanifest.json
+75645 -rw-r--r--. 1 ramumsrk ramumsrk  873 Jan 20  1970 language-configuration.json
+75651 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 package.json
+75650 -rw-r--r--. 1 ramumsrk ramumsrk  127 Jan 20  1970 package.nls.json
+75646 -rw-r--r--. 1 ramumsrk ramumsrk   25 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/julia/syntaxes:
+total 40K
+75649 -rw-r--r--. 1 ramumsrk ramumsrk 37K Jan 20  1970 julia.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/kotlin:
+total 4.0K
+75480 drwxr-xr-x. 1 ramumsrk ramumsrk  64 Jan 20  1970 snippets/
+75478 drwxr-xr-x. 1 ramumsrk ramumsrk  34 Jan 20  1970 syntaxes/
+75483 -rw-r--r--. 1 ramumsrk ramumsrk 523 Jan 20  1970 info.plist
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/kotlin/snippets:
+total 8.0K
+75482 -rw-r--r--. 1 ramumsrk ramumsrk 452 Jan 20  1970 class.tmSnippet
+75481 -rw-r--r--. 1 ramumsrk ramumsrk 447 Jan 20  1970 println.tmSnippet
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/kotlin/syntaxes:
+total 28K
+75479 -rw-r--r--. 1 ramumsrk ramumsrk 26K Jan 20  1970 Kotlin.tmLanguage
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/latex:
+total 36K
+75338 drwxr-xr-x. 1 ramumsrk ramumsrk  272 Jan 20  1970 syntaxes/
+75337 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 cgmanifest.json
+75333 -rw-r--r--. 1 ramumsrk ramumsrk  753 Jan 20  1970 latex-cpp-embedded-language-configuration.json
+75346 -rw-r--r--. 1 ramumsrk ramumsrk 3.2K Jan 20  1970 latex-language-configuration.json
+75345 -rw-r--r--. 1 ramumsrk ramumsrk 3.4K Jan 20  1970 markdown-latex-combined-language-configuration.json
+75347 -rw-r--r--. 1 ramumsrk ramumsrk 2.5K Jan 20  1970 package.json
+75344 -rw-r--r--. 1 ramumsrk ramumsrk  140 Jan 20  1970 package.nls.json
+75335 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 cpp-bailout-license.txt
+75334 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 markdown-latex-combined-license.txt
+75336 -rw-r--r--. 1 ramumsrk ramumsrk   26 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/latex/syntaxes:
+total 772K
+75341 -rw-r--r--. 1 ramumsrk ramumsrk 6.9K Jan 20  1970 Bibtex.tmLanguage.json
+75339 -rw-r--r--. 1 ramumsrk ramumsrk 619K Jan 20  1970 cpp-grammar-bailout.tmLanguage.json
+75342 -rw-r--r--. 1 ramumsrk ramumsrk  54K Jan 20  1970 LaTeX.tmLanguage.json
+75343 -rw-r--r--. 1 ramumsrk ramumsrk  74K Jan 20  1970 markdown-latex-combined.tmLanguage.json
+75340 -rw-r--r--. 1 ramumsrk ramumsrk  10K Jan 20  1970 TeX.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/less:
+total 20K
+75616 drwxr-xr-x. 1 ramumsrk ramumsrk  40 Jan 20  1970 syntaxes/
+75615 -rw-r--r--. 1 ramumsrk ramumsrk 310 Jan 20  1970 cgmanifest.json
+75613 -rw-r--r--. 1 ramumsrk ramumsrk 942 Jan 20  1970 language-configuration.json
+75619 -rw-r--r--. 1 ramumsrk ramumsrk 994 Jan 20  1970 package.json
+75618 -rw-r--r--. 1 ramumsrk ramumsrk 136 Jan 20  1970 package.nls.json
+75614 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/less/syntaxes:
+total 12K
+75617 -rw-r--r--. 1 ramumsrk ramumsrk 12K Jan 20  1970 less.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/log:
+total 16K
+75292 drwxr-xr-x. 1 ramumsrk ramumsrk  38 Jan 20  1970 syntaxes/
+75291 -rw-r--r--. 1 ramumsrk ramumsrk 339 Jan 20  1970 cgmanifest.json
+75295 -rw-r--r--. 1 ramumsrk ramumsrk 452 Jan 20  1970 package.json
+75294 -rw-r--r--. 1 ramumsrk ramumsrk 105 Jan 20  1970 package.nls.json
+75290 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/log/syntaxes:
+total 4.0K
+75293 -rw-r--r--. 1 ramumsrk ramumsrk 3.4K Jan 20  1970 log.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/lua:
+total 20K
+75640 drwxr-xr-x. 1 ramumsrk ramumsrk   38 Jan 20  1970 syntaxes/
+75639 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 cgmanifest.json
+75637 -rw-r--r--. 1 ramumsrk ramumsrk  647 Jan 20  1970 language-configuration.json
+75643 -rw-r--r--. 1 ramumsrk ramumsrk  597 Jan 20  1970 package.json
+75642 -rw-r--r--. 1 ramumsrk ramumsrk  125 Jan 20  1970 package.nls.json
+75638 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/lua/syntaxes:
+total 24K
+75641 -rw-r--r--. 1 ramumsrk ramumsrk 21K Jan 20  1970 lua.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/make:
+total 20K
+75204 drwxr-xr-x. 1 ramumsrk ramumsrk   40 Jan 20  1970 syntaxes/
+75203 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 cgmanifest.json
+75201 -rw-r--r--. 1 ramumsrk ramumsrk  411 Jan 20  1970 language-configuration.json
+75207 -rw-r--r--. 1 ramumsrk ramumsrk  907 Jan 20  1970 package.json
+75206 -rw-r--r--. 1 ramumsrk ramumsrk  127 Jan 20  1970 package.nls.json
+75202 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/make/syntaxes:
+total 16K
+75205 -rw-r--r--. 1 ramumsrk ramumsrk 13K Jan 20  1970 make.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/markdown-basics:
+total 20K
+75397 drwxr-xr-x. 1 ramumsrk ramumsrk   44 Jan 20  1970 snippets/
+75395 drwxr-xr-x. 1 ramumsrk ramumsrk   48 Jan 20  1970 syntaxes/
+75394 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 cgmanifest.json
+75392 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 language-configuration.json
+75400 -rw-r--r--. 1 ramumsrk ramumsrk 3.4K Jan 20  1970 package.json
+75399 -rw-r--r--. 1 ramumsrk ramumsrk  122 Jan 20  1970 package.nls.json
+75393 -rw-r--r--. 1 ramumsrk ramumsrk   45 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/markdown-basics/snippets:
+total 4.0K
+75398 -rw-r--r--. 1 ramumsrk ramumsrk 2.8K Jan 20  1970 markdown.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/markdown-basics/syntaxes:
+total 76K
+75396 -rw-r--r--. 1 ramumsrk ramumsrk 74K Jan 20  1970 markdown.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/markdown-math:
+total 28K
+75264 drwxr-xr-x. 1 ramumsrk ramumsrk   26 Jan 20  1970 notebook/
+75268 drwxr-xr-x. 1 ramumsrk ramumsrk   18 Jan 20  1970 preview-styles/
+75272 drwxr-xr-x. 1 ramumsrk ramumsrk  164 Jan 20  1970 syntaxes/
+75267 -rw-r--r--. 1 ramumsrk ramumsrk   29 Jan 20  1970 .gitignore
+75271 -rw-r--r--. 1 ramumsrk ramumsrk  326 Jan 20  1970 cgmanifest.json
+75278 -rw-r--r--. 1 ramumsrk ramumsrk 2.0K Jan 20  1970 package.json
+75276 -rw-r--r--. 1 ramumsrk ramumsrk  377 Jan 20  1970 package.nls.json
+75266 -rw-r--r--. 1 ramumsrk ramumsrk  170 Jan 20  1970 tsconfig.json
+75277 -rw-r--r--. 1 ramumsrk ramumsrk  246 Jan 20  1970 README.md
+75270 -rw-r--r--. 1 ramumsrk ramumsrk  163 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/markdown-math/notebook:
+total 4.0K
+75265 -rw-r--r--. 1 ramumsrk ramumsrk 188 Jan 20  1970 tsconfig.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/markdown-math/preview-styles:
+total 4.0K
+75269 -rw-r--r--. 1 ramumsrk ramumsrk 416 Jan 20  1970 index.css
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/markdown-math/syntaxes:
+total 12K
+75273 -rw-r--r--. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 md-math-block.tmLanguage.json
+75274 -rw-r--r--. 1 ramumsrk ramumsrk 1.8K Jan 20  1970 md-math-inline.tmLanguage.json
+75275 -rw-r--r--. 1 ramumsrk ramumsrk 2.3K Jan 20  1970 md-math.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/mdx:
+total 8.0K
+75610 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 license
+75608 drwxr-xr-x. 1 ramumsrk ramumsrk   38 Jan 20  1970 syntaxes/
+75611 -rw-r--r--. 1 ramumsrk ramumsrk 2.8K Jan 20  1970 package.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/mdx/syntaxes:
+total 4.0K
+75609 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 mdx.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/objective-c:
+total 20K
+75713 drwxr-xr-x. 1 ramumsrk ramumsrk  112 Jan 20  1970 syntaxes/
+75712 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 cgmanifest.json
+75710 -rw-r--r--. 1 ramumsrk ramumsrk  414 Jan 20  1970 language-configuration.json
+75717 -rw-r--r--. 1 ramumsrk ramumsrk  895 Jan 20  1970 package.json
+75716 -rw-r--r--. 1 ramumsrk ramumsrk  141 Jan 20  1970 package.nls.json
+75711 -rw-r--r--. 1 ramumsrk ramumsrk   33 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/objective-c/syntaxes:
+total 368K
+75715 -rw-r--r--. 1 ramumsrk ramumsrk 229K Jan 20  1970 objective-c++.tmLanguage.json
+75714 -rw-r--r--. 1 ramumsrk ramumsrk 134K Jan 20  1970 objective-c.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/perl:
+total 24K
+75457 drwxr-xr-x. 1 ramumsrk ramumsrk   82 Jan 20  1970 syntaxes/
+75456 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 cgmanifest.json
+75462 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 package.json
+75461 -rw-r--r--. 1 ramumsrk ramumsrk  127 Jan 20  1970 package.nls.json
+75454 -rw-r--r--. 1 ramumsrk ramumsrk  447 Jan 20  1970 perl6.language-configuration.json
+75460 -rw-r--r--. 1 ramumsrk ramumsrk  590 Jan 20  1970 perl.language-configuration.json
+75455 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/perl/syntaxes:
+total 76K
+75458 -rw-r--r--. 1 ramumsrk ramumsrk 12K Jan 20  1970 perl6.tmLanguage.json
+75459 -rw-r--r--. 1 ramumsrk ramumsrk 63K Jan 20  1970 perl.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/php:
+total 20K
+75379 drwxr-xr-x. 1 ramumsrk ramumsrk   34 Jan 20  1970 snippets/
+75376 drwxr-xr-x. 1 ramumsrk ramumsrk   78 Jan 20  1970 syntaxes/
+75375 -rw-r--r--. 1 ramumsrk ramumsrk  320 Jan 20  1970 cgmanifest.json
+75373 -rw-r--r--. 1 ramumsrk ramumsrk 2.4K Jan 20  1970 language-configuration.json
+75382 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 package.json
+75381 -rw-r--r--. 1 ramumsrk ramumsrk  126 Jan 20  1970 package.nls.json
+75370 drwxr-xr-x. 1 ramumsrk ramumsrk   42 Jan 20  1970 .vscode/
+75374 -rw-r--r--. 1 ramumsrk ramumsrk   73 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/php/snippets:
+total 8.0K
+75380 -rw-r--r--. 1 ramumsrk ramumsrk 7.9K Jan 20  1970 php.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/php/syntaxes:
+total 140K
+75377 -rw-r--r--. 1 ramumsrk ramumsrk 2.3K Jan 20  1970 html.tmLanguage.json
+75378 -rw-r--r--. 1 ramumsrk ramumsrk 135K Jan 20  1970 php.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/php/.vscode:
+total 8.0K
+75372 -rw-r--r--. 1 ramumsrk ramumsrk 324 Jan 20  1970 launch.json
+75371 -rw-r--r--. 1 ramumsrk ramumsrk 190 Jan 20  1970 tasks.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/powershell:
+total 20K
+75318 drwxr-xr-x. 1 ramumsrk ramumsrk  48 Jan 20  1970 snippets/
+75316 drwxr-xr-x. 1 ramumsrk ramumsrk  52 Jan 20  1970 syntaxes/
+75315 -rw-r--r--. 1 ramumsrk ramumsrk 324 Jan 20  1970 cgmanifest.json
+75313 -rw-r--r--. 1 ramumsrk ramumsrk 684 Jan 20  1970 language-configuration.json
+75321 -rw-r--r--. 1 ramumsrk ramumsrk 711 Jan 20  1970 package.json
+75320 -rw-r--r--. 1 ramumsrk ramumsrk 158 Jan 20  1970 package.nls.json
+75314 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/powershell/snippets:
+total 4.0K
+75319 -rw-r--r--. 1 ramumsrk ramumsrk 240 Jan 20  1970 powershell.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/powershell/syntaxes:
+total 28K
+75317 -rw-r--r--. 1 ramumsrk ramumsrk 28K Jan 20  1970 powershell.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/pug:
+total 20K
+75544 drwxr-xr-x. 1 ramumsrk ramumsrk  38 Jan 20  1970 syntaxes/
+75543 -rw-r--r--. 1 ramumsrk ramumsrk 473 Jan 20  1970 cgmanifest.json
+75541 -rw-r--r--. 1 ramumsrk ramumsrk 417 Jan 20  1970 language-configuration.json
+75547 -rw-r--r--. 1 ramumsrk ramumsrk 659 Jan 20  1970 package.json
+75546 -rw-r--r--. 1 ramumsrk ramumsrk 125 Jan 20  1970 package.nls.json
+75542 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/pug/syntaxes:
+total 20K
+75545 -rw-r--r--. 1 ramumsrk ramumsrk 20K Jan 20  1970 pug.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/python:
+total 20K
+75602 drwxr-xr-x. 1 ramumsrk ramumsrk  108 Jan 20  1970 syntaxes/
+75601 -rw-r--r--. 1 ramumsrk ramumsrk  322 Jan 20  1970 cgmanifest.json
+75599 -rw-r--r--. 1 ramumsrk ramumsrk 1.9K Jan 20  1970 language-configuration.json
+75606 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 package.json
+75605 -rw-r--r--. 1 ramumsrk ramumsrk  140 Jan 20  1970 package.nls.json
+75596 drwxr-xr-x. 1 ramumsrk ramumsrk   42 Jan 20  1970 .vscode/
+75600 -rw-r--r--. 1 ramumsrk ramumsrk   32 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/python/syntaxes:
+total 112K
+75603 -rw-r--r--. 1 ramumsrk ramumsrk 100K Jan 20  1970 MagicPython.tmLanguage.json
+75604 -rw-r--r--. 1 ramumsrk ramumsrk  11K Jan 20  1970 MagicRegExp.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/python/.vscode:
+total 8.0K
+75598 -rw-r--r--. 1 ramumsrk ramumsrk 362 Jan 20  1970 launch.json
+75597 -rw-r--r--. 1 ramumsrk ramumsrk 962 Jan 20  1970 tasks.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/r:
+total 20K
+75419 drwxr-xr-x. 1 ramumsrk ramumsrk  34 Jan 20  1970 syntaxes/
+75418 -rw-r--r--. 1 ramumsrk ramumsrk 324 Jan 20  1970 cgmanifest.json
+75416 -rw-r--r--. 1 ramumsrk ramumsrk 483 Jan 20  1970 language-configuration.json
+75422 -rw-r--r--. 1 ramumsrk ramumsrk 555 Jan 20  1970 package.json
+75421 -rw-r--r--. 1 ramumsrk ramumsrk 121 Jan 20  1970 package.nls.json
+75417 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/r/syntaxes:
+total 40K
+75420 -rw-r--r--. 1 ramumsrk ramumsrk 39K Jan 20  1970 r.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/razor:
+total 20K
+75387 drwxr-xr-x. 1 ramumsrk ramumsrk   44 Jan 20  1970 syntaxes/
+75386 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 cgmanifest.json
+75384 -rw-r--r--. 1 ramumsrk ramumsrk  441 Jan 20  1970 language-configuration.json
+75390 -rw-r--r--. 1 ramumsrk ramumsrk  773 Jan 20  1970 package.json
+75389 -rw-r--r--. 1 ramumsrk ramumsrk  138 Jan 20  1970 package.nls.json
+75385 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/razor/syntaxes:
+total 36K
+75388 -rw-r--r--. 1 ramumsrk ramumsrk 35K Jan 20  1970 cshtml.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/restructuredtext:
+total 20K
+75300 drwxr-xr-x. 1 ramumsrk ramumsrk  38 Jan 20  1970 syntaxes/
+75299 -rw-r--r--. 1 ramumsrk ramumsrk 326 Jan 20  1970 cgmanifest.json
+75297 -rw-r--r--. 1 ramumsrk ramumsrk 645 Jan 20  1970 language-configuration.json
+75303 -rw-r--r--. 1 ramumsrk ramumsrk 543 Jan 20  1970 package.json
+75302 -rw-r--r--. 1 ramumsrk ramumsrk 130 Jan 20  1970 package.nls.json
+75298 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/restructuredtext/syntaxes:
+total 16K
+75301 -rw-r--r--. 1 ramumsrk ramumsrk 14K Jan 20  1970 rst.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/ruby:
+total 20K
+75357 drwxr-xr-x. 1 ramumsrk ramumsrk   40 Jan 20  1970 syntaxes/
+75356 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 cgmanifest.json
+75354 -rw-r--r--. 1 ramumsrk ramumsrk  869 Jan 20  1970 language-configuration.json
+75360 -rw-r--r--. 1 ramumsrk ramumsrk 1.3K Jan 20  1970 package.json
+75359 -rw-r--r--. 1 ramumsrk ramumsrk  127 Jan 20  1970 package.nls.json
+75355 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/ruby/syntaxes:
+total 64K
+75358 -rw-r--r--. 1 ramumsrk ramumsrk 61K Jan 20  1970 ruby.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/rust:
+total 20K
+75705 drwxr-xr-x. 1 ramumsrk ramumsrk  40 Jan 20  1970 syntaxes/
+75704 -rw-r--r--. 1 ramumsrk ramumsrk 371 Jan 20  1970 cgmanifest.json
+75702 -rw-r--r--. 1 ramumsrk ramumsrk 628 Jan 20  1970 language-configuration.json
+75708 -rw-r--r--. 1 ramumsrk ramumsrk 514 Jan 20  1970 package.json
+75707 -rw-r--r--. 1 ramumsrk ramumsrk 127 Jan 20  1970 package.nls.json
+75703 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/rust/syntaxes:
+total 28K
+75706 -rw-r--r--. 1 ramumsrk ramumsrk 25K Jan 20  1970 rust.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/scss:
+total 20K
+75577 drwxr-xr-x. 1 ramumsrk ramumsrk   86 Jan 20  1970 syntaxes/
+75576 -rw-r--r--. 1 ramumsrk ramumsrk  537 Jan 20  1970 cgmanifest.json
+75574 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 language-configuration.json
+75581 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 package.json
+75580 -rw-r--r--. 1 ramumsrk ramumsrk  136 Jan 20  1970 package.nls.json
+75575 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/scss/syntaxes:
+total 56K
+75578 -rw-r--r--. 1 ramumsrk ramumsrk 8.5K Jan 20  1970 sassdoc.tmLanguage.json
+75579 -rw-r--r--. 1 ramumsrk ramumsrk  41K Jan 20  1970 scss.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/search-result:
+total 20K
+75364 drwxr-xr-x. 1 ramumsrk ramumsrk  56 Jan 20  1970 syntaxes/
+75368 -rw-r--r--. 1 ramumsrk ramumsrk 606 Jan 20  1970 package.json
+75366 -rw-r--r--. 1 ramumsrk ramumsrk 133 Jan 20  1970 package.nls.json
+75362 -rw-r--r--. 1 ramumsrk ramumsrk 156 Jan 20  1970 tsconfig.json
+75367 -rw-r--r--. 1 ramumsrk ramumsrk 300 Jan 20  1970 README.md
+75363 -rw-r--r--. 1 ramumsrk ramumsrk 133 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/search-result/syntaxes:
+total 132K
+75365 -rw-r--r--. 1 ramumsrk ramumsrk 130K Jan 20  1970 searchResult.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/shaderlab:
+total 20K
+75308 drwxr-xr-x. 1 ramumsrk ramumsrk  50 Jan 20  1970 syntaxes/
+75307 -rw-r--r--. 1 ramumsrk ramumsrk 322 Jan 20  1970 cgmanifest.json
+75305 -rw-r--r--. 1 ramumsrk ramumsrk 346 Jan 20  1970 language-configuration.json
+75311 -rw-r--r--. 1 ramumsrk ramumsrk 553 Jan 20  1970 package.json
+75310 -rw-r--r--. 1 ramumsrk ramumsrk 137 Jan 20  1970 package.nls.json
+75306 -rw-r--r--. 1 ramumsrk ramumsrk  24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/shaderlab/syntaxes:
+total 8.0K
+75309 -rw-r--r--. 1 ramumsrk ramumsrk 7.2K Jan 20  1970 shaderlab.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/shellscript:
+total 20K
+75447 drwxr-xr-x. 1 ramumsrk ramumsrk   62 Jan 20  1970 syntaxes/
+75446 -rw-r--r--. 1 ramumsrk ramumsrk  338 Jan 20  1970 cgmanifest.json
+75444 -rw-r--r--. 1 ramumsrk ramumsrk  562 Jan 20  1970 language-configuration.json
+75450 -rw-r--r--. 1 ramumsrk ramumsrk 2.1K Jan 20  1970 package.json
+75449 -rw-r--r--. 1 ramumsrk ramumsrk  143 Jan 20  1970 package.nls.json
+75445 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/shellscript/syntaxes:
+total 48K
+75448 -rw-r--r--. 1 ramumsrk ramumsrk 47K Jan 20  1970 shell-unix-bash.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/sql:
+total 20K
+75722 drwxr-xr-x. 1 ramumsrk ramumsrk  38 Jan 20  1970 syntaxes/
+75721 -rw-r--r--. 1 ramumsrk ramumsrk 323 Jan 20  1970 cgmanifest.json
+75719 -rw-r--r--. 1 ramumsrk ramumsrk 942 Jan 20  1970 language-configuration.json
+75725 -rw-r--r--. 1 ramumsrk ramumsrk 510 Jan 20  1970 package.json
+75724 -rw-r--r--. 1 ramumsrk ramumsrk 125 Jan 20  1970 package.nls.json
+75720 -rw-r--r--. 1 ramumsrk ramumsrk  33 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/sql/syntaxes:
+total 28K
+75723 -rw-r--r--. 1 ramumsrk ramumsrk 27K Jan 20  1970 sql.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/swift:
+total 24K
+75526 drwxr-xr-x. 1 ramumsrk ramumsrk   38 Jan 20  1970 snippets/
+75523 drwxr-xr-x. 1 ramumsrk ramumsrk   42 Jan 20  1970 syntaxes/
+75522 -rw-r--r--. 1 ramumsrk ramumsrk 3.2K Jan 20  1970 cgmanifest.json
+75520 -rw-r--r--. 1 ramumsrk ramumsrk  482 Jan 20  1970 language-configuration.json
+75529 -rw-r--r--. 1 ramumsrk ramumsrk  643 Jan 20  1970 package.json
+75528 -rw-r--r--. 1 ramumsrk ramumsrk  139 Jan 20  1970 package.nls.json
+75525 -rw-r--r--. 1 ramumsrk ramumsrk 2.2K Jan 20  1970 LICENSE.md
+75521 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/swift/snippets:
+total 4.0K
+75527 -rw-r--r--. 1 ramumsrk ramumsrk 2.8K Jan 20  1970 swift.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/swift/syntaxes:
+total 108K
+75524 -rw-r--r--. 1 ramumsrk ramumsrk 107K Jan 20  1970 swift.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/terraform:
+total 64K
+75634 -rw-r--r--. 1 ramumsrk ramumsrk 16K Jan 20  1970 LICENSE
+75631 drwxr-xr-x. 1 ramumsrk ramumsrk  28 Jan 20  1970 snippets/
+75629 drwxr-xr-x. 1 ramumsrk ramumsrk  48 Jan 20  1970 syntaxes/
+75628 -rw-r--r--. 1 ramumsrk ramumsrk 963 Jan 20  1970 language-configuration.json
+75635 -rw-r--r--. 1 ramumsrk ramumsrk 15K Jan 20  1970 package.json
+75633 -rw-r--r--. 1 ramumsrk ramumsrk 25K Jan 20  1970 README.md
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/terraform/snippets:
+total 4.0K
+75632 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 terraform.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/terraform/syntaxes:
+total 24K
+75630 -rw-r--r--. 1 ramumsrk ramumsrk 21K Jan 20  1970 terraform.tmGrammar.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/twig:
+total 28K
+75236 drwxr-xr-x. 1 ramumsrk ramumsrk   26 Jan 20  1970 snippets/
+75239 drwxr-xr-x. 1 ramumsrk ramumsrk   84 Jan 20  1970 src/
+75251 -rw-r--r--. 1 ramumsrk ramumsrk  11K Jan 20  1970 package.json
+75235 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 LICENSE.md
+75238 -rw-r--r--. 1 ramumsrk ramumsrk 8.2K Jan 20  1970 README.md
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/twig/snippets:
+total 32K
+75237 -rw-r--r--. 1 ramumsrk ramumsrk 30K Jan 20  1970 snippets.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/twig/src:
+total 8.0K
+75245 drwxr-xr-x. 1 ramumsrk ramumsrk   70 Jan 20  1970 hover/
+75241 drwxr-xr-x. 1 ramumsrk ramumsrk   46 Jan 20  1970 languages/
+75249 drwxr-xr-x. 1 ramumsrk ramumsrk   26 Jan 20  1970 snippets/
+75243 drwxr-xr-x. 1 ramumsrk ramumsrk   30 Jan 20  1970 syntaxes/
+75240 -rw-r--r--. 1 ramumsrk ramumsrk 5.5K Jan 20  1970 extension.js
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/twig/src/hover:
+total 24K
+75248 -rw-r--r--. 1 ramumsrk ramumsrk 7.1K Jan 20  1970 filters.json
+75246 -rw-r--r--. 1 ramumsrk ramumsrk 4.6K Jan 20  1970 functions.json
+75247 -rw-r--r--. 1 ramumsrk ramumsrk 7.1K Jan 20  1970 twig.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/twig/src/languages:
+total 4.0K
+75242 -rw-r--r--. 1 ramumsrk ramumsrk 339 Jan 20  1970 twig.configuration.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/twig/src/snippets:
+total 32K
+75250 -rw-r--r--. 1 ramumsrk ramumsrk 30K Jan 20  1970 snippets.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/twig/src/syntaxes:
+total 80K
+75244 -rw-r--r--. 1 ramumsrk ramumsrk 77K Jan 20  1970 twig.tmLanguage
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/typescript-basics:
+total 24K
+75411 drwxr-xr-x. 1 ramumsrk ramumsrk   48 Jan 20  1970 snippets/
+75405 drwxr-xr-x. 1 ramumsrk ramumsrk  268 Jan 20  1970 syntaxes/
+75404 -rw-r--r--. 1 ramumsrk ramumsrk  568 Jan 20  1970 cgmanifest.json
+75402 -rw-r--r--. 1 ramumsrk ramumsrk 3.4K Jan 20  1970 language-configuration.json
+75414 -rw-r--r--. 1 ramumsrk ramumsrk 5.2K Jan 20  1970 package.json
+75413 -rw-r--r--. 1 ramumsrk ramumsrk  158 Jan 20  1970 package.nls.json
+75403 -rw-r--r--. 1 ramumsrk ramumsrk   73 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/typescript-basics/snippets:
+total 8.0K
+75412 -rw-r--r--. 1 ramumsrk ramumsrk 5.9K Jan 20  1970 typescript.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/typescript-basics/syntaxes:
+total 464K
+75407 -rw-r--r--. 1 ramumsrk ramumsrk  375 Jan 20  1970 jsdoc.js.injection.tmLanguage.json
+75410 -rw-r--r--. 1 ramumsrk ramumsrk  371 Jan 20  1970 jsdoc.ts.injection.tmLanguage.json
+75406 -rw-r--r--. 1 ramumsrk ramumsrk 223K Jan 20  1970 TypeScriptReact.tmLanguage.json
+75408 -rw-r--r--. 1 ramumsrk ramumsrk 226K Jan 20  1970 TypeScript.tmLanguage.json
+75409 -rw-r--r--. 1 ramumsrk ramumsrk 1.4K Jan 20  1970 Readme.md
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/vb:
+total 20K
+75214 drwxr-xr-x. 1 ramumsrk ramumsrk   32 Jan 20  1970 snippets/
+75212 drwxr-xr-x. 1 ramumsrk ramumsrk   52 Jan 20  1970 syntaxes/
+75211 -rw-r--r--. 1 ramumsrk ramumsrk 1.2K Jan 20  1970 cgmanifest.json
+75209 -rw-r--r--. 1 ramumsrk ramumsrk  425 Jan 20  1970 language-configuration.json
+75217 -rw-r--r--. 1 ramumsrk ramumsrk  711 Jan 20  1970 package.json
+75216 -rw-r--r--. 1 ramumsrk ramumsrk  162 Jan 20  1970 package.nls.json
+75210 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/vb/snippets:
+total 4.0K
+75215 -rw-r--r--. 1 ramumsrk ramumsrk 1.7K Jan 20  1970 vb.code-snippets
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/vb/syntaxes:
+total 8.0K
+75213 -rw-r--r--. 1 ramumsrk ramumsrk 7.5K Jan 20  1970 asp-vb-net.tmlanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/viml:
+total 8.0K
+75583 drwxr-xr-x. 1 ramumsrk ramumsrk   18 Jan 20  1970 grammars/
+75586 -rw-r--r--. 1 ramumsrk ramumsrk  625 Jan 20  1970 package.json
+75585 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 LICENSE.txt
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/viml/grammars:
+total 64K
+75584 -rw-r--r--. 1 ramumsrk ramumsrk 61K Jan 20  1970 viml.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/xml:
+total 24K
+75553 drwxr-xr-x. 1 ramumsrk ramumsrk   76 Jan 20  1970 syntaxes/
+75552 -rw-r--r--. 1 ramumsrk ramumsrk  555 Jan 20  1970 cgmanifest.json
+75557 -rw-r--r--. 1 ramumsrk ramumsrk 2.1K Jan 20  1970 package.json
+75556 -rw-r--r--. 1 ramumsrk ramumsrk  125 Jan 20  1970 package.nls.json
+75549 -rw-r--r--. 1 ramumsrk ramumsrk 1.1K Jan 20  1970 xml.language-configuration.json
+75550 -rw-r--r--. 1 ramumsrk ramumsrk  610 Jan 20  1970 xsl.language-configuration.json
+75551 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/xml/syntaxes:
+total 12K
+75555 -rw-r--r--. 1 ramumsrk ramumsrk 7.6K Jan 20  1970 xml.tmLanguage.json
+75554 -rw-r--r--. 1 ramumsrk ramumsrk 2.1K Jan 20  1970 xsl.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/yaml:
+total 20K
+75656 drwxr-xr-x. 1 ramumsrk ramumsrk   40 Jan 20  1970 syntaxes/
+75655 -rw-r--r--. 1 ramumsrk ramumsrk 1.6K Jan 20  1970 cgmanifest.json
+75653 -rw-r--r--. 1 ramumsrk ramumsrk  575 Jan 20  1970 language-configuration.json
+75659 -rw-r--r--. 1 ramumsrk ramumsrk 1.5K Jan 20  1970 package.json
+75658 -rw-r--r--. 1 ramumsrk ramumsrk  127 Jan 20  1970 package.nls.json
+75654 -rw-r--r--. 1 ramumsrk ramumsrk   24 Jan 20  1970 .vscodeignore
+
+/opt/idea-IC-233.14475.28/plugins/textmate/lib/bundles/yaml/syntaxes:
+total 24K
+75657 -rw-r--r--. 1 ramumsrk ramumsrk 22K Jan 20  1970 yaml.tmLanguage.json
+
+/opt/idea-IC-233.14475.28/plugins/toml:
+total 0
+74699 drwxr-xr-x. 1 ramumsrk ramumsrk 16 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/toml/lib:
+total 432K
+74700 -rw-r--r--. 1 ramumsrk ramumsrk 429K Jan 20  1970 toml.jar
+
+/opt/idea-IC-233.14475.28/plugins/turboComplete:
+total 0
+74875 drwxr-xr-x. 1 ramumsrk ramumsrk 34 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/turboComplete/lib:
+total 936K
+74876 -rw-r--r--. 1 ramumsrk ramumsrk 936K Jan 20  1970 turboComplete.jar
+
+/opt/idea-IC-233.14475.28/plugins/uiDesigner:
+total 0
+75140 drwxr-xr-x. 1 ramumsrk ramumsrk 34 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/uiDesigner/lib:
+total 3.3M
+75141 drwxr-xr-x. 1 ramumsrk ramumsrk   42 Jan 20  1970 jps/
+75143 -rw-r--r--. 1 ramumsrk ramumsrk 3.3M Jan 20  1970 uiDesigner.jar
+
+/opt/idea-IC-233.14475.28/plugins/uiDesigner/lib/jps:
+total 76K
+75142 -rw-r--r--. 1 ramumsrk ramumsrk 75K Jan 20  1970 java-guiForms-jps.jar
+
+/opt/idea-IC-233.14475.28/plugins/vcs-git:
+total 0
+75832 drwxr-xr-x. 1 ramumsrk ramumsrk 52 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/vcs-git/lib:
+total 12M
+75833 -rw-r--r--. 1 ramumsrk ramumsrk 7.4K Jan 20  1970 git4idea-rt.jar
+75834 -rw-r--r--. 1 ramumsrk ramumsrk  12M Jan 20  1970 vcs-git.jar
+
+/opt/idea-IC-233.14475.28/plugins/vcs-github:
+total 0
+75839 drwxr-xr-x. 1 ramumsrk ramumsrk 28 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/vcs-github/lib:
+total 8.4M
+75840 -rw-r--r--. 1 ramumsrk ramumsrk 8.4M Jan 20  1970 vcs-github.jar
+
+/opt/idea-IC-233.14475.28/plugins/vcs-gitlab:
+total 0
+74862 drwxr-xr-x. 1 ramumsrk ramumsrk 28 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/vcs-gitlab/lib:
+total 9.9M
+74863 -rw-r--r--. 1 ramumsrk ramumsrk 9.9M Jan 20  1970 vcs-gitlab.jar
+
+/opt/idea-IC-233.14475.28/plugins/vcs-hg:
+total 0
+75779 drwxr-xr-x. 1 ramumsrk ramumsrk 20 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/vcs-hg/lib:
+total 1.7M
+75780 -rw-r--r--. 1 ramumsrk ramumsrk 1.7M Jan 20  1970 vcs-hg.jar
+
+/opt/idea-IC-233.14475.28/plugins/vcs-perforce:
+total 0
+75768 drwxr-xr-x. 1 ramumsrk ramumsrk 32 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/vcs-perforce/lib:
+total 2.4M
+75769 -rw-r--r--. 1 ramumsrk ramumsrk 2.4M Jan 20  1970 vcs-perforce.jar
+
+/opt/idea-IC-233.14475.28/plugins/vcs-svn:
+total 0
+75187 drwxr-xr-x. 1 ramumsrk ramumsrk 22 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/vcs-svn/lib:
+total 28M
+75188 -rw-r--r--. 1 ramumsrk ramumsrk 28M Jan 20  1970 vcs-svn.jar
+
+/opt/idea-IC-233.14475.28/plugins/webp:
+total 0
+75854 drwxr-xr-x. 1 ramumsrk ramumsrk 30 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/webp/lib:
+total 40K
+75948 drwxr-xr-x. 1 ramumsrk ramumsrk  10 Jan 20  1970 libwebp/
+75855 -rw-r--r--. 1 ramumsrk ramumsrk 37K Jan 20  1970 webp.jar
+
+/opt/idea-IC-233.14475.28/plugins/webp/lib/libwebp:
+total 0
+75949 drwxr-xr-x. 1 ramumsrk ramumsrk 28 Jan 20  1970 linux/
+
+/opt/idea-IC-233.14475.28/plugins/webp/lib/libwebp/linux:
+total 716K
+75950 -rw-r--r--. 1 ramumsrk ramumsrk 716K Jan 20  1970 libwebp_jni.so
+
+/opt/idea-IC-233.14475.28/plugins/yaml:
+total 0
+75802 drwxr-xr-x. 1 ramumsrk ramumsrk 16 Jan 20  1970 lib/
+
+/opt/idea-IC-233.14475.28/plugins/yaml/lib:
+total 1.4M
+75803 -rw-r--r--. 1 ramumsrk ramumsrk 1.4M Jan 20  1970 yaml.jar
