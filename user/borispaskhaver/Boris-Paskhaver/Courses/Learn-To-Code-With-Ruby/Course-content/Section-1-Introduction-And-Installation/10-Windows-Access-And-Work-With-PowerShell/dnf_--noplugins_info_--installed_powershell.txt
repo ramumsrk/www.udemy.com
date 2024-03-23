@@ -1,0 +1,14 @@
+Installed Packages
+Name         : powershell
+Version      : 7.4.1
+Release      : 1.rh
+Architecture : x86_64
+Size         : 173 M
+Source       : powershell-7.4.1-1.rh.src.rpm
+Repository   : @System
+From repo    : @commandline
+Summary      : PowerShell is an automation and configuration management platform.
+URL          : https://microsoft.com/powershell
+License      : MIT
+Description  : PowerShell is an automation and configuration management platform.
+             : It consists of a cross-platform command-line shell and associated scripting language.

@@ -1,0 +1,35 @@
+Transaction ID : 29
+Begin time     : Thursday 21 March 2024 10:34:10 AM
+Begin rpmdb    : a889caf759806293de7e78b90ed7de74a769efdd3b4eacbe28de8f8c18bc8477
+End time       : Thursday 21 March 2024 10:34:11 AM (1 seconds)
+End rpmdb      : 22ac9c43b4286fa05f42546ea0d92515fb64257b5f04ccee789ff5c01e11be05
+User           : Ramu Mohan Srinivasan Radhakrishnan <ramumsrk>
+Return-Code    : Success
+Releasever     : 39
+Command Line   : --noplugins repository-packages fedora install --assumeyes rubygem-irb
+Comment        : 
+Packages Altered:
+    Install rubygem-irb-1.6.2-181.fc39.noarch @fedora
+-------------------------------------------------------------------------------
+Transaction ID : 28
+Begin time     : Thursday 21 March 2024 10:31:33 AM
+Begin rpmdb    : 3f2db382e9d4a8b847dfa69844623b801835ecee5776722e8cba277be307cd6a
+End time       : Thursday 21 March 2024 10:31:40 AM (7 seconds)
+End rpmdb      : a889caf759806293de7e78b90ed7de74a769efdd3b4eacbe28de8f8c18bc8477
+User           : Ramu Mohan Srinivasan Radhakrishnan <ramumsrk>
+Return-Code    : Success
+Releasever     : 39
+Command Line   : --noplugins repository-packages fedora install --assumeyes ruby.x86_64
+Comment        : 
+Packages Altered:
+    Install ruby-3.2.2-181.fc39.x86_64               @fedora
+    Install ruby-default-gems-3.2.2-181.fc39.noarch  @fedora
+    Install ruby-libs-3.2.2-181.fc39.x86_64          @fedora
+    Install rubygem-bigdecimal-3.1.3-181.fc39.x86_64 @fedora
+    Install rubygem-bundler-2.4.10-181.fc39.noarch   @fedora
+    Install rubygem-io-console-0.6.0-181.fc39.x86_64 @fedora
+    Install rubygem-json-2.6.3-204.fc39.x86_64       @fedora
+    Install rubygem-psych-5.0.1-181.fc39.x86_64      @fedora
+    Install rubygem-rdoc-6.5.0-181.fc39.noarch       @fedora
+    Install rubygems-3.4.10-181.fc39.noarch          @fedora
+    Install rubypick-1.1.1-19.fc39.noarch            @fedora

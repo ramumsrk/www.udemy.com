@@ -1,0 +1,2 @@
+Installed Packages
+powershell.x86_64                    7.4.1-1.rh                    @@commandline
