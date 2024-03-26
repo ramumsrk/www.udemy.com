@@ -1,0 +1,2849 @@
+/usr/lib/jvm/java-11:
+total 368K
+318567 drwxr-xr-x. 1 root root  394 Feb 26 17:54 bin/
+  7297 drwxr-xr-x. 1 root root  132 Feb 26 17:53 conf/
+323676 drwxr-xr-x. 1 root root  140 Feb 26 17:54 include/
+318578 drwxr-xr-x. 1 root root 2.0K Feb 26 17:53 legal/
+318901 drwxr-xr-x. 1 root root 1.3K Feb 26 17:54 lib/
+318566 -rw-r--r--. 1 root root 363K Jan 27 05:26 NEWS
+318956 -rw-r--r--. 1 root root 1.3K Jan 27 05:22 release
+323687 drwxr-xr-x. 1 root root  308 Feb 26 17:54 tapset/
+
+/usr/lib/jvm/java-11/bin:
+total 872K
+318568 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 alt-java*
+323651 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jaotc*
+323652 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jar*
+323653 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jarsigner*
+318569 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 java*
+323654 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 javac*
+323655 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 javadoc*
+323656 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 javap*
+318570 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jcmd*
+323657 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jconsole*
+323658 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jdb*
+323659 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jdeprscan*
+323660 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jdeps*
+323661 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jfr*
+323662 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jhsdb*
+323663 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jimage*
+323664 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jinfo*
+318571 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jjs*
+323665 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jlink*
+323666 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jmap*
+323667 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jmod*
+323668 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jps*
+323669 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jrunscript*
+323670 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jshell*
+323671 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jstack*
+323672 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jstat*
+323673 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jstatd*
+318572 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 keytool*
+318573 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 pack200*
+323674 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 rmic*
+318574 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 rmid*
+318575 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 rmiregistry*
+323675 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 serialver*
+318576 -rwxr-xr-x. 1 root root 210K Jan 27 05:30 unpack200*
+
+/usr/lib/jvm/java-11/conf:
+total 16K
+7299 drwxr-xr-x. 1 root root  128 Feb 26 17:53 management/
+7304 drwxr-xr-x. 1 root root   98 Feb 26 17:53 security/
+7298 -rw-r--r--. 1 root root 2.7K Jan 27 05:22 logging.properties
+7303 -rw-r--r--. 1 root root 6.3K Jan 27 05:22 net.properties
+7318 -rw-r--r--. 1 root root 1.2K Jan 27 05:22 sound.properties
+
+/usr/lib/jvm/java-11/conf/management:
+total 28K
+7300 -rw-r--r--. 1 root root 4.0K Jan 27 05:22 jmxremote.access
+7302 -rw-r--r--. 1 root root  14K Jan 27 05:22 management.properties
+7301 -rw-r--r--. 1 root root 5.6K Jan 27 05:22 jmxremote.password.template
+
+/usr/lib/jvm/java-11/conf/security:
+total 72K
+7309 drwxr-xr-x. 1 root root   52 Feb 26 17:53 policy/
+7307 -rw-r--r--. 1 root root  139 Jan 27 05:26 nss.cfg
+7308 -rw-r--r--. 1 root root  195 Jan 27 05:26 nss.fips.cfg
+7305 -rw-r--r--. 1 root root 2.3K Jan 27 05:22 java.policy
+7306 -rw-r--r--. 1 root root  57K Jan 27 05:30 java.security
+
+/usr/lib/jvm/java-11/conf/security/policy:
+total 4.0K
+7311 drwxr-xr-x. 1 root root  126 Feb 26 17:53 limited/
+7315 drwxr-xr-x. 1 root root   88 Feb 26 17:53 unlimited/
+7310 -rw-r--r--. 1 root root 2.4K Jan 27 05:22 README.txt
+
+/usr/lib/jvm/java-11/conf/security/policy/limited:
+total 12K
+7313 -rw-r--r--. 1 root root 647 Jan 27 05:22 default_local.policy
+7312 -rw-r--r--. 1 root root 146 Jan 27 05:22 default_US_export.policy
+7314 -rw-r--r--. 1 root root 566 Jan 27 05:22 exempt_local.policy
+
+/usr/lib/jvm/java-11/conf/security/policy/unlimited:
+total 8.0K
+7317 -rw-r--r--. 1 root root 193 Jan 27 05:22 default_local.policy
+7316 -rw-r--r--. 1 root root 146 Jan 27 05:22 default_US_export.policy
+
+/usr/lib/jvm/java-11/include:
+total 212K
+323683 drwxr-xr-x. 1 root root   34 Feb 26 17:54 linux/
+323677 -rw-r--r--. 1 root root  22K Jan 27 05:22 classfile_constants.h
+323678 -rw-r--r--. 1 root root  13K Jan 27 05:22 jawt.h
+323679 -rw-r--r--. 1 root root 8.0K Jan 27 05:22 jdwpTransport.h
+323680 -rw-r--r--. 1 root root  74K Jan 27 05:22 jni.h
+323682 -rw-r--r--. 1 root root 4.7K Jan 27 05:22 jvmticmlr.h
+323681 -rw-r--r--. 1 root root  80K Jan 27 05:22 jvmti.h
+
+/usr/lib/jvm/java-11/include/linux:
+total 8.0K
+323684 -rw-r--r--. 1 root root 2.0K Jan 27 05:22 jawt_md.h
+323685 -rw-r--r--. 1 root root 2.0K Jan 27 05:22 jni_md.h
+
+/usr/lib/jvm/java-11/legal:
+total 0
+318691 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.accessibility/
+318731 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.hotspot.agent/
+318797 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jdwp.agent/
+318828 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.management.agent/
+318695 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.aot/
+318699 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.attach/
+318877 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.security.auth/
+318579 drwxr-xr-x. 1 root root 234 Feb 26 17:53 java.base/
+318703 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.charsets/
+318757 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.vm.ci/
+318591 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.compiler/
+318707 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.compiler/
+318761 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.vm.compiler/
+318678 drwxr-xr-x. 1 root root 120 Feb 26 17:53 java.xml.crypto/
+318711 drwxr-xr-x. 1 root root 168 Feb 26 17:53 jdk.crypto.cryptoki/
+318595 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.datatransfer/
+318599 drwxr-xr-x. 1 root root 264 Feb 26 17:53 java.desktop/
+318886 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.unsupported.desktop/
+318839 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.naming.dns/
+318893 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.xml.dom/
+318722 drwxr-xr-x. 1 root root 118 Feb 26 17:53 jdk.dynalink/
+318717 drwxr-xr-x. 1 root root 108 Feb 26 17:53 jdk.crypto.ec/
+318739 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.ed/
+318727 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.editpad/
+318632 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.net.http/
+318735 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.httpserver/
+318612 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.instrument/
+318769 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jartool/
+318773 drwxr-xr-x. 1 root root 166 Feb 26 17:53 jdk.javadoc/
+318781 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jcmd/
+318785 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jconsole/
+318789 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jdeps/
+318793 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jdi/
+318801 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jfr/
+318832 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.management.jfr/
+318652 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.security.jgss/
+318881 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.security.jgss/
+318805 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jlink/
+318809 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jshell/
+318813 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jsobject/
+318817 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jstatd/
+318743 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.jvmstat/
+318843 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.naming.ldap/
+318747 drwxr-xr-x. 1 root root 112 Feb 26 17:53 jdk.internal.le/
+318821 drwxr-xr-x. 1 root root 132 Feb 26 17:53 jdk.localedata/
+318616 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.logging/
+318620 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.management/
+318762 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.vm.compiler.management/
+318827 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.management/
+318628 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.naming/
+318863 drwxr-xr-x. 1 root root 150 Feb 26 17:53 jdk.scripting.nashorn/
+318851 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.net/
+318752 drwxr-xr-x. 1 root root 124 Feb 26 17:53 jdk.internal.opt/
+318855 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.pack/
+318636 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.prefs/
+318621 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.management.rmi/
+318640 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.rmi/
+318847 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.naming.rmi/
+318859 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.rmic/
+318666 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.sql.rowset/
+318656 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.security.sasl/
+318644 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.scripting/
+318873 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.sctp/
+318648 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.se/
+318864 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.scripting.nashorn.shell/
+318660 drwxr-xr-x. 1 root root 118 Feb 26 17:53 java.smartcardio/
+318665 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.sql/
+318885 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.unsupported/
+318673 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.transaction.xa/
+318677 drwxr-xr-x. 1 root root 170 Feb 26 17:53 java.xml/
+318897 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.zipfs/
+
+/usr/lib/jvm/java-11/legal/jdk.accessibility:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.hotspot.agent:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jdwp.agent:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.management.agent:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.aot:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.attach:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.security.auth:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.base:
+total 76K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318583 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 aes.md
+318584 -rw-r--r--. 1 root root 1.6K Jan 27 05:22 asm.md
+318586 -rw-r--r--. 1 root root 2.9K Jan 27 05:22 cldr.md
+318585 -rw-r--r--. 1 root root 1.6K Jan 27 05:22 c-libutl.md
+318587 -rw-r--r--. 1 root root 2.9K Jan 27 05:22 icu.md
+318588 -rw-r--r--. 1 root root  18K Jan 27 05:22 public_suffix.md
+318589 -rw-r--r--. 1 root root 2.9K Jan 27 05:22 unicode.md
+318590 -rw-r--r--. 1 root root 1011 Jan 27 05:22 zlib.md
+
+/usr/lib/jvm/java-11/legal/jdk.charsets:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.internal.vm.ci:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.compiler:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.compiler:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.internal.vm.compiler:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.xml.crypto:
+total 40K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318682 -rw-r--r--. 1 root root  12K Jan 27 05:22 santuario.md
+
+/usr/lib/jvm/java-11/legal/jdk.crypto.cryptoki:
+total 36K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318715 -rw-r--r--. 1 root root 3.9K Jan 27 05:22 pkcs11cryptotoken.md
+318716 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 pkcs11wrapper.md
+
+/usr/lib/jvm/java-11/legal/java.datatransfer:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.desktop:
+total 100K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318603 -rw-r--r--. 1 root root  167 Jan 27 05:22 colorimaging.md
+318604 -rw-r--r--. 1 root root  30K Jan 27 05:22 freetype.md
+318605 -rw-r--r--. 1 root root 1.3K Jan 27 05:22 giflib.md
+318606 -rw-r--r--. 1 root root 3.3K Jan 27 05:22 harfbuzz.md
+318607 -rw-r--r--. 1 root root 4.0K Jan 27 05:22 jpeg.md
+318608 -rw-r--r--. 1 root root 2.6K Jan 27 05:22 lcms.md
+318609 -rw-r--r--. 1 root root 6.8K Jan 27 05:22 libpng.md
+318610 -rw-r--r--. 1 root root 5.6K Jan 27 05:22 mesa3d.md
+318611 -rw-r--r--. 1 root root 1.4K Jan 27 05:22 xwd.md
+
+/usr/lib/jvm/java-11/legal/jdk.unsupported.desktop:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.naming.dns:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.xml.dom:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.dynalink:
+total 32K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318726 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 dynalink.md
+
+/usr/lib/jvm/java-11/legal/jdk.crypto.ec:
+total 60K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318721 -rw-r--r--. 1 root root  29K Jan 27 05:22 ecc.md
+
+/usr/lib/jvm/java-11/legal/jdk.internal.ed:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.editpad:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.net.http:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.httpserver:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.instrument:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jartool:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.javadoc:
+total 76K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318777 -rw-r--r--. 1 root root 2.9K Jan 27 05:22 jquery.md
+318778 -rw-r--r--. 1 root root 1.9K Jan 27 05:22 jqueryUI.md
+318779 -rw-r--r--. 1 root root  33K Jan 27 05:22 jszip.md
+318780 -rw-r--r--. 1 root root 2.0K Jan 27 05:22 pako.md
+
+/usr/lib/jvm/java-11/legal/jdk.jcmd:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jconsole:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jdeps:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jdi:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jfr:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.management.jfr:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.security.jgss:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.security.jgss:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jlink:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jshell:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jsobject:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.jstatd:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.internal.jvmstat:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.naming.ldap:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.internal.le:
+total 32K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318751 -rw-r--r--. 1 root root 1.6K Jan 27 05:22 jline.md
+
+/usr/lib/jvm/java-11/legal/jdk.localedata:
+total 36K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318586 -rw-r--r--. 1 root root 2.9K Jan 27 05:22 cldr.md
+318826 -rw-r--r--. 1 root root 1.4K Jan 27 05:22 thaidict.md
+
+/usr/lib/jvm/java-11/legal/java.logging:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.management:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.internal.vm.compiler.management:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.management:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.naming:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.scripting.nashorn:
+total 36K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318871 -rw-r--r--. 1 root root 1.7K Jan 27 05:22 double-conversion.md
+318872 -rw-r--r--. 1 root root 1.1K Jan 27 05:22 joni.md
+
+/usr/lib/jvm/java-11/legal/jdk.net:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.internal.opt:
+total 32K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318756 -rw-r--r--. 1 root root 1.1K Jan 27 05:22 jopt-simple.md
+
+/usr/lib/jvm/java-11/legal/jdk.pack:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.prefs:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.management.rmi:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.rmi:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.naming.rmi:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.rmic:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.sql.rowset:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.security.sasl:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.scripting:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.sctp:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.se:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.scripting.nashorn.shell:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.smartcardio:
+total 32K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318664 -rw-r--r--. 1 root root 1.9K Jan 27 05:22 pcsclite.md
+
+/usr/lib/jvm/java-11/legal/java.sql:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/jdk.unsupported:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.transaction.xa:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/legal/java.xml:
+total 76K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+318686 -rw-r--r--. 1 root root  11K Jan 27 05:22 bcel.md
+318687 -rw-r--r--. 1 root root 3.7K Jan 27 05:22 dom.md
+318688 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 jcup.md
+318689 -rw-r--r--. 1 root root  14K Jan 27 05:22 xalan.md
+318690 -rw-r--r--. 1 root root  12K Jan 27 05:22 xerces.md
+
+/usr/lib/jvm/java-11/legal/jdk.zipfs:
+total 28K
+318580 -rw-r--r--. 1 root root 2.1K Jan 27 05:22 ADDITIONAL_LICENSE_INFO
+318581 -rw-r--r--. 1 root root 1.5K Jan 27 05:22 ASSEMBLY_EXCEPTION
+318582 -rw-r--r--. 1 root root  19K Jan 27 05:22 LICENSE
+
+/usr/lib/jvm/java-11/lib:
+total 150M
+318902 -rw-r--r--. 1 root root  39K Jan 27 05:22 classlist
+318903 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 jexec*
+318904 drwxr-xr-x. 1 root root   44 Feb 26 17:53 jfr/
+318907 drwxr-xr-x. 1 root root   18 Feb 26 17:53 jli/
+318910 -rwxr-xr-x. 1 root root  23K Jan 27 05:30 jspawnhelper*
+318946 -rw-r--r--. 1 root root 137M Jan 27 05:22 modules
+  7320 drwxr-xr-x. 1 root root  144 Feb 26 17:53 security/
+318950 drwxr-xr-x. 1 root root   80 Feb 26 17:53 server/
+318911 -rw-r--r--. 1 root root   29 Jan 27 05:22 jvm.cfg
+160100 -rw-r--r--. 1 root root 102K Feb  6 05:30 tzdb.dat
+318947 -rw-r--r--. 1 root root 3.8K Jan 27 05:22 psfont.properties.ja
+318909 -rw-r--r--. 1 root root 104K Jan 27 05:22 jrt-fs.jar
+318948 -rw-r--r--. 1 root root  12K Jan 27 05:22 psfontj2d.properties
+318912 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 libattach.so*
+318914 -rwxr-xr-x. 1 root root  60K Jan 27 05:30 libawt_headless.so*
+318913 -rwxr-xr-x. 1 root root 812K Jan 27 05:30 libawt.so*
+319169 -rwxr-xr-x. 1 root root 530K Jan 27 05:30 libawt_xawt.so*
+318915 -rwxr-xr-x. 1 root root  33K Jan 27 05:30 libdt_socket.so*
+318916 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 libextnet.so*
+318917 -rwxr-xr-x. 1 root root 2.6M Jan 27 05:30 libfontmanager.so*
+318918 -rwxr-xr-x. 1 root root 814K Jan 27 05:30 libfreetype.so*
+318919 -rwxr-xr-x. 1 root root  64K Jan 27 05:30 libinstrument.so*
+318920 -rwxr-xr-x. 1 root root  56K Jan 27 05:30 libj2gss.so*
+318921 -rwxr-xr-x. 1 root root  23K Jan 27 05:30 libj2pcsc.so*
+318922 -rwxr-xr-x. 1 root root 103K Jan 27 05:30 libj2pkcs11.so*
+318923 -rwxr-xr-x. 1 root root  17K Jan 27 05:30 libjaas.so*
+318925 -rwxr-xr-x. 1 root root 256K Jan 27 05:30 libjavajpeg.so*
+318924 -rwxr-xr-x. 1 root root 263K Jan 27 05:30 libjava.so*
+319170 -rwxr-xr-x. 1 root root  16K Jan 27 05:30 libjawt.so*
+318926 -rwxr-xr-x. 1 root root 305K Jan 27 05:30 libjdwp.so*
+318927 -rwxr-xr-x. 1 root root 164K Jan 27 05:30 libjimage.so*
+318928 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 libjsig.so*
+318929 -rwxr-xr-x. 1 root root  97K Jan 27 05:30 libjsound.so*
+318930 -rwxr-xr-x. 1 root root 540K Jan 27 05:30 liblcms.so*
+318932 -rwxr-xr-x. 1 root root  17K Jan 27 05:30 libmanagement_agent.so*
+318933 -rwxr-xr-x. 1 root root  41K Jan 27 05:30 libmanagement_ext.so*
+318931 -rwxr-xr-x. 1 root root  34K Jan 27 05:30 libmanagement.so*
+318934 -rwxr-xr-x. 1 root root 618K Jan 27 05:30 libmlib_image.so*
+318935 -rwxr-xr-x. 1 root root 121K Jan 27 05:30 libnet.so*
+318936 -rwxr-xr-x. 1 root root 104K Jan 27 05:30 libnio.so*
+318937 -rwxr-xr-x. 1 root root  17K Jan 27 05:30 libprefs.so*
+318938 -rwxr-xr-x. 1 root root  16K Jan 27 05:30 librmi.so*
+318939 -rwxr-xr-x. 1 root root  62K Jan 27 05:30 libsaproc.so*
+318940 -rwxr-xr-x. 1 root root  38K Jan 27 05:30 libsctp.so*
+319171 -rwxr-xr-x. 1 root root 501K Jan 27 05:30 libsplashscreen.so*
+318941 -rwxr-xr-x. 1 root root 349K Jan 27 05:30 libsunec.so*
+318942 -rwxr-xr-x. 1 root root  17K Jan 27 05:30 libsystemconf.so*
+318943 -rwxr-xr-x. 1 root root 250K Jan 27 05:30 libunpack.so*
+318944 -rwxr-xr-x. 1 root root  73K Jan 27 05:30 libverify.so*
+318945 -rwxr-xr-x. 1 root root 135K Jan 27 05:30 libzip.so*
+323686 -rw-r--r--. 1 root root 4.3M Jan 27 05:22 ct.sym
+318955 -rw-r--r--. 1 root root 102K Jan 27 05:22 tzdb.dat.upstream
+
+/usr/lib/jvm/java-11/lib/jfr:
+total 64K
+318905 -rw-r--r--. 1 root root 31K Jan 27 05:22 default.jfc
+318906 -rw-r--r--. 1 root root 30K Jan 27 05:22 profile.jfc
+
+/usr/lib/jvm/java-11/lib/jli:
+total 132K
+318908 -rwxr-xr-x. 1 root root 129K Jan 27 05:30 libjli.so*
+
+/usr/lib/jvm/java-11/lib/security:
+total 524K
+2416 -r--r--r--. 1 root root 159K Nov  1 06:39 cacerts
+7321 -rw-r--r--. 1 root root 2.5K Jan 27 05:22 blocked.certs
+7325 -rw-r--r--. 1 root root 225K Jan 27 05:22 public_suffix_list.dat
+7324 -rw-r--r--. 1 root root 9.5K Jan 27 05:22 default.policy
+7323 -rw-r--r--. 1 root root 118K Jan 27 05:22 cacerts.upstream
+
+/usr/lib/jvm/java-11/lib/server:
+total 35M
+318969 -r--r--r--. 1 root root  12M Feb 26 17:53 classes.jsa
+318952 -rwxr-xr-x. 1 root root  18K Jan 27 05:30 libjsig.so*
+318953 -rwxr-xr-x. 1 root root  24M Jan 27 05:30 libjvm.so*
+318951 -rw-r--r--. 1 root root 1.3K Jan 27 05:22 Xusage.txt
+
+/usr/lib/jvm/java-11/tapset:
+total 268K
+323688 -rw-r--r--. 1 root root  18K Jan 27 05:30 hotspot-11.0.22.0.7-1.fc39.x86_64.stp
+323689 -rw-r--r--. 1 root root  16K Jan 27 05:30 hotspot_gc-11.0.22.0.7-1.fc39.x86_64.stp
+323690 -rw-r--r--. 1 root root 205K Jan 27 05:30 hotspot_jni-11.0.22.0.7-1.fc39.x86_64.stp
+323691 -rw-r--r--. 1 root root  21K Jan 27 05:30 jstack-11.0.22.0.7-1.fc39.x86_64.stp
+
+/usr/lib/jvm/java-17:
+total 216K
+173991 drwxr-xr-x. 1 root root  346 Feb 22 13:30 bin/
+  4113 drwxr-xr-x. 1 root root  138 Feb 14 16:25 conf/
+267507 drwxr-xr-x. 1 root root  140 Feb 22 13:30 include/
+173998 drwxr-xr-x. 1 root root 1.9K Feb 14 16:25 legal/
+147204 drwxr-xr-x. 1 root root 1.3K Feb 22 13:30 lib/
+173990 -rw-r--r--. 1 root root 211K Dec 16 05:30 NEWS
+174366 -rw-r--r--. 1 root root 1.3K Dec 16 05:30 release
+267518 drwxr-xr-x. 1 root root  300 Feb 22 13:30 tapset/
+
+/usr/lib/jvm/java-17/bin:
+total 580K
+173992 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 alt-java*
+267483 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jar*
+267484 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jarsigner*
+173993 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 java*
+267485 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 javac*
+267486 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 javadoc*
+267487 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 javap*
+173994 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jcmd*
+267488 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jconsole*
+267489 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jdb*
+267490 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jdeprscan*
+267491 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jdeps*
+267492 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jfr*
+267493 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jhsdb*
+267494 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jimage*
+267495 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jinfo*
+267496 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jlink*
+267497 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jmap*
+267498 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jmod*
+267499 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jpackage*
+267500 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jps*
+267501 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jrunscript*
+267502 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jshell*
+267503 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jstack*
+267504 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jstat*
+267505 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 jstatd*
+173995 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 keytool*
+173996 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 rmiregistry*
+267506 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 serialver*
+
+/usr/lib/jvm/java-17/conf:
+total 16K
+4114 drwxr-xr-x. 1 root root  128 Feb 14 16:25 management/
+4118 drwxr-xr-x. 1 root root   34 Feb 14 16:25 sdp/
+4120 drwxr-xr-x. 1 root root  176 Feb 14 16:25 security/
+4182 -rw-r--r--. 1 root root 2.7K Dec 16 05:30 logging.properties
+4186 -rw-r--r--. 1 root root 6.5K Dec 16 05:30 net.properties
+4198 -rw-r--r--. 1 root root 1.2K Dec 16 05:30 sound.properties
+
+/usr/lib/jvm/java-17/conf/management:
+total 28K
+4183 -rw-r--r--. 1 root root 4.0K Dec 16 05:30 jmxremote.access
+4185 -rw-r--r--. 1 root root  15K Dec 16 05:30 management.properties
+4184 -rw-r--r--. 1 root root 5.6K Dec 16 05:30 jmxremote.password.template
+
+/usr/lib/jvm/java-17/conf/sdp:
+total 4.0K
+4187 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 sdp.conf.template
+
+/usr/lib/jvm/java-17/conf/security:
+total 136K
+4121 drwxr-xr-x. 1 root root   52 Feb 14 16:25 policy/
+4190 -rw-r--r--. 1 root root  139 Dec 16 05:30 nss.cfg
+4133 -rw-r--r--. 1 root root  195 Aug  4  2023 nss.fips.cfg
+4188 -rw-r--r--. 1 root root 2.2K Dec 16 05:30 java.policy
+4189 -rw-r--r--. 1 root root  58K Dec 16 05:30 java.security.rpmnew
+4191 -rw-r--r--. 1 root root  196 Dec 16 05:30 nss.fips.cfg.rpmnew
+4131 -rw-r--r--. 1 root root  58K Aug  7  2023 java.security
+
+/usr/lib/jvm/java-17/conf/security/policy:
+total 4.0K
+4122 drwxr-xr-x. 1 root root  126 Feb 14 16:25 limited/
+4126 drwxr-xr-x. 1 root root   88 Feb 14 16:25 unlimited/
+4192 -rw-r--r--. 1 root root 2.4K Dec 16 05:30 README.txt
+
+/usr/lib/jvm/java-17/conf/security/policy/limited:
+total 12K
+4194 -rw-r--r--. 1 root root 647 Dec 16 05:30 default_local.policy
+4193 -rw-r--r--. 1 root root 146 Dec 16 05:30 default_US_export.policy
+4195 -rw-r--r--. 1 root root 566 Dec 16 05:30 exempt_local.policy
+
+/usr/lib/jvm/java-17/conf/security/policy/unlimited:
+total 8.0K
+4197 -rw-r--r--. 1 root root 193 Dec 16 05:30 default_local.policy
+4196 -rw-r--r--. 1 root root 146 Dec 16 05:30 default_US_export.policy
+
+/usr/lib/jvm/java-17/include:
+total 212K
+267514 drwxr-xr-x. 1 root root   34 Feb 22 13:30 linux/
+267508 -rw-r--r--. 1 root root  22K Dec 16 05:30 classfile_constants.h
+267509 -rw-r--r--. 1 root root  13K Dec 16 05:30 jawt.h
+267510 -rw-r--r--. 1 root root 8.0K Dec 16 05:30 jdwpTransport.h
+267511 -rw-r--r--. 1 root root  74K Dec 16 05:30 jni.h
+267513 -rw-r--r--. 1 root root 4.7K Dec 16 05:30 jvmticmlr.h
+267512 -rw-r--r--. 1 root root  80K Dec 16 05:30 jvmti.h
+
+/usr/lib/jvm/java-17/include/linux:
+total 8.0K
+267515 -rw-r--r--. 1 root root 2.0K Dec 16 05:30 jawt_md.h
+267516 -rw-r--r--. 1 root root 2.2K Dec 16 05:30 jni_md.h
+
+/usr/lib/jvm/java-17/legal:
+total 0
+174111 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.accessibility/
+174146 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.hotspot.agent/
+174218 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jdwp.agent/
+174253 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.management.agent/
+174115 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.attach/
+174288 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.security.auth/
+173999 drwxr-xr-x. 1 root root 234 Feb 14 16:25 java.base/
+174119 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.charsets/
+174180 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.internal.vm.ci/
+174011 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.compiler/
+174123 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.compiler/
+174184 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.internal.vm.compiler/
+174098 drwxr-xr-x. 1 root root 120 Feb 14 16:25 java.xml.crypto/
+174127 drwxr-xr-x. 1 root root 168 Feb 14 16:25 jdk.crypto.cryptoki/
+174015 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.datatransfer/
+174019 drwxr-xr-x. 1 root root 264 Feb 14 16:25 java.desktop/
+174297 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.unsupported.desktop/
+174264 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.naming.dns/
+174304 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.xml.dom/
+174137 drwxr-xr-x. 1 root root 118 Feb 14 16:25 jdk.dynalink/
+174133 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.crypto.ec/
+174162 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.internal.ed/
+174142 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.editpad/
+174154 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.incubator.foreign/
+174052 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.net.http/
+174150 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.httpserver/
+174032 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.instrument/
+174192 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jartool/
+174196 drwxr-xr-x. 1 root root 136 Feb 14 16:25 jdk.javadoc/
+174202 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jcmd/
+174206 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jconsole/
+174210 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jdeps/
+174214 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jdi/
+174222 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jfr/
+174257 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.management.jfr/
+174072 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.security.jgss/
+174292 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.security.jgss/
+174226 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jlink/
+174230 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jpackage/
+174234 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jshell/
+174238 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jsobject/
+174242 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.jstatd/
+174166 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.internal.jvmstat/
+174170 drwxr-xr-x. 1 root root 112 Feb 14 16:25 jdk.internal.le/
+174246 drwxr-xr-x. 1 root root 132 Feb 14 16:25 jdk.localedata/
+174036 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.logging/
+174040 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.management/
+174185 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.internal.vm.compiler.management/
+174252 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.management/
+174276 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.nio.mapmode/
+174048 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.naming/
+174272 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.net/
+174175 drwxr-xr-x. 1 root root 124 Feb 14 16:25 jdk.internal.opt/
+174056 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.prefs/
+174280 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.random/
+174041 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.management.rmi/
+174060 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.rmi/
+174268 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.naming.rmi/
+174086 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.sql.rowset/
+174076 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.security.sasl/
+174064 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.scripting/
+174284 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.sctp/
+174068 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.se/
+174080 drwxr-xr-x. 1 root root 118 Feb 14 16:25 java.smartcardio/
+174085 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.sql/
+174296 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.unsupported/
+174158 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.incubator.vector/
+174093 drwxr-xr-x. 1 root root  96 Feb 14 16:25 java.transaction.xa/
+174097 drwxr-xr-x. 1 root root 170 Feb 14 16:25 java.xml/
+174308 drwxr-xr-x. 1 root root  96 Feb 14 16:25 jdk.zipfs/
+
+/usr/lib/jvm/java-17/legal/jdk.accessibility:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.hotspot.agent:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jdwp.agent:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.management.agent:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.attach:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.security.auth:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.base:
+total 92K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174003 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 aes.md
+174004 -rw-r--r--. 1 root root 1.6K Dec 16 05:30 asm.md
+174006 -rw-r--r--. 1 root root 9.0K Dec 16 05:30 cldr.md
+174005 -rw-r--r--. 1 root root 1.6K Dec 16 05:30 c-libutl.md
+174007 -rw-r--r--. 1 root root  11K Dec 16 05:30 icu.md
+174008 -rw-r--r--. 1 root root  18K Dec 16 05:30 public_suffix.md
+174009 -rw-r--r--. 1 root root 2.4K Dec 16 05:30 unicode.md
+174010 -rw-r--r--. 1 root root 1011 Dec 16 05:30 zlib.md
+
+/usr/lib/jvm/java-17/legal/jdk.charsets:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.internal.vm.ci:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.compiler:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.compiler:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.internal.vm.compiler:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.xml.crypto:
+total 40K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174102 -rw-r--r--. 1 root root  12K Dec 16 05:30 santuario.md
+
+/usr/lib/jvm/java-17/legal/jdk.crypto.cryptoki:
+total 36K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174131 -rw-r--r--. 1 root root 3.9K Dec 16 05:30 pkcs11cryptotoken.md
+174132 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 pkcs11wrapper.md
+
+/usr/lib/jvm/java-17/legal/java.datatransfer:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.desktop:
+total 100K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174023 -rw-r--r--. 1 root root  167 Dec 16 05:30 colorimaging.md
+174024 -rw-r--r--. 1 root root  30K Dec 16 05:30 freetype.md
+174025 -rw-r--r--. 1 root root 1.3K Dec 16 05:30 giflib.md
+174026 -rw-r--r--. 1 root root 3.3K Dec 16 05:30 harfbuzz.md
+174027 -rw-r--r--. 1 root root 3.4K Dec 16 05:30 jpeg.md
+174028 -rw-r--r--. 1 root root 2.6K Dec 16 05:30 lcms.md
+174029 -rw-r--r--. 1 root root 6.8K Dec 16 05:30 libpng.md
+174030 -rw-r--r--. 1 root root 5.6K Dec 16 05:30 mesa3d.md
+174031 -rw-r--r--. 1 root root 1.4K Dec 16 05:30 xwd.md
+
+/usr/lib/jvm/java-17/legal/jdk.unsupported.desktop:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.naming.dns:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.xml.dom:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.dynalink:
+total 32K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174141 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 dynalink.md
+
+/usr/lib/jvm/java-17/legal/jdk.crypto.ec:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.internal.ed:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.editpad:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.incubator.foreign:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.net.http:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.httpserver:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.instrument:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jartool:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.javadoc:
+total 36K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174200 -rw-r--r--. 1 root root 2.9K Dec 16 05:30 jquery.md
+174201 -rw-r--r--. 1 root root 1.9K Dec 16 05:30 jqueryUI.md
+
+/usr/lib/jvm/java-17/legal/jdk.jcmd:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jconsole:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jdeps:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jdi:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jfr:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.management.jfr:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.security.jgss:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.security.jgss:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jlink:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jpackage:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jshell:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jsobject:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.jstatd:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.internal.jvmstat:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.internal.le:
+total 44K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174174 -rw-r--r--. 1 root root  15K Dec 16 05:30 jline.md
+
+/usr/lib/jvm/java-17/legal/jdk.localedata:
+total 44K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174006 -rw-r--r--. 1 root root 9.0K Dec 16 05:30 cldr.md
+174251 -rw-r--r--. 1 root root 1.4K Dec 16 05:30 thaidict.md
+
+/usr/lib/jvm/java-17/legal/java.logging:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.management:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.internal.vm.compiler.management:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.management:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.nio.mapmode:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.naming:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.net:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.internal.opt:
+total 32K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174179 -rw-r--r--. 1 root root 1.1K Dec 16 05:30 jopt-simple.md
+
+/usr/lib/jvm/java-17/legal/java.prefs:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.random:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.management.rmi:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.rmi:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.naming.rmi:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.sql.rowset:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.security.sasl:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.scripting:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.sctp:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.se:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.smartcardio:
+total 32K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174084 -rw-r--r--. 1 root root 2.2K Dec 16 05:30 pcsclite.md
+
+/usr/lib/jvm/java-17/legal/java.sql:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.unsupported:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/jdk.incubator.vector:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.transaction.xa:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/legal/java.xml:
+total 76K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+174106 -rw-r--r--. 1 root root  11K Dec 16 05:30 bcel.md
+174107 -rw-r--r--. 1 root root 3.7K Dec 16 05:30 dom.md
+174108 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 jcup.md
+174109 -rw-r--r--. 1 root root  14K Dec 16 05:30 xalan.md
+174110 -rw-r--r--. 1 root root  12K Dec 16 05:30 xerces.md
+
+/usr/lib/jvm/java-17/legal/jdk.zipfs:
+total 28K
+174000 -rw-r--r--. 1 root root 2.1K Dec 16 05:30 ADDITIONAL_LICENSE_INFO
+174001 -rw-r--r--. 1 root root 1.5K Dec 16 05:30 ASSEMBLY_EXCEPTION
+174002 -rw-r--r--. 1 root root  19K Dec 16 05:30 LICENSE
+
+/usr/lib/jvm/java-17/lib:
+total 146M
+174312 -rw-r--r--. 1 root root  70K Dec 16 05:30 classlist
+174313 -rwxr-xr-x. 1 root root  18K Dec 16 05:30 jexec*
+174314 drwxr-xr-x. 1 root root   44 Feb 14 16:25 jfr/
+174318 -rwxr-xr-x. 1 root root  23K Dec 16 05:30 jspawnhelper*
+174355 -rw-r--r--. 1 root root 128M Dec 16 05:30 modules
+  4107 drwxr-xr-x. 1 root root  202 Feb 14 16:25 security/
+174359 drwxr-xr-x. 1 root root   98 Feb 14 16:25 server/
+174319 -rw-r--r--. 1 root root   29 Dec 16 05:30 jvm.cfg
+160100 -rw-r--r--. 1 root root 102K Feb  6 05:30 tzdb.dat
+174356 -rw-r--r--. 1 root root 3.8K Dec 16 05:30 psfont.properties.ja
+174317 -rw-r--r--. 1 root root 108K Dec 16 05:30 jrt-fs.jar
+174357 -rw-r--r--. 1 root root  12K Dec 16 05:30 psfontj2d.properties
+174320 -rwxr-xr-x. 1 root root  18K Dec 16 05:30 libattach.so*
+174322 -rwxr-xr-x. 1 root root  59K Dec 16 05:30 libawt_headless.so*
+174321 -rwxr-xr-x. 1 root root 973K Dec 16 05:30 libawt.so*
+267451 -rwxr-xr-x. 1 root root 496K Dec 16 05:30 libawt_xawt.so*
+174323 -rwxr-xr-x. 1 root root  41K Dec 16 05:30 libdt_socket.so*
+174324 -rwxr-xr-x. 1 root root  18K Dec 16 05:30 libextnet.so*
+174325 -rwxr-xr-x. 1 root root 2.6M Dec 16 05:30 libfontmanager.so*
+174326 -rwxr-xr-x. 1 root root 810K Dec 16 05:30 libfreetype.so*
+174327 -rwxr-xr-x. 1 root root  64K Dec 16 05:30 libinstrument.so*
+174328 -rwxr-xr-x. 1 root root  56K Dec 16 05:30 libj2gss.so*
+174329 -rwxr-xr-x. 1 root root  23K Dec 16 05:30 libj2pcsc.so*
+174330 -rwxr-xr-x. 1 root root 103K Dec 16 05:30 libj2pkcs11.so*
+174331 -rwxr-xr-x. 1 root root  17K Dec 16 05:30 libjaas.so*
+174333 -rwxr-xr-x. 1 root root 255K Dec 16 05:30 libjavajpeg.so*
+174332 -rwxr-xr-x. 1 root root 230K Dec 16 05:30 libjava.so*
+267452 -rwxr-xr-x. 1 root root  16K Dec 16 05:30 libjawt.so*
+174334 -rwxr-xr-x. 1 root root 311K Dec 16 05:30 libjdwp.so*
+174335 -rwxr-xr-x. 1 root root 163K Dec 16 05:30 libjimage.so*
+174336 -rwxr-xr-x. 1 root root 124K Dec 16 05:30 libjli.so*
+174337 -rwxr-xr-x. 1 root root  18K Dec 16 05:30 libjsig.so*
+174338 -rwxr-xr-x. 1 root root  93K Dec 16 05:30 libjsound.so*
+174339 -rwxr-xr-x. 1 root root 855K Dec 16 05:30 libjsvml.so*
+174340 -rwxr-xr-x. 1 root root 524K Dec 16 05:30 liblcms.so*
+174342 -rwxr-xr-x. 1 root root  17K Dec 16 05:30 libmanagement_agent.so*
+174343 -rwxr-xr-x. 1 root root  41K Dec 16 05:30 libmanagement_ext.so*
+174341 -rwxr-xr-x. 1 root root  30K Dec 16 05:30 libmanagement.so*
+174344 -rwxr-xr-x. 1 root root 618K Dec 16 05:30 libmlib_image.so*
+174345 -rwxr-xr-x. 1 root root 121K Dec 16 05:30 libnet.so*
+174346 -rwxr-xr-x. 1 root root 117K Dec 16 05:30 libnio.so*
+174347 -rwxr-xr-x. 1 root root  17K Dec 16 05:30 libprefs.so*
+174348 -rwxr-xr-x. 1 root root  16K Dec 16 05:30 librmi.so*
+174349 -rwxr-xr-x. 1 root root 200K Dec 16 05:30 libsaproc.so*
+174350 -rwxr-xr-x. 1 root root  37K Dec 16 05:30 libsctp.so*
+267453 -rwxr-xr-x. 1 root root 495K Dec 16 05:30 libsplashscreen.so*
+174351 -rwxr-xr-x. 1 root root  16K Dec 16 05:30 libsyslookup.so*
+174352 -rwxr-xr-x. 1 root root  17K Dec 16 05:30 libsystemconf.so*
+174353 -rwxr-xr-x. 1 root root  64K Dec 16 05:30 libverify.so*
+174354 -rwxr-xr-x. 1 root root 135K Dec 16 05:30 libzip.so*
+267517 -rw-r--r--. 1 root root 8.0M Dec 16 05:30 ct.sym
+174365 -rw-r--r--. 1 root root 102K Dec 16 05:30 tzdb.dat.upstream
+
+/usr/lib/jvm/java-17/lib/jfr:
+total 72K
+174315 -rw-r--r--. 1 root root 36K Dec 16 05:30 default.jfc
+174316 -rw-r--r--. 1 root root 36K Dec 16 05:30 profile.jfc
+
+/usr/lib/jvm/java-17/lib/security:
+total 744K
+2416 -r--r--r--. 1 root root 159K Nov  1 06:39 cacerts
+4199 -rw-r--r--. 1 root root 2.5K Dec 16 05:30 blocked.certs
+4112 -rw-r--r--. 1 root root 227K Aug  4  2023 public_suffix_list.dat
+4202 -rw-r--r--. 1 root root  11K Dec 16 05:30 default.policy
+4203 -rw-r--r--. 1 root root 225K Dec 16 05:30 public_suffix_list.dat.rpmnew
+4201 -rw-r--r--. 1 root root 109K Dec 16 05:30 cacerts.upstream
+
+/usr/lib/jvm/java-17/lib/server:
+total 49M
+174360 -r--r--r--. 1 root root 13M Dec 16 05:30 classes.jsa
+174361 -r--r--r--. 1 root root 12M Dec 16 05:30 classes_nocoops.jsa
+174362 -rwxr-xr-x. 1 root root 18K Dec 16 05:30 libjsig.so*
+174363 -rwxr-xr-x. 1 root root 24M Dec 16 05:30 libjvm.so*
+
+/usr/lib/jvm/java-17/tapset:
+total 268K
+267519 -rw-r--r--. 1 root root  18K Dec 16 05:30 hotspot-17.0.9.0.9-3.fc39.x86_64.stp
+267520 -rw-r--r--. 1 root root  16K Dec 16 05:30 hotspot_gc-17.0.9.0.9-3.fc39.x86_64.stp
+267521 -rw-r--r--. 1 root root 205K Dec 16 05:30 hotspot_jni-17.0.9.0.9-3.fc39.x86_64.stp
+267522 -rw-r--r--. 1 root root  21K Dec 16 05:30 jstack-17.0.9.0.9-3.fc39.x86_64.stp
+
+/usr/lib/jvm/java-21:
+total 56K
+318133 drwxr-xr-x. 1 root root  366 Feb 26 17:54 bin/
+  7264 drwxr-xr-x. 1 root root  168 Feb 26 17:53 conf/
+323580 drwxr-xr-x. 1 root root  140 Feb 26 17:54 include/
+318140 drwxr-xr-x. 1 root root 1.9K Feb 26 17:53 legal/
+318451 drwxr-xr-x. 1 root root 1.3K Feb 26 17:54 lib/
+318132 -rw-r--r--. 1 root root  51K Jan 20 05:30 NEWS
+318507 -rw-r--r--. 1 root root 1.3K Jan 20 05:30 release
+323591 drwxr-xr-x. 1 root root  308 Feb 26 17:54 tapset/
+
+/usr/lib/jvm/java-21/bin:
+total 600K
+318134 -rwxr-xr-x. 1 root root 17K Jan 20 05:30 alt-java*
+323555 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jar*
+323556 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jarsigner*
+318135 -rwxr-xr-x. 1 root root 17K Jan 20 05:30 java*
+323557 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 javac*
+323558 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 javadoc*
+323559 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 javap*
+318136 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jcmd*
+323560 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jconsole*
+323561 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jdb*
+323562 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jdeprscan*
+323563 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jdeps*
+323564 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jfr*
+323565 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jhsdb*
+323566 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jimage*
+323567 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jinfo*
+323568 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jlink*
+323569 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jmap*
+323570 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jmod*
+323571 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jpackage*
+323572 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jps*
+323573 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jrunscript*
+323574 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jshell*
+323575 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jstack*
+323576 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jstat*
+323577 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jstatd*
+323578 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 jwebserver*
+318137 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 keytool*
+318138 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 rmiregistry*
+323579 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 serialver*
+
+/usr/lib/jvm/java-21/conf:
+total 24K
+7267 drwxr-xr-x. 1 root root  128 Feb 26 17:53 management/
+7272 drwxr-xr-x. 1 root root   34 Feb 26 17:53 sdp/
+7274 drwxr-xr-x. 1 root root   84 Feb 26 17:53 security/
+7265 -rw-r--r--. 1 root root 7.2K Jan 20 05:30 jaxp.properties
+7266 -rw-r--r--. 1 root root 2.7K Jan 20 05:30 logging.properties
+7271 -rw-r--r--. 1 root root 6.5K Jan 20 05:30 net.properties
+7287 -rw-r--r--. 1 root root 1.2K Jan 20 05:30 sound.properties
+
+/usr/lib/jvm/java-21/conf/management:
+total 28K
+7268 -rw-r--r--. 1 root root 4.0K Jan 20 05:30 jmxremote.access
+7270 -rw-r--r--. 1 root root  15K Jan 20 05:30 management.properties
+7269 -rw-r--r--. 1 root root 5.6K Jan 20 05:30 jmxremote.password.template
+
+/usr/lib/jvm/java-21/conf/sdp:
+total 4.0K
+7273 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 sdp.conf.template
+
+/usr/lib/jvm/java-21/conf/security:
+total 76K
+7278 drwxr-xr-x. 1 root root   52 Feb 26 17:53 policy/
+7277 -rw-r--r--. 1 root root  196 Jan 20 05:30 nss.fips.cfg
+7275 -rw-r--r--. 1 root root 2.3K Jan 20 05:30 java.policy
+7276 -rw-r--r--. 1 root root  65K Jan 20 05:30 java.security
+
+/usr/lib/jvm/java-21/conf/security/policy:
+total 4.0K
+7280 drwxr-xr-x. 1 root root  126 Feb 26 17:53 limited/
+7284 drwxr-xr-x. 1 root root   88 Feb 26 17:53 unlimited/
+7279 -rw-r--r--. 1 root root 2.4K Jan 20 05:30 README.txt
+
+/usr/lib/jvm/java-21/conf/security/policy/limited:
+total 12K
+7282 -rw-r--r--. 1 root root 647 Jan 20 05:30 default_local.policy
+7281 -rw-r--r--. 1 root root 146 Jan 20 05:30 default_US_export.policy
+7283 -rw-r--r--. 1 root root 566 Jan 20 05:30 exempt_local.policy
+
+/usr/lib/jvm/java-21/conf/security/policy/unlimited:
+total 8.0K
+7286 -rw-r--r--. 1 root root 193 Jan 20 05:30 default_local.policy
+7285 -rw-r--r--. 1 root root 146 Jan 20 05:30 default_US_export.policy
+
+/usr/lib/jvm/java-21/include:
+total 216K
+323587 drwxr-xr-x. 1 root root   34 Feb 26 17:54 linux/
+323581 -rw-r--r--. 1 root root  22K Jan 20 05:30 classfile_constants.h
+323582 -rw-r--r--. 1 root root  13K Jan 20 05:30 jawt.h
+323583 -rw-r--r--. 1 root root 8.0K Jan 20 05:30 jdwpTransport.h
+323584 -rw-r--r--. 1 root root  75K Jan 20 05:30 jni.h
+323586 -rw-r--r--. 1 root root 4.7K Jan 20 05:30 jvmticmlr.h
+323585 -rw-r--r--. 1 root root  82K Jan 20 05:30 jvmti.h
+
+/usr/lib/jvm/java-21/include/linux:
+total 8.0K
+323588 -rw-r--r--. 1 root root 2.0K Jan 20 05:30 jawt_md.h
+323589 -rw-r--r--. 1 root root 2.2K Jan 20 05:30 jni_md.h
+
+/usr/lib/jvm/java-21/legal:
+total 0
+318254 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.accessibility/
+318289 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.hotspot.agent/
+318357 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jdwp.agent/
+318392 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.management.agent/
+318258 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.attach/
+318427 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.security.auth/
+318141 drwxr-xr-x. 1 root root 234 Feb 26 17:53 java.base/
+318262 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.charsets/
+318319 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.vm.ci/
+318153 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.compiler/
+318266 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.compiler/
+318323 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.vm.compiler/
+318241 drwxr-xr-x. 1 root root 120 Feb 26 17:53 java.xml.crypto/
+318270 drwxr-xr-x. 1 root root 168 Feb 26 17:53 jdk.crypto.cryptoki/
+318157 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.datatransfer/
+318161 drwxr-xr-x. 1 root root 286 Feb 26 17:53 java.desktop/
+318436 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.unsupported.desktop/
+318403 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.naming.dns/
+318443 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.xml.dom/
+318280 drwxr-xr-x. 1 root root 118 Feb 26 17:53 jdk.dynalink/
+318276 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.crypto.ec/
+318301 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.ed/
+318285 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.editpad/
+318195 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.net.http/
+318293 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.httpserver/
+318175 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.instrument/
+318331 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jartool/
+318335 drwxr-xr-x. 1 root root 136 Feb 26 17:53 jdk.javadoc/
+318341 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jcmd/
+318345 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jconsole/
+318349 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jdeps/
+318353 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jdi/
+318361 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jfr/
+318396 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.management.jfr/
+318215 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.security.jgss/
+318431 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.security.jgss/
+318365 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jlink/
+318369 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jpackage/
+318373 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jshell/
+318377 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jsobject/
+318381 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.jstatd/
+318305 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.jvmstat/
+318309 drwxr-xr-x. 1 root root 112 Feb 26 17:53 jdk.internal.le/
+318385 drwxr-xr-x. 1 root root 132 Feb 26 17:53 jdk.localedata/
+318179 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.logging/
+318183 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.management/
+318324 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.internal.vm.compiler.management/
+318391 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.management/
+318415 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.nio.mapmode/
+318191 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.naming/
+318411 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.net/
+318314 drwxr-xr-x. 1 root root 124 Feb 26 17:53 jdk.internal.opt/
+318199 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.prefs/
+318419 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.random/
+318184 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.management.rmi/
+318203 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.rmi/
+318407 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.naming.rmi/
+318229 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.sql.rowset/
+318219 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.security.sasl/
+318207 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.scripting/
+318423 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.sctp/
+318211 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.se/
+318223 drwxr-xr-x. 1 root root 118 Feb 26 17:53 java.smartcardio/
+318228 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.sql/
+318435 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.unsupported/
+318297 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.incubator.vector/
+318236 drwxr-xr-x. 1 root root  96 Feb 26 17:53 java.transaction.xa/
+318240 drwxr-xr-x. 1 root root 170 Feb 26 17:53 java.xml/
+318447 drwxr-xr-x. 1 root root  96 Feb 26 17:53 jdk.zipfs/
+
+/usr/lib/jvm/java-21/legal/jdk.accessibility:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.hotspot.agent:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jdwp.agent:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.management.agent:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.attach:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.security.auth:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.base:
+total 120K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318145 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 aes.md
+318146 -rw-r--r--. 1 root root 1.6K Jan 20 05:30 asm.md
+318148 -rw-r--r--. 1 root root 9.4K Jan 20 05:30 cldr.md
+318147 -rw-r--r--. 1 root root 1.6K Jan 20 05:30 c-libutl.md
+318149 -rw-r--r--. 1 root root  30K Jan 20 05:30 icu.md
+318150 -rw-r--r--. 1 root root  18K Jan 20 05:30 public_suffix.md
+318151 -rw-r--r--. 1 root root 8.9K Jan 20 05:30 unicode.md
+318152 -rw-r--r--. 1 root root 1011 Jan 20 05:30 zlib.md
+
+/usr/lib/jvm/java-21/legal/jdk.charsets:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.internal.vm.ci:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.compiler:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.compiler:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.internal.vm.compiler:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.xml.crypto:
+total 40K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318245 -rw-r--r--. 1 root root  12K Jan 20 05:30 santuario.md
+
+/usr/lib/jvm/java-21/legal/jdk.crypto.cryptoki:
+total 36K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318274 -rw-r--r--. 1 root root 3.9K Jan 20 05:30 pkcs11cryptotoken.md
+318275 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 pkcs11wrapper.md
+
+/usr/lib/jvm/java-21/legal/java.datatransfer:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.desktop:
+total 104K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318165 -rw-r--r--. 1 root root  167 Jan 20 05:30 colorimaging.md
+318166 -rw-r--r--. 1 root root  30K Jan 20 05:30 freetype.md
+318167 -rw-r--r--. 1 root root 1.3K Jan 20 05:30 giflib.md
+318168 -rw-r--r--. 1 root root 3.6K Jan 20 05:30 harfbuzz.md
+318169 -rw-r--r--. 1 root root 3.4K Jan 20 05:30 jpeg.md
+318170 -rw-r--r--. 1 root root 2.6K Jan 20 05:30 lcms.md
+318171 -rw-r--r--. 1 root root 6.9K Jan 20 05:30 libpng.md
+318172 -rw-r--r--. 1 root root 5.6K Jan 20 05:30 mesa3d.md
+318173 -rw-r--r--. 1 root root 1.4K Jan 20 05:30 pipewire.md
+318174 -rw-r--r--. 1 root root 1.4K Jan 20 05:30 xwd.md
+
+/usr/lib/jvm/java-21/legal/jdk.unsupported.desktop:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.naming.dns:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.xml.dom:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.dynalink:
+total 32K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318284 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 dynalink.md
+
+/usr/lib/jvm/java-21/legal/jdk.crypto.ec:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.internal.ed:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.editpad:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.net.http:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.httpserver:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.instrument:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jartool:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.javadoc:
+total 36K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318339 -rw-r--r--. 1 root root 2.9K Jan 20 05:30 jquery.md
+318340 -rw-r--r--. 1 root root 1.9K Jan 20 05:30 jqueryUI.md
+
+/usr/lib/jvm/java-21/legal/jdk.jcmd:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jconsole:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jdeps:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jdi:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jfr:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.management.jfr:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.security.jgss:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.security.jgss:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jlink:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jpackage:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jshell:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jsobject:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.jstatd:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.internal.jvmstat:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.internal.le:
+total 32K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318313 -rw-r--r--. 1 root root 1.6K Jan 20 05:30 jline.md
+
+/usr/lib/jvm/java-21/legal/jdk.localedata:
+total 44K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318148 -rw-r--r--. 1 root root 9.4K Jan 20 05:30 cldr.md
+318390 -rw-r--r--. 1 root root 1.4K Jan 20 05:30 thaidict.md
+
+/usr/lib/jvm/java-21/legal/java.logging:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.management:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.internal.vm.compiler.management:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.management:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.nio.mapmode:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.naming:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.net:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.internal.opt:
+total 32K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318318 -rw-r--r--. 1 root root 1.1K Jan 20 05:30 jopt-simple.md
+
+/usr/lib/jvm/java-21/legal/java.prefs:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.random:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.management.rmi:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.rmi:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.naming.rmi:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.sql.rowset:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.security.sasl:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.scripting:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.sctp:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.se:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.smartcardio:
+total 32K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318227 -rw-r--r--. 1 root root 2.2K Jan 20 05:30 pcsclite.md
+
+/usr/lib/jvm/java-21/legal/java.sql:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.unsupported:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/jdk.incubator.vector:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.transaction.xa:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/legal/java.xml:
+total 76K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+318249 -rw-r--r--. 1 root root  11K Jan 20 05:30 bcel.md
+318250 -rw-r--r--. 1 root root 3.7K Jan 20 05:30 dom.md
+318251 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 jcup.md
+318252 -rw-r--r--. 1 root root  14K Jan 20 05:30 xalan.md
+318253 -rw-r--r--. 1 root root  12K Jan 20 05:30 xerces.md
+
+/usr/lib/jvm/java-21/legal/jdk.zipfs:
+total 28K
+318142 -rw-r--r--. 1 root root 2.1K Jan 20 05:30 ADDITIONAL_LICENSE_INFO
+318143 -rw-r--r--. 1 root root 1.5K Jan 20 05:30 ASSEMBLY_EXCEPTION
+318144 -rw-r--r--. 1 root root  19K Jan 20 05:30 LICENSE
+
+/usr/lib/jvm/java-21/lib:
+total 161M
+318452 -rw-r--r--. 1 root root  78K Jan 20 05:30 classlist
+318453 -rwxr-xr-x. 1 root root  18K Jan 20 05:30 jexec*
+318454 drwxr-xr-x. 1 root root   44 Feb 26 17:53 jfr/
+318458 -rwxr-xr-x. 1 root root  24K Jan 20 05:30 jspawnhelper*
+318496 -rw-r--r--. 1 root root 141M Jan 20 05:30 modules
+  7289 drwxr-xr-x. 1 root root  144 Feb 26 17:53 security/
+318500 drwxr-xr-x. 1 root root   98 Feb 26 17:53 server/
+318459 -rw-r--r--. 1 root root   29 Jan 20 05:30 jvm.cfg
+160100 -rw-r--r--. 1 root root 102K Feb  6 05:30 tzdb.dat
+318497 -rw-r--r--. 1 root root 3.8K Jan 20 05:30 psfont.properties.ja
+318457 -rw-r--r--. 1 root root 108K Jan 20 05:30 jrt-fs.jar
+318498 -rw-r--r--. 1 root root  12K Jan 20 05:30 psfontj2d.properties
+318460 -rwxr-xr-x. 1 root root  18K Jan 20 05:30 libattach.so*
+318462 -rwxr-xr-x. 1 root root  59K Jan 20 05:30 libawt_headless.so*
+318461 -rwxr-xr-x. 1 root root 914K Jan 20 05:30 libawt.so*
+319180 -rwxr-xr-x. 1 root root 596K Jan 20 05:30 libawt_xawt.so*
+318463 -rwxr-xr-x. 1 root root  41K Jan 20 05:30 libdt_socket.so*
+318464 -rwxr-xr-x. 1 root root  18K Jan 20 05:30 libextnet.so*
+318465 -rwxr-xr-x. 1 root root 2.7M Jan 20 05:30 libfontmanager.so*
+318466 -rwxr-xr-x. 1 root root 782K Jan 20 05:30 libfreetype.so*
+318467 -rwxr-xr-x. 1 root root  64K Jan 20 05:30 libinstrument.so*
+318468 -rwxr-xr-x. 1 root root  56K Jan 20 05:30 libj2gss.so*
+318469 -rwxr-xr-x. 1 root root  23K Jan 20 05:30 libj2pcsc.so*
+318470 -rwxr-xr-x. 1 root root 103K Jan 20 05:30 libj2pkcs11.so*
+318471 -rwxr-xr-x. 1 root root  17K Jan 20 05:30 libjaas.so*
+318473 -rwxr-xr-x. 1 root root 256K Jan 20 05:30 libjavajpeg.so*
+318472 -rwxr-xr-x. 1 root root 207K Jan 20 05:30 libjava.so*
+319181 -rwxr-xr-x. 1 root root  16K Jan 20 05:30 libjawt.so*
+318474 -rwxr-xr-x. 1 root root 324K Jan 20 05:30 libjdwp.so*
+318475 -rwxr-xr-x. 1 root root 159K Jan 20 05:30 libjimage.so*
+318476 -rwxr-xr-x. 1 root root 125K Jan 20 05:30 libjli.so*
+318477 -rwxr-xr-x. 1 root root  18K Jan 20 05:30 libjsig.so*
+318478 -rwxr-xr-x. 1 root root  93K Jan 20 05:30 libjsound.so*
+318479 -rwxr-xr-x. 1 root root 855K Jan 20 05:30 libjsvml.so*
+318480 -rwxr-xr-x. 1 root root 523K Jan 20 05:30 liblcms.so*
+318481 -rwxr-xr-x. 1 root root 140K Jan 20 05:30 lible.so*
+318483 -rwxr-xr-x. 1 root root  17K Jan 20 05:30 libmanagement_agent.so*
+318484 -rwxr-xr-x. 1 root root  41K Jan 20 05:30 libmanagement_ext.so*
+318482 -rwxr-xr-x. 1 root root  30K Jan 20 05:30 libmanagement.so*
+318485 -rwxr-xr-x. 1 root root 618K Jan 20 05:30 libmlib_image.so*
+318486 -rwxr-xr-x. 1 root root  71K Jan 20 05:30 libnet.so*
+318487 -rwxr-xr-x. 1 root root 123K Jan 20 05:30 libnio.so*
+318488 -rwxr-xr-x. 1 root root  17K Jan 20 05:30 libprefs.so*
+318489 -rwxr-xr-x. 1 root root  16K Jan 20 05:30 librmi.so*
+318490 -rwxr-xr-x. 1 root root 200K Jan 20 05:30 libsaproc.so*
+318491 -rwxr-xr-x. 1 root root  37K Jan 20 05:30 libsctp.so*
+319182 -rwxr-xr-x. 1 root root 496K Jan 20 05:30 libsplashscreen.so*
+318492 -rwxr-xr-x. 1 root root  16K Jan 20 05:30 libsyslookup.so*
+318493 -rwxr-xr-x. 1 root root  17K Jan 20 05:30 libsystemconf.so*
+318494 -rwxr-xr-x. 1 root root  64K Jan 20 05:30 libverify.so*
+318495 -rwxr-xr-x. 1 root root 135K Jan 20 05:30 libzip.so*
+323590 -rw-r--r--. 1 root root  11M Jan 20 05:30 ct.sym
+318506 -rw-r--r--. 1 root root 102K Jan 20 05:30 tzdb.dat.upstream
+
+/usr/lib/jvm/java-21/lib/jfr:
+total 80K
+318455 -rw-r--r--. 1 root root 37K Jan 20 05:30 default.jfc
+318456 -rw-r--r--. 1 root root 37K Jan 20 05:30 profile.jfc
+
+/usr/lib/jvm/java-21/lib/security:
+total 532K
+2416 -r--r--r--. 1 root root 159K Nov  1 06:39 cacerts
+7290 -rw-r--r--. 1 root root 2.5K Jan 20 05:30 blocked.certs
+7294 -rw-r--r--. 1 root root 225K Jan 20 05:30 public_suffix_list.dat
+7293 -rw-r--r--. 1 root root  11K Jan 20 05:30 default.policy
+7292 -rw-r--r--. 1 root root 127K Jan 20 05:30 cacerts.upstream
+
+/usr/lib/jvm/java-21/lib/server:
+total 55M
+318501 -r--r--r--. 1 root root 14M Jan 20 05:30 classes.jsa
+318502 -r--r--r--. 1 root root 15M Jan 20 05:30 classes_nocoops.jsa
+318503 -rwxr-xr-x. 1 root root 18K Jan 20 05:30 libjsig.so*
+318504 -rwxr-xr-x. 1 root root 27M Jan 20 05:30 libjvm.so*
+
+/usr/lib/jvm/java-21/tapset:
+total 268K
+323592 -rw-r--r--. 1 root root  18K Jan 20 05:30 hotspot-21.0.2.0.13-1.fc39.x86_64.stp
+323593 -rw-r--r--. 1 root root  16K Jan 20 05:30 hotspot_gc-21.0.2.0.13-1.fc39.x86_64.stp
+323594 -rw-r--r--. 1 root root 205K Jan 20 05:30 hotspot_jni-21.0.2.0.13-1.fc39.x86_64.stp
+323595 -rw-r--r--. 1 root root  21K Jan 20 05:30 jstack-21.0.2.0.13-1.fc39.x86_64.stp
+
+/usr/lib/jvm/java-22:
+total 56K
+347967 drwxr-xr-x. 1 root root  366 Mar 22 13:00 bin/
+ 13325 drwxr-xr-x. 1 root root  168 Mar 22 12:54 conf/
+402022 drwxr-xr-x. 1 root root  140 Mar 22 13:00 include/
+347974 drwxr-xr-x. 1 root root 1.9K Mar 22 12:54 legal/
+348285 drwxr-xr-x. 1 root root 1.3K Mar 22 13:00 lib/
+347966 -rw-r--r--. 1 root root  51K Feb 19 05:30 NEWS
+348341 -rw-r--r--. 1 root root 1.3K Feb 19 05:30 release
+402033 drwxr-xr-x. 1 root root  372 Mar 22 13:00 tapset/
+
+/usr/lib/jvm/java-22/bin:
+total 600K
+347968 -rwxr-xr-x. 1 root root 17K Feb 19 05:30 alt-java*
+401997 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jar*
+401998 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jarsigner*
+347969 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 java*
+401999 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 javac*
+402000 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 javadoc*
+402001 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 javap*
+347970 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jcmd*
+402002 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jconsole*
+402003 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jdb*
+402004 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jdeprscan*
+402005 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jdeps*
+402006 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jfr*
+402007 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jhsdb*
+402008 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jimage*
+402009 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jinfo*
+402010 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jlink*
+402011 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jmap*
+402012 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jmod*
+402013 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jpackage*
+402014 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jps*
+402015 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jrunscript*
+402016 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jshell*
+402017 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jstack*
+402018 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jstat*
+402019 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jstatd*
+402020 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 jwebserver*
+347971 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 keytool*
+347972 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 rmiregistry*
+402021 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 serialver*
+
+/usr/lib/jvm/java-22/conf:
+total 24K
+13328 drwxr-xr-x. 1 root root  128 Mar 22 12:54 management/
+13333 drwxr-xr-x. 1 root root   34 Mar 22 12:54 sdp/
+13335 drwxr-xr-x. 1 root root   60 Mar 22 12:54 security/
+13326 -rw-r--r--. 1 root root 8.0K Feb 19 05:30 jaxp.properties
+13327 -rw-r--r--. 1 root root 2.7K Feb 19 05:30 logging.properties
+13332 -rw-r--r--. 1 root root 6.5K Feb 19 05:30 net.properties
+13347 -rw-r--r--. 1 root root 1.2K Feb 19 05:30 sound.properties
+
+/usr/lib/jvm/java-22/conf/management:
+total 28K
+13329 -rw-r--r--. 1 root root 4.0K Feb 19 05:30 jmxremote.access
+13331 -rw-r--r--. 1 root root  15K Feb 19 05:30 management.properties
+13330 -rw-r--r--. 1 root root 5.6K Feb 19 05:30 jmxremote.password.template
+
+/usr/lib/jvm/java-22/conf/sdp:
+total 4.0K
+13334 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 sdp.conf.template
+
+/usr/lib/jvm/java-22/conf/security:
+total 68K
+13338 drwxr-xr-x. 1 root root   52 Mar 22 12:54 policy/
+13336 -rw-r--r--. 1 root root 2.3K Feb 19 05:30 java.policy
+13337 -rw-r--r--. 1 root root  63K Feb 19 05:30 java.security
+
+/usr/lib/jvm/java-22/conf/security/policy:
+total 4.0K
+13340 drwxr-xr-x. 1 root root  126 Mar 22 12:54 limited/
+13344 drwxr-xr-x. 1 root root   88 Mar 22 12:54 unlimited/
+13339 -rw-r--r--. 1 root root 2.4K Feb 19 05:30 README.txt
+
+/usr/lib/jvm/java-22/conf/security/policy/limited:
+total 12K
+13342 -rw-r--r--. 1 root root 647 Feb 19 05:30 default_local.policy
+13341 -rw-r--r--. 1 root root 146 Feb 19 05:30 default_US_export.policy
+13343 -rw-r--r--. 1 root root 566 Feb 19 05:30 exempt_local.policy
+
+/usr/lib/jvm/java-22/conf/security/policy/unlimited:
+total 8.0K
+13346 -rw-r--r--. 1 root root 193 Feb 19 05:30 default_local.policy
+13345 -rw-r--r--. 1 root root 146 Feb 19 05:30 default_US_export.policy
+
+/usr/lib/jvm/java-22/include:
+total 216K
+402029 drwxr-xr-x. 1 root root   34 Mar 22 13:00 linux/
+402023 -rw-r--r--. 1 root root  22K Feb 19 05:30 classfile_constants.h
+402024 -rw-r--r--. 1 root root  13K Feb 19 05:30 jawt.h
+402025 -rw-r--r--. 1 root root 8.0K Feb 19 05:30 jdwpTransport.h
+402026 -rw-r--r--. 1 root root  75K Feb 19 05:30 jni.h
+402028 -rw-r--r--. 1 root root 4.7K Feb 19 05:30 jvmticmlr.h
+402027 -rw-r--r--. 1 root root  82K Feb 19 05:30 jvmti.h
+
+/usr/lib/jvm/java-22/include/linux:
+total 8.0K
+402030 -rw-r--r--. 1 root root 2.0K Feb 19 05:30 jawt_md.h
+402031 -rw-r--r--. 1 root root 2.2K Feb 19 05:30 jni_md.h
+
+/usr/lib/jvm/java-22/legal:
+total 0
+348088 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.accessibility/
+348131 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.hotspot.agent/
+348191 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jdwp.agent/
+348226 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.management.agent/
+348092 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.attach/
+348261 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.security.auth/
+347975 drwxr-xr-x. 1 root root 234 Mar 22 12:54 java.base/
+348096 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.charsets/
+348161 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.internal.vm.ci/
+347987 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.compiler/
+348100 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.compiler/
+348123 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.graal.compiler/
+348075 drwxr-xr-x. 1 root root 120 Mar 22 12:54 java.xml.crypto/
+348104 drwxr-xr-x. 1 root root 168 Mar 22 12:54 jdk.crypto.cryptoki/
+347991 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.datatransfer/
+347995 drwxr-xr-x. 1 root root 286 Mar 22 12:54 java.desktop/
+348270 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.unsupported.desktop/
+348237 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.naming.dns/
+348277 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.xml.dom/
+348114 drwxr-xr-x. 1 root root 118 Mar 22 12:54 jdk.dynalink/
+348110 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.crypto.ec/
+348143 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.internal.ed/
+348119 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.editpad/
+348029 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.net.http/
+348135 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.httpserver/
+348009 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.instrument/
+348165 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jartool/
+348169 drwxr-xr-x. 1 root root 136 Mar 22 12:54 jdk.javadoc/
+348175 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jcmd/
+348179 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jconsole/
+348183 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jdeps/
+348187 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jdi/
+348195 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jfr/
+348230 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.management.jfr/
+348049 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.security.jgss/
+348265 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.security.jgss/
+348199 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jlink/
+348203 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jpackage/
+348207 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jshell/
+348211 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jsobject/
+348215 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.jstatd/
+348147 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.internal.jvmstat/
+348151 drwxr-xr-x. 1 root root 112 Mar 22 12:54 jdk.internal.le/
+348219 drwxr-xr-x. 1 root root 132 Mar 22 12:54 jdk.localedata/
+348013 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.logging/
+348017 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.management/
+348124 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.graal.compiler.management/
+348225 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.management/
+348249 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.nio.mapmode/
+348025 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.naming/
+348245 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.net/
+348156 drwxr-xr-x. 1 root root 124 Mar 22 12:54 jdk.internal.opt/
+348033 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.prefs/
+348253 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.random/
+348018 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.management.rmi/
+348037 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.rmi/
+348241 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.naming.rmi/
+348063 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.sql.rowset/
+348053 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.security.sasl/
+348041 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.scripting/
+348257 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.sctp/
+348045 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.se/
+348057 drwxr-xr-x. 1 root root 118 Mar 22 12:54 java.smartcardio/
+348062 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.sql/
+348269 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.unsupported/
+348139 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.incubator.vector/
+348070 drwxr-xr-x. 1 root root  96 Mar 22 12:54 java.transaction.xa/
+348074 drwxr-xr-x. 1 root root 170 Mar 22 12:54 java.xml/
+348281 drwxr-xr-x. 1 root root  96 Mar 22 12:54 jdk.zipfs/
+
+/usr/lib/jvm/java-22/legal/jdk.accessibility:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.hotspot.agent:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jdwp.agent:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.management.agent:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.attach:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.security.auth:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.base:
+total 96K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+347979 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 aes.md
+347980 -rw-r--r--. 1 root root 1.6K Feb 19 05:30 asm.md
+347982 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 cldr.md
+347981 -rw-r--r--. 1 root root 1.6K Feb 19 05:30 c-libutl.md
+347983 -rw-r--r--. 1 root root  13K Feb 19 05:30 icu.md
+347984 -rw-r--r--. 1 root root  18K Feb 19 05:30 public_suffix.md
+347985 -rw-r--r--. 1 root root 9.0K Feb 19 05:30 unicode.md
+347986 -rw-r--r--. 1 root root 1011 Feb 19 05:30 zlib.md
+
+/usr/lib/jvm/java-22/legal/jdk.charsets:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.internal.vm.ci:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.compiler:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.compiler:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.graal.compiler:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.xml.crypto:
+total 40K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+348079 -rw-r--r--. 1 root root  12K Feb 19 05:30 santuario.md
+
+/usr/lib/jvm/java-22/legal/jdk.crypto.cryptoki:
+total 36K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+348108 -rw-r--r--. 1 root root 3.9K Feb 19 05:30 pkcs11cryptotoken.md
+348109 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 pkcs11wrapper.md
+
+/usr/lib/jvm/java-22/legal/java.datatransfer:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.desktop:
+total 104K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+347999 -rw-r--r--. 1 root root  167 Feb 19 05:30 colorimaging.md
+348000 -rw-r--r--. 1 root root  30K Feb 19 05:30 freetype.md
+348001 -rw-r--r--. 1 root root 1.3K Feb 19 05:30 giflib.md
+348002 -rw-r--r--. 1 root root 3.6K Feb 19 05:30 harfbuzz.md
+348003 -rw-r--r--. 1 root root 3.4K Feb 19 05:30 jpeg.md
+348004 -rw-r--r--. 1 root root 2.6K Feb 19 05:30 lcms.md
+348005 -rw-r--r--. 1 root root 6.9K Feb 19 05:30 libpng.md
+348006 -rw-r--r--. 1 root root 5.6K Feb 19 05:30 mesa3d.md
+348007 -rw-r--r--. 1 root root 1.4K Feb 19 05:30 pipewire.md
+348008 -rw-r--r--. 1 root root 1.4K Feb 19 05:30 xwd.md
+
+/usr/lib/jvm/java-22/legal/jdk.unsupported.desktop:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.naming.dns:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.xml.dom:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.dynalink:
+total 32K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+348118 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 dynalink.md
+
+/usr/lib/jvm/java-22/legal/jdk.crypto.ec:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.internal.ed:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.editpad:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.net.http:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.httpserver:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.instrument:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jartool:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.javadoc:
+total 36K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+348173 -rw-r--r--. 1 root root 2.9K Feb 19 05:30 jquery.md
+348174 -rw-r--r--. 1 root root 1.9K Feb 19 05:30 jqueryUI.md
+
+/usr/lib/jvm/java-22/legal/jdk.jcmd:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jconsole:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jdeps:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jdi:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jfr:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.management.jfr:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.security.jgss:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.security.jgss:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jlink:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jpackage:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jshell:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jsobject:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.jstatd:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.internal.jvmstat:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.internal.le:
+total 32K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+348155 -rw-r--r--. 1 root root 1.6K Feb 19 05:30 jline.md
+
+/usr/lib/jvm/java-22/legal/jdk.localedata:
+total 36K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+347982 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 cldr.md
+348224 -rw-r--r--. 1 root root 1.4K Feb 19 05:30 thaidict.md
+
+/usr/lib/jvm/java-22/legal/java.logging:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.management:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.graal.compiler.management:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.management:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.nio.mapmode:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.naming:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.net:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.internal.opt:
+total 32K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+348160 -rw-r--r--. 1 root root 1.1K Feb 19 05:30 jopt-simple.md
+
+/usr/lib/jvm/java-22/legal/java.prefs:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.random:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.management.rmi:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.rmi:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.naming.rmi:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.sql.rowset:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.security.sasl:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.scripting:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.sctp:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.se:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.smartcardio:
+total 32K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+348061 -rw-r--r--. 1 root root 2.2K Feb 19 05:30 pcsclite.md
+
+/usr/lib/jvm/java-22/legal/java.sql:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.unsupported:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/jdk.incubator.vector:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.transaction.xa:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/legal/java.xml:
+total 76K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+348083 -rw-r--r--. 1 root root  11K Feb 19 05:30 bcel.md
+348084 -rw-r--r--. 1 root root 3.7K Feb 19 05:30 dom.md
+348085 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 jcup.md
+348086 -rw-r--r--. 1 root root  14K Feb 19 05:30 xalan.md
+348087 -rw-r--r--. 1 root root  12K Feb 19 05:30 xerces.md
+
+/usr/lib/jvm/java-22/legal/jdk.zipfs:
+total 28K
+347976 -rw-r--r--. 1 root root 2.1K Feb 19 05:30 ADDITIONAL_LICENSE_INFO
+347977 -rw-r--r--. 1 root root 1.5K Feb 19 05:30 ASSEMBLY_EXCEPTION
+347978 -rw-r--r--. 1 root root  19K Feb 19 05:30 LICENSE
+
+/usr/lib/jvm/java-22/lib:
+total 159M
+348286 -rw-r--r--. 1 root root  78K Feb 19 05:30 classlist
+348287 -rwxr-xr-x. 1 root root  18K Feb 19 05:30 jexec*
+348288 drwxr-xr-x. 1 root root   44 Mar 22 12:54 jfr/
+348292 -rwxr-xr-x. 1 root root  24K Feb 19 05:30 jspawnhelper*
+348330 -rw-r--r--. 1 root root 140M Feb 19 05:30 modules
+ 13349 drwxr-xr-x. 1 root root  144 Mar 22 12:54 security/
+348334 drwxr-xr-x. 1 root root   98 Mar 22 12:54 server/
+348293 -rw-r--r--. 1 root root   29 Feb 19 05:30 jvm.cfg
+160100 -rw-r--r--. 1 root root 102K Feb  6 05:30 tzdb.dat
+348331 -rw-r--r--. 1 root root 3.8K Feb 19 05:30 psfont.properties.ja
+348291 -rw-r--r--. 1 root root 108K Feb 19 05:30 jrt-fs.jar
+348332 -rw-r--r--. 1 root root  12K Feb 19 05:30 psfontj2d.properties
+348294 -rwxr-xr-x. 1 root root  18K Feb 19 05:30 libattach.so*
+348296 -rwxr-xr-x. 1 root root  60K Feb 19 05:30 libawt_headless.so*
+348295 -rwxr-xr-x. 1 root root 915K Feb 19 05:30 libawt.so*
+349741 -rwxr-xr-x. 1 root root 598K Feb 19 05:30 libawt_xawt.so*
+348297 -rwxr-xr-x. 1 root root  41K Feb 19 05:30 libdt_socket.so*
+348298 -rwxr-xr-x. 1 root root  18K Feb 19 05:30 libextnet.so*
+348299 -rwxr-xr-x. 1 root root 1.8M Feb 19 05:30 libfontmanager.so*
+348300 -rwxr-xr-x. 1 root root 798K Feb 19 05:30 libfreetype.so*
+348301 -rwxr-xr-x. 1 root root  64K Feb 19 05:30 libinstrument.so*
+348302 -rwxr-xr-x. 1 root root  56K Feb 19 05:30 libj2gss.so*
+348303 -rwxr-xr-x. 1 root root  23K Feb 19 05:30 libj2pcsc.so*
+348304 -rwxr-xr-x. 1 root root 104K Feb 19 05:30 libj2pkcs11.so*
+348305 -rwxr-xr-x. 1 root root  17K Feb 19 05:30 libjaas.so*
+348307 -rwxr-xr-x. 1 root root 257K Feb 19 05:30 libjavajpeg.so*
+348306 -rwxr-xr-x. 1 root root 209K Feb 19 05:30 libjava.so*
+349742 -rwxr-xr-x. 1 root root  16K Feb 19 05:30 libjawt.so*
+348308 -rwxr-xr-x. 1 root root 325K Feb 19 05:30 libjdwp.so*
+348309 -rwxr-xr-x. 1 root root 160K Feb 19 05:30 libjimage.so*
+348310 -rwxr-xr-x. 1 root root 125K Feb 19 05:30 libjli.so*
+348311 -rwxr-xr-x. 1 root root  18K Feb 19 05:30 libjsig.so*
+348312 -rwxr-xr-x. 1 root root  94K Feb 19 05:30 libjsound.so*
+348313 -rwxr-xr-x. 1 root root 855K Feb 19 05:30 libjsvml.so*
+348314 -rwxr-xr-x. 1 root root 524K Feb 19 05:30 liblcms.so*
+348315 -rwxr-xr-x. 1 root root 140K Feb 19 05:30 lible.so*
+348317 -rwxr-xr-x. 1 root root  17K Feb 19 05:30 libmanagement_agent.so*
+348318 -rwxr-xr-x. 1 root root  41K Feb 19 05:30 libmanagement_ext.so*
+348316 -rwxr-xr-x. 1 root root  30K Feb 19 05:30 libmanagement.so*
+348319 -rwxr-xr-x. 1 root root 620K Feb 19 05:30 libmlib_image.so*
+348320 -rwxr-xr-x. 1 root root  71K Feb 19 05:30 libnet.so*
+348321 -rwxr-xr-x. 1 root root 123K Feb 19 05:30 libnio.so*
+348322 -rwxr-xr-x. 1 root root  17K Feb 19 05:30 libprefs.so*
+348323 -rwxr-xr-x. 1 root root  16K Feb 19 05:30 librmi.so*
+348324 -rwxr-xr-x. 1 root root 200K Feb 19 05:30 libsaproc.so*
+348325 -rwxr-xr-x. 1 root root  37K Feb 19 05:30 libsctp.so*
+348326 -rwxr-xr-x. 1 root root  97K Feb 19 05:30 libsimdsort.so*
+349743 -rwxr-xr-x. 1 root root 498K Feb 19 05:30 libsplashscreen.so*
+348327 -rwxr-xr-x. 1 root root  16K Feb 19 05:30 libsyslookup.so*
+348328 -rwxr-xr-x. 1 root root  64K Feb 19 05:30 libverify.so*
+348329 -rwxr-xr-x. 1 root root 135K Feb 19 05:30 libzip.so*
+402032 -rw-r--r--. 1 root root 9.5M Feb 19 05:30 ct.sym
+348340 -rw-r--r--. 1 root root 102K Feb 19 05:30 tzdb.dat.upstream
+
+/usr/lib/jvm/java-22/lib/jfr:
+total 80K
+348289 -rw-r--r--. 1 root root 38K Feb 19 05:30 default.jfc
+348290 -rw-r--r--. 1 root root 38K Feb 19 05:30 profile.jfc
+
+/usr/lib/jvm/java-22/lib/security:
+total 528K
+ 2416 -r--r--r--. 1 root root 159K Nov  1 06:39 cacerts
+13350 -rw-r--r--. 1 root root 2.5K Feb 19 05:30 blocked.certs
+13354 -rw-r--r--. 1 root root 224K Feb 19 05:30 public_suffix_list.dat
+13353 -rw-r--r--. 1 root root 9.1K Feb 19 05:30 default.policy
+13352 -rw-r--r--. 1 root root 127K Feb 19 05:30 cacerts.upstream
+
+/usr/lib/jvm/java-22/lib/server:
+total 55M
+348335 -r--r--r--. 1 root root 14M Feb 19 05:30 classes.jsa
+348336 -r--r--r--. 1 root root 15M Feb 19 05:30 classes_nocoops.jsa
+348337 -rwxr-xr-x. 1 root root 18K Feb 19 05:30 libjsig.so*
+348338 -rwxr-xr-x. 1 root root 27M Feb 19 05:30 libjvm.so*
+
+/usr/lib/jvm/java-22/tapset:
+total 272K
+402034 -rw-r--r--. 1 root root  18K Feb 19 05:30 hotspot-22.0.0.0.36-1.rolling.fc39.x86_64.stp
+402035 -rw-r--r--. 1 root root  16K Feb 19 05:30 hotspot_gc-22.0.0.0.36-1.rolling.fc39.x86_64.stp
+402036 -rw-r--r--. 1 root root 209K Feb 19 05:30 hotspot_jni-22.0.0.0.36-1.rolling.fc39.x86_64.stp
+402037 -rw-r--r--. 1 root root  21K Feb 19 05:30 jstack-22.0.0.0.36-1.rolling.fc39.x86_64.stp
