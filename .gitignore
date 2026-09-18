@@ -1,0 +1,4 @@
+# Ignore files with extension `*.zip' in the
+# `/Resources/' directory anywhere in the
+# repository
+**/Resources/*.zip
