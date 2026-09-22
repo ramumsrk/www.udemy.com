@@ -1,0 +1,1 @@
+# [HashiCorp Certified: Terraform Associate (004)](https://www.udemy.com/open-badges/2127408178)
